@@ -44,7 +44,7 @@ sources:
 2. **顺着链接往下走** —— 想弄懂「为什么」，跟着条目底部的入口去对应的站。
 3. **近义词会比一比** —— 容易混的两个词会并排说明区别。
 
-## 现在到哪一步
+## 词条什么时候能查到
 
 词条正在陆续上线：先补的是各站正文里**最常被引用到的那批词**，然后是每站的专用名词。
 在词条补齐之前，本站会保持现在这个说明页。
@@ -83,7 +83,7 @@ the bottom of the entry points you to the station that covers it properly.
 2. **Follow the link down** — for the "why", take the link at the bottom of the entry.
 3. **Compare near-synonyms** — confusable pairs are explained side by side.
 
-## Where it stands today
+## When the entries arrive
 
 Entries are being added over time: first the words most often referenced by the other
 stations, then each station's specialised vocabulary. Until they are in place, this page
