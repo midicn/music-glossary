@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Pizzicato** is playing a string instrument **by plucking with the fingers instead of bowing**, marked pizz., with arco to return to the bow. It turns the strings from a sustained sound into a decaying point — drier, shorter, more grained.
 
-It is not "just a pluck": where the finger plucks, how soft it is, and how far from the bridge all change the colour. **In the orchestra pizzicato usually does one of two jobs** — a light accompaniment under a melody, or a sudden moment of suspense (the "Tortoise" in *The Carnival of the Animals*, say). In jazz, the plucked double bass has become a voice of its own.
+It is not "just a pluck": where the finger plucks, how soft it is, and how far from the bridge all change the colour. **In the orchestra pizzicato usually does one of two jobs** — a light accompaniment under a melody, or a sudden moment of suspense (the "Tortoise" in **The Carnival of the Animals**, say). In jazz, the plucked double bass has become a voice of its own.
 
 Read deeper → [[concept:articulation]]
 :::
