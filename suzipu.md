@@ -16,7 +16,7 @@ links:
   - "[[glossary:jianzipu]]"
   - "[[glossary:qupai]]"
 sources:
-  - 俗字谱的谱字与使用场合，参《中国音乐词典》与 Grove "China"；本文为原创表述
+  - 俗字谱的谱字与使用场合，参《中国音乐词典》与 Grove "China"
 updated: 2026-10-28
 ---
 

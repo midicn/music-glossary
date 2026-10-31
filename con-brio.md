@@ -16,7 +16,7 @@ links:
   - "[[glossary:energico]]"
   - "[[glossary:agitato]]"
 sources:
-  - con brio 的用法与词源，参 The New Grove Dictionary of Music and Musicians, "Brio"；本文为原创表述
+  - con brio 的用法与词源，参 The New Grove Dictionary of Music and Musicians, "Brio"
 updated: 2026-10-28
 ---
 

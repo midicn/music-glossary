@@ -16,7 +16,7 @@ links:
   - "[[glossary:motet]]"
   - "[[glossary:opera]]"
 sources:
-  - 牧歌的体裁与「词画」手法，参 The New Grove Dictionary of Music and Musicians, "Madrigal"；本文为原创表述
+  - 牧歌的体裁与「词画」手法，参 The New Grove Dictionary of Music and Musicians, "Madrigal"
 updated: 2026-10-28
 ---
 

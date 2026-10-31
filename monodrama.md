@@ -15,7 +15,7 @@ links:
   - "[[glossary:aria]]"
   - "[[glossary:melodrama]]"
 sources:
-  - 独角音乐剧的独唱者配置与勋伯格、普朗克作品，参 The New Grove Dictionary of Music and Musicians, "Monodrama"；本文为原创表述
+  - 独角音乐剧的独唱者配置与勋伯格、普朗克作品，参 The New Grove Dictionary of Music and Musicians, "Monodrama"
 updated: 2026-10-28
 ---
 

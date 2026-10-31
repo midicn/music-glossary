@@ -15,7 +15,7 @@ links:
   - "[[glossary:rhythm]]"
   - "[[glossary:cadence]]"
 sources:
-  - 定义与分析用法参 The New Grove Dictionary of Music and Musicians, "Harmonic rhythm"；本文为原创表述
+  - 定义与分析用法参 The New Grove Dictionary of Music and Musicians, "Harmonic rhythm"
 updated: 2026-10-28
 ---
 

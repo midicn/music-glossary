@@ -15,7 +15,7 @@ links:
   - "[[glossary:chord]]"
   - "[[glossary:key]]"
 sources:
-  - 定义与借用和弦的用法参 The New Grove Dictionary of Music and Musicians, "Modal mixture"；本文为原创表述
+  - 定义与借用和弦的用法参 The New Grove Dictionary of Music and Musicians, "Modal mixture"
 updated: 2026-10-28
 ---
 

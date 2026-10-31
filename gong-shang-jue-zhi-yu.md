@@ -16,7 +16,7 @@ links:
   - "[[glossary:gongchepu]]"
   - "[[glossary:scale]]"
 sources:
-  - 五声阶名的相对音高性质与旋宫转调，参 The New Grove Dictionary of Music and Musicians, "China" 与《中国音乐词典》相关条目；本文为原创表述
+  - 五声阶名的相对音高性质与旋宫转调，参 The New Grove Dictionary of Music and Musicians, "China" 与《中国音乐词典》相关条目
 updated: 2026-10-28
 ---
 

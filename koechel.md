@@ -16,7 +16,7 @@ links:
   - "[[glossary:bwv]]"
   - "[[glossary:hoboken]]"
 sources:
-  - 莫扎特 K. 编号及其修订史，参 The New Grove Dictionary of Music and Musicians, "Köchel, Ludwig von" 与 "Mozart"；目录本体参 Köchel, Chronologisch-thematisches Verzeichnis（1862）；本文为原创表述
+  - 莫扎特 K. 编号及其修订史，参 The New Grove Dictionary of Music and Musicians, "Köchel, Ludwig von" 与 "Mozart"；目录本体参 Köchel, Chronologisch-thematisches Verzeichnis（1862）
 updated: 2026-10-28
 ---
 

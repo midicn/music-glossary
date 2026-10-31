@@ -16,7 +16,7 @@ links:
   - "[[glossary:col-legno]]"
   - "[[glossary:tremolo]]"
 sources:
-  - sul ponticello 的弓位与音色，参 The New Grove Dictionary of Music and Musicians, "Sul ponticello"；本文为原创表述
+  - sul ponticello 的弓位与音色，参 The New Grove Dictionary of Music and Musicians, "Sul ponticello"
 updated: 2026-10-28
 ---
 

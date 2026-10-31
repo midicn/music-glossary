@@ -15,7 +15,7 @@ links:
   - "[[glossary:revue]]"
   - "[[glossary:operetta]]"
 sources:
-  - 滑稽歌舞秀的戏仿传统、英国巡演与美国脱衣舞转向，参 The New Grove Dictionary of Music and Musicians, "Burlesque"；本文为原创表述
+  - 滑稽歌舞秀的戏仿传统、英国巡演与美国脱衣舞转向，参 The New Grove Dictionary of Music and Musicians, "Burlesque"
 updated: 2026-10-28
 ---
 

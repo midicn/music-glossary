@@ -16,7 +16,7 @@ links:
   - "[[glossary:dynamics]]"
   - "[[glossary:piano-dynamic]]"
 sources:
-  - diminuendo 的记谱与演奏，参 The New Grove Dictionary of Music and Musicians, "Dynamics"；本文为原创表述
+  - diminuendo 的记谱与演奏，参 The New Grove Dictionary of Music and Musicians, "Dynamics"
 updated: 2026-10-28
 ---
 

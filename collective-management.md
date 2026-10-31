@@ -15,7 +15,7 @@ links:
   - "[[glossary:royalty]]"
   - "[[glossary:neighboring-rights]]"
 sources:
-  - 集体管理组织的许可与分配机制，参通行音乐产业教材；本文为通识说明，不构成法律意见
+  - 集体管理组织的许可与分配机制，参通行音乐产业教材；不构成法律意见
 updated: 2026-10-28
 ---
 

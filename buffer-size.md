@@ -16,7 +16,7 @@ links:
   - "[[glossary:daw]]"
   - "[[glossary:sample-rate]]"
 sources:
-  - 缓冲区与延迟的换算，参 Huber & Runstein, Modern Recording Techniques 与通行音频接口说明；本文为原创表述
+  - 缓冲区与延迟的换算，参 Huber & Runstein, Modern Recording Techniques 与通行音频接口说明
 updated: 2026-10-28
 ---
 

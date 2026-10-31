@@ -15,7 +15,7 @@ links:
   - "[[glossary:guqin]]"
   - "[[glossary:dapu]]"
 sources:
-  - 减字谱的构成、曹柔旧说与记指法不记节奏的特点，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 减字谱的构成、曹柔旧说与记指法不记节奏的特点，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

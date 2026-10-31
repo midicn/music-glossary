@@ -14,7 +14,7 @@ links:
   - "[[glossary:opus]]"
   - "[[glossary:woo]]"
 sources:
-  - Op. posth. 的出版性质与肖邦遗作号，参 The New Grove Dictionary of Music and Musicians, "Opus" 与 "Chopin, Fryderyk Franciszek"；本文为原创表述
+  - Op. posth. 的出版性质与肖邦遗作号，参 The New Grove Dictionary of Music and Musicians, "Opus" 与 "Chopin, Fryderyk Franciszek"
 updated: 2026-10-28
 ---
 

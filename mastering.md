@@ -16,7 +16,7 @@ links:
   - "[[glossary:dither]]"
   - "[[glossary:stems]]"
 sources:
-  - 母带工序与响度，参 Bob Katz, Mastering Audio 与通行母带教材；本文为原创表述
+  - 母带工序与响度，参 Bob Katz, Mastering Audio 与通行母带教材
 updated: 2026-10-28
 ---
 

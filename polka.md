@@ -16,7 +16,7 @@ links:
   - "[[glossary:galop]]"
   - "[[glossary:march]]"
 sources:
-  - 波尔卡的来源与节奏特征，参 The New Grove Dictionary of Music and Musicians, "Polka"；本文为原创表述
+  - 波尔卡的来源与节奏特征，参 The New Grove Dictionary of Music and Musicians, "Polka"
 updated: 2026-10-28
 ---
 

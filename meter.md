@@ -16,7 +16,7 @@ links:
   - "[[concept:simple-compound-meter]]"
   - "[[glossary:dynamics]]"
 sources:
-  - 拍号上下数字的含义与单拍子/复拍子的分组为通行乐理（参 The New Grove Dictionary of Music and Musicians, "Metre"）；本文为原创表述
+  - 拍号上下数字的含义与单拍子/复拍子的分组为通行乐理（参 The New Grove Dictionary of Music and Musicians, "Metre"）
 updated: 2026-10-28
 ---
 

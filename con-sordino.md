@@ -15,7 +15,7 @@ links:
   - "[[glossary:mute]]"
   - "[[glossary:sul-tasto]]"
 sources:
-  - con sordino 的用法与音色变化，参 The New Grove Dictionary of Music and Musicians, "Mute"；本文为原创表述
+  - con sordino 的用法与音色变化，参 The New Grove Dictionary of Music and Musicians, "Mute"
 updated: 2026-10-28
 ---
 

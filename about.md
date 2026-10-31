@@ -86,6 +86,5 @@ the bottom of the entry points you to the station that covers it properly.
 ## When the entries arrive
 
 Entries are being added over time: first the words most often referenced by the other
-stations, then each station's specialised vocabulary. Until they are in place, this page
-is what you will find here.
+stations, then each station's specialised vocabulary. Until they arrive, the entries here are the place to start.
 :::

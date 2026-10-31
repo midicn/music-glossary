@@ -16,7 +16,7 @@ links:
   - "[[glossary:appoggiatura]]"
   - "[[glossary:non-chord-tone]]"
 sources:
-  - 强拍经过音的用法，参 The New Grove Dictionary of Music and Musicians, "Non-chord tone"；本文为原创表述
+  - 强拍经过音的用法，参 The New Grove Dictionary of Music and Musicians, "Non-chord tone"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[concept:chromatic-harmony]]"
   - "[[glossary:modulation]]"
 sources:
-  - 半音体系的历史与功能，参 The New Grove Dictionary of Music and Musicians, "Chromaticism"；本文为原创表述
+  - 半音体系的历史与功能，参 The New Grove Dictionary of Music and Musicians, "Chromaticism"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:open-position]]"
   - "[[glossary:chord]]"
 sources:
-  - 密集排列与开放排列的对比，参 The New Grove Dictionary of Music and Musicians, "Voicing"；本文为原创表述
+  - 密集排列与开放排列的对比，参 The New Grove Dictionary of Music and Musicians, "Voicing"
 updated: 2026-10-28
 ---
 

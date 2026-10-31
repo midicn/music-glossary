@@ -16,7 +16,7 @@ links:
   - "[[glossary:sonata]]"
   - "[[glossary:symphony]]"
 sources:
-  - 弦乐四重奏的编制、海顿的奠基与四声部写作传统，参 The New Grove Dictionary of Music and Musicians, "String quartet"；本文为原创表述
+  - 弦乐四重奏的编制、海顿的奠基与四声部写作传统，参 The New Grove Dictionary of Music and Musicians, "String quartet"
 updated: 2026-10-28
 ---
 

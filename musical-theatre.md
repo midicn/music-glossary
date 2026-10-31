@@ -15,7 +15,7 @@ links:
   - "[[glossary:opera]]"
   - "[[glossary:incidental-music]]"
 sources:
-  - 音乐剧的歌舞整合、扩声美学与二十世纪代表作品，参 The New Grove Dictionary of Music and Musicians, "Musical theatre"；本文为原创表述
+  - 音乐剧的歌舞整合、扩声美学与二十世纪代表作品，参 The New Grove Dictionary of Music and Musicians, "Musical theatre"
 updated: 2026-10-28
 ---
 

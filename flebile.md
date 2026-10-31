@@ -15,7 +15,7 @@ links:
   - "[[glossary:mesto]]"
   - "[[glossary:dolce]]"
 sources:
-  - 术语的释义与用法，参 The New Grove Dictionary of Music and Musicians（Oxford Music Online）相关条目；本文为原创表述
+  - 术语的释义与用法，参 The New Grove Dictionary of Music and Musicians（Oxford Music Online）相关条目
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:operetta]]"
   - "[[glossary:singspiel]]"
 sources:
-  - 萨苏埃拉的宫廷起源、大小两种形态与民族舞曲，参 The New Grove Dictionary of Music and Musicians, "Zarzuela"；本文为原创表述
+  - 萨苏埃拉的宫廷起源、大小两种形态与民族舞曲，参 The New Grove Dictionary of Music and Musicians, "Zarzuela"
 updated: 2026-10-28
 ---
 

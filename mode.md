@@ -16,7 +16,7 @@ links:
   - "[[concept:dorian]]"
   - "[[glossary:tonality]]"
 sources:
-  - 教会调式与大小调的关系为通行乐理（参 The New Grove Dictionary of Music and Musicians, "Mode"）；raga 与 maqam 的规则性见 Grove 相应条目；本文为原创表述
+  - 教会调式与大小调的关系为通行乐理（参 The New Grove Dictionary of Music and Musicians, "Mode"）；raga 与 maqam 的规则性见 Grove 相应条目
 updated: 2026-10-28
 ---
 

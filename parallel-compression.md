@@ -15,7 +15,7 @@ links:
   - "[[glossary:send]]"
   - "[[glossary:bus]]"
 sources:
-  - 平行压缩的用法与混合比例，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 平行压缩的用法与混合比例，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

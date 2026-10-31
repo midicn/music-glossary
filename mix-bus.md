@@ -15,7 +15,7 @@ links:
   - "[[glossary:compressor]]"
   - "[[glossary:mixdown]]"
 sources:
-  - 混音总线的处理与余量，参 Bob Katz, Mastering Audio 与 Bobby Owsinski, The Mixing Engineer's Handbook；本文为原创表述
+  - 混音总线的处理与余量，参 Bob Katz, Mastering Audio 与 Bobby Owsinski, The Mixing Engineer's Handbook
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:lyric-opera]]"
   - "[[glossary:opera-seria]]"
 sources:
-  - 意大利真实主义的文学渊源、代表作品与声乐风格，参 The New Grove Dictionary of Music and Musicians, "Verismo"；本文为原创表述
+  - 意大利真实主义的文学渊源、代表作品与声乐风格，参 The New Grove Dictionary of Music and Musicians, "Verismo"
 updated: 2026-10-28
 ---
 

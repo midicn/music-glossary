@@ -16,7 +16,7 @@ links:
   - "[[glossary:faqu]]"
   - "[[glossary:qupai]]"
 sources:
-  - 大曲的结构与唐宋音乐制度，参《中国音乐词典》与 Grove "China"；本文为原创表述
+  - 大曲的结构与唐宋音乐制度，参《中国音乐词典》与 Grove "China"
 updated: 2026-10-28
 ---
 

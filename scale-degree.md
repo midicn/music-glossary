@@ -16,7 +16,7 @@ links:
   - "[[glossary:scale]]"
   - "[[concept:harmonic-function]]"
 sources:
-  - 音级的编号与功能名称，参 The New Grove Dictionary of Music and Musicians, "Scale degree"；本文为原创表述
+  - 音级的编号与功能名称，参 The New Grove Dictionary of Music and Musicians, "Scale degree"
 updated: 2026-10-28
 ---
 

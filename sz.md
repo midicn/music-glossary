@@ -16,7 +16,7 @@ links:
   - "[[glossary:opus]]"
   - "[[glossary:bwv]]"
 sources:
-  - Sz. 编号的来源与使用，参 The New Grove Dictionary of Music and Musicians, "Bartók"；本文为原创表述
+  - Sz. 编号的来源与使用，参 The New Grove Dictionary of Music and Musicians, "Bartók"
 updated: 2026-10-28
 ---
 

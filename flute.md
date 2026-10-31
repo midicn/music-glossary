@@ -16,7 +16,7 @@ links:
   - "[[instrument:recorder]]"
   - "[[glossary:violin]]"
 sources:
-  - 各语种乐器名与 flute 的词源，参 The New Grove Dictionary of Music and Musicians, "Flute"；本文为原创表述
+  - 各语种乐器名与 flute 的词源，参 The New Grove Dictionary of Music and Musicians, "Flute"
 updated: 2026-10-28
 ---
 

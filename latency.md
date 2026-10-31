@@ -16,7 +16,7 @@ links:
   - "[[glossary:daw]]"
   - "[[glossary:plugin]]"
 sources:
-  - 监听延迟与往返延迟，参 Huber & Runstein, Modern Recording Techniques 与通行音频接口文档；本文为原创表述
+  - 监听延迟与往返延迟，参 Huber & Runstein, Modern Recording Techniques 与通行音频接口文档
 updated: 2026-10-28
 ---
 

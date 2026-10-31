@@ -16,7 +16,7 @@ links:
   - "[[glossary:snare-drum]]"
   - "[[glossary:timpani]]"
 sources:
-  - 各语种乐器名与管弦大鼓的形制，参 The New Grove Dictionary of Music and Musicians, "Bass drum"；本文为原创表述
+  - 各语种乐器名与管弦大鼓的形制，参 The New Grove Dictionary of Music and Musicians, "Bass drum"
 updated: 2026-10-28
 ---
 

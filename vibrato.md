@@ -16,7 +16,7 @@ links:
   - "[[glossary:tremolo]]"
   - "[[concept:timbre]]"
 sources:
-  - vibrato 的声学性质与历史用法，参 The New Grove Dictionary of Music and Musicians, "Vibrato"；本文为原创表述
+  - vibrato 的声学性质与历史用法，参 The New Grove Dictionary of Music and Musicians, "Vibrato"
 updated: 2026-10-28
 ---
 

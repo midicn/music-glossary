@@ -15,7 +15,7 @@ links:
   - "[[glossary:harpsichord]]"
   - "[[glossary:cello]]"
 sources:
-  - 通奏低音的编制与历史用法，参 The New Grove Dictionary of Music and Musicians, "Continuo"；本文为原创表述
+  - 通奏低音的编制与历史用法，参 The New Grove Dictionary of Music and Musicians, "Continuo"
 updated: 2026-10-28
 ---
 

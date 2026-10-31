@@ -16,7 +16,7 @@ links:
   - "[[glossary:modulation]]"
   - "[[glossary:secondary-dominant]]"
 sources:
-  - 主音化与转调的边界，参 The New Grove Dictionary of Music and Musicians, "Tonicization"；本文为原创表述
+  - 主音化与转调的边界，参 The New Grove Dictionary of Music and Musicians, "Tonicization"
 updated: 2026-10-28
 ---
 

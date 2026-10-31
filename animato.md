@@ -16,7 +16,7 @@ links:
   - "[[glossary:giocoso]]"
   - "[[glossary:tempo]]"
 sources:
-  - animato 的表情含义与速度用法，参 The New Grove Dictionary of Music and Musicians, "Animato"；本文为原创表述
+  - animato 的表情含义与速度用法，参 The New Grove Dictionary of Music and Musicians, "Animato"
 updated: 2026-10-28
 ---
 

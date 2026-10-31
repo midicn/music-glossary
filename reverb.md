@@ -16,7 +16,7 @@ links:
   - "[[glossary:eq]]"
   - "[[glossary:bus]]"
 sources:
-  - 混响算法与参数，参通行录音教材（Huber & Runstein, Modern Recording Techniques）；本文为原创表述
+  - 混响算法与参数，参通行录音教材（Huber & Runstein, Modern Recording Techniques）
 updated: 2026-10-28
 ---
 

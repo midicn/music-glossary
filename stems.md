@@ -16,7 +16,7 @@ links:
   - "[[glossary:compressor]]"
   - "[[glossary:lufs]]"
 sources:
-  - stems 的交付规范与用途，参通行录音教材与影视/游戏音频交付惯例；本文为原创表述
+  - stems 的交付规范与用途，参通行录音教材与影视/游戏音频交付惯例
 updated: 2026-10-28
 ---
 

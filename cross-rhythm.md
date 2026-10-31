@@ -15,7 +15,7 @@ links:
   - "[[glossary:meter]]"
   - "[[glossary:syncopation]]"
 sources:
-  - 定义、分组与实例参 The New Grove Dictionary of Music and Musicians, "Cross-rhythm"；本文为原创表述
+  - 定义、分组与实例参 The New Grove Dictionary of Music and Musicians, "Cross-rhythm"
 updated: 2026-10-28
 ---
 

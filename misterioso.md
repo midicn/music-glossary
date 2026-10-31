@@ -16,7 +16,7 @@ links:
   - "[[glossary:espressivo]]"
   - "[[glossary:leggiero]]"
 sources:
-  - misterioso 的表情含义与词源，参 The New Grove Dictionary of Music and Musicians, "Misterioso"；本文为原创表述
+  - misterioso 的表情含义与词源，参 The New Grove Dictionary of Music and Musicians, "Misterioso"
 updated: 2026-10-28
 ---
 

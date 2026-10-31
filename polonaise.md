@@ -16,7 +16,7 @@ links:
   - "[[glossary:waltz]]"
   - "[[glossary:march]]"
 sources:
-  - 波罗乃兹的仪式性、三拍子与肖邦的用法，参 The New Grove Dictionary of Music and Musicians, "Polonaise"；本文为原创表述
+  - 波罗乃兹的仪式性、三拍子与肖邦的用法，参 The New Grove Dictionary of Music and Musicians, "Polonaise"
 updated: 2026-10-28
 ---
 

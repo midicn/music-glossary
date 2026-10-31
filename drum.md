@@ -16,7 +16,7 @@ links:
   - "[[instrument:snare-drum]]"
   - "[[instrument:bass-drum]]"
 sources:
-  - 各语种乐器名与 drum 的泛指性质，参 The New Grove Dictionary of Music and Musicians, "Drum"；本文为原创表述
+  - 各语种乐器名与 drum 的泛指性质，参 The New Grove Dictionary of Music and Musicians, "Drum"
 updated: 2026-10-28
 ---
 

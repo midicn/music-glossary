@@ -16,7 +16,7 @@ links:
   - "[[glossary:yayue]]"
   - "[[glossary:yuefu]]"
 sources:
-  - 法曲的来源与唐宋用法，参《中国音乐词典》与 Grove "China"；本文为原创表述
+  - 法曲的来源与唐宋用法，参《中国音乐词典》与 Grove "China"
 updated: 2026-10-28
 ---
 

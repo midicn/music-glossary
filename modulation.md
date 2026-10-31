@@ -16,7 +16,7 @@ links:
   - "[[glossary:tonicization]]"
   - "[[glossary:key]]"
 sources:
-  - 转调的定义、共同和弦与调性到达，参 The New Grove Dictionary of Music and Musicians, "Modulation"；本文为原创表述
+  - 转调的定义、共同和弦与调性到达，参 The New Grove Dictionary of Music and Musicians, "Modulation"
 updated: 2026-10-28
 ---
 

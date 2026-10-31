@@ -15,7 +15,7 @@ links:
   - "[[glossary:opera-seria]]"
   - "[[glossary:aria]]"
 sources:
-  - 意大利喜歌剧的幕间剧起源、喜剧男低音与幕终重唱，参 The New Grove Dictionary of Music and Musicians, "Opera buffa"；本文为原创表述
+  - 意大利喜歌剧的幕间剧起源、喜剧男低音与幕终重唱，参 The New Grove Dictionary of Music and Musicians, "Opera buffa"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:velocity]]"
   - "[[concept:pitch]]"
 sources:
-  - MIDI 的消息结构、通道与 7 位数值范围，参 MIDI 1.0 Specification（MMA, 1996）与 The New Grove Dictionary of Music and Musicians, "MIDI"；本文为原创表述
+  - MIDI 的消息结构、通道与 7 位数值范围，参 MIDI 1.0 Specification（MMA, 1996）与 The New Grove Dictionary of Music and Musicians, "MIDI"
 updated: 2026-10-28
 ---
 

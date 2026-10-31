@@ -16,7 +16,7 @@ links:
   - "[[concept:concert-pitch]]"
   - "[[glossary:interval]]"
 sources:
-  - 音高与频率、听觉的非线性关系，参 The New Grove Dictionary of Music and Musicians, "Pitch"；本文为原创表述
+  - 音高与频率、听觉的非线性关系，参 The New Grove Dictionary of Music and Musicians, "Pitch"
 updated: 2026-10-28
 ---
 

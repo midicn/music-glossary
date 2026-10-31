@@ -16,7 +16,7 @@ links:
   - "[[glossary:headphone-mix]]"
   - "[[glossary:panning]]"
 sources:
-  - 耳机交叉馈送的原理，参通行录音教材；本文为原创表述
+  - 耳机交叉馈送的原理，参通行录音教材
 updated: 2026-10-28
 ---
 

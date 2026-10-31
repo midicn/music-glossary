@@ -15,7 +15,7 @@ links:
   - "[[glossary:artist-royalty]]"
   - "[[glossary:360-deal]]"
 sources:
-  - 唱片合约与厂牌职能，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；本文为通识说明，不构成法律意见
+  - 唱片合约与厂牌职能，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；不构成法律意见
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:musical-theatre]]"
   - "[[glossary:singspiel]]"
 sources:
-  - 轻歌剧的巴黎与维也纳源流、圆舞曲与歌舞结构，参 The New Grove Dictionary of Music and Musicians, "Operetta"；本文为原创表述
+  - 轻歌剧的巴黎与维也纳源流、圆舞曲与歌舞结构，参 The New Grove Dictionary of Music and Musicians, "Operetta"
 updated: 2026-10-28
 ---
 

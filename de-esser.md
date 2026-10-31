@@ -15,7 +15,7 @@ links:
   - "[[glossary:eq]]"
   - "[[glossary:dynamic-eq]]"
 sources:
-  - 齿音消除的频率范围与分频方式，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 齿音消除的频率范围与分频方式，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

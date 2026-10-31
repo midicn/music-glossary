@@ -16,7 +16,7 @@ links:
   - "[[glossary:room-treatment]]"
   - "[[glossary:mixdown]]"
 sources:
-  - 监听与听音环境，参 Huber & Runstein, Modern Recording Techniques 与 Bobby Owsinski, The Mixing Engineer's Handbook；本文为原创表述
+  - 监听与听音环境，参 Huber & Runstein, Modern Recording Techniques 与 Bobby Owsinski, The Mixing Engineer's Handbook
 updated: 2026-10-28
 ---
 

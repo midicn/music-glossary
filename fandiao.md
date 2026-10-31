@@ -16,7 +16,7 @@ links:
   - "[[glossary:xuangong]]"
   - "[[glossary:qupai]]"
 sources:
-  - 犯调在词乐与戏曲中的用法，参《中国音乐词典》与 Grove "China"；本文为原创表述
+  - 犯调在词乐与戏曲中的用法，参《中国音乐词典》与 Grove "China"
 updated: 2026-10-28
 ---
 

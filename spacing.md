@@ -16,7 +16,7 @@ links:
   - "[[glossary:close-position]]"
   - "[[glossary:open-position]]"
 sources:
-  - 声部间距的通行原则，参 The New Grove Dictionary of Music and Musicians, "Voicing" 与配器教材；本文为原创表述
+  - 声部间距的通行原则，参 The New Grove Dictionary of Music and Musicians, "Voicing" 与配器教材
 updated: 2026-10-28
 ---
 

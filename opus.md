@@ -15,7 +15,7 @@ links:
   - "[[glossary:woo]]"
   - "[[glossary:deutsch]]"
 sources:
-  - Op. 的出版性质与编号惯例，参 The New Grove Dictionary of Music and Musicians, "Opus"；本文为原创表述
+  - Op. 的出版性质与编号惯例，参 The New Grove Dictionary of Music and Musicians, "Opus"
 updated: 2026-10-28
 ---
 

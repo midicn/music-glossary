@@ -15,7 +15,7 @@ links:
   - "[[glossary:chord]]"
   - "[[glossary:chromaticism]]"
 sources:
-  - 半音中音的和弦关系与色彩，参 The New Grove Dictionary of Music and Musicians, "Chromaticism"；本文为原创表述
+  - 半音中音的和弦关系与色彩，参 The New Grove Dictionary of Music and Musicians, "Chromaticism"
 updated: 2026-10-28
 ---
 

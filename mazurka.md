@@ -16,7 +16,7 @@ links:
   - "[[glossary:polonaise]]"
   - "[[glossary:ballade]]"
 sources:
-  - 玛祖卡的节奏特征与肖邦的用法，参 The New Grove Dictionary of Music and Musicians, "Mazurka"；本文为原创表述
+  - 玛祖卡的节奏特征与肖邦的用法，参 The New Grove Dictionary of Music and Musicians, "Mazurka"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:largo]]"
   - "[[concept:timbre]]"
 sources:
-  - grandioso 的表情含义与用法，参 The New Grove Dictionary of Music and Musicians, "Grandioso"；本文为原创表述
+  - grandioso 的表情含义与用法，参 The New Grove Dictionary of Music and Musicians, "Grandioso"
 updated: 2026-10-28
 ---
 

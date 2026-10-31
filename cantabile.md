@@ -16,7 +16,7 @@ links:
   - "[[glossary:legato]]"
   - "[[glossary:rubato]]"
 sources:
-  - cantabile 的表情含义与历史用法，参 The New Grove Dictionary of Music and Musicians, "Cantabile"；本文为原创表述
+  - cantabile 的表情含义与历史用法，参 The New Grove Dictionary of Music and Musicians, "Cantabile"
 updated: 2026-10-28
 ---
 

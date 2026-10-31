@@ -16,7 +16,7 @@ links:
   - "[[glossary:clave]]"
   - "[[glossary:montuno]]"
 sources:
-  - 曼波的来源与纽约大乐队时期，参 The New Grove Dictionary of Music and Musicians, "Mambo"；本文为原创表述
+  - 曼波的来源与纽约大乐队时期，参 The New Grove Dictionary of Music and Musicians, "Mambo"
 updated: 2026-10-28
 ---
 

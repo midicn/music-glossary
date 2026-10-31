@@ -15,7 +15,7 @@ links:
   - "[[glossary:sostenuto]]"
   - "[[glossary:espressivo]]"
 sources:
-  - religioso 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Religioso"；本文为原创表述
+  - religioso 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Religioso"
 updated: 2026-10-28
 ---
 

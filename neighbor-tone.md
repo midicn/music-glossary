@@ -16,7 +16,7 @@ links:
   - "[[glossary:non-chord-tone]]"
   - "[[glossary:mordent]]"
 sources:
-  - 邻音的分类与用法，参 The New Grove Dictionary of Music and Musicians, "Non-chord tone"；本文为原创表述
+  - 邻音的分类与用法，参 The New Grove Dictionary of Music and Musicians, "Non-chord tone"
 updated: 2026-10-28
 ---
 

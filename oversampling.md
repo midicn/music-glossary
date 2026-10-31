@@ -16,7 +16,7 @@ links:
   - "[[glossary:limiter]]"
   - "[[glossary:bit-depth]]"
 sources:
-  - 过采样在非线性处理中的作用，参通行录音教材；本文为原创表述
+  - 过采样在非线性处理中的作用，参通行录音教材
 updated: 2026-10-28
 ---
 

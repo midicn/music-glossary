@@ -16,7 +16,7 @@ links:
   - "[[glossary:cantabile]]"
   - "[[glossary:tempo]]"
 sources:
-  - soave 的表情含义，参 The New Grove Dictionary of Music and Musicians, "Dolce"；本文为原创表述
+  - soave 的表情含义，参 The New Grove Dictionary of Music and Musicians, "Dolce"
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:banqiangti]]"
   - "[[glossary:opera]]"
 sources:
-  - 戏曲作为综合艺术的定义、剧种声腔乐种的区分、曲牌体与板腔体，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 戏曲作为综合艺术的定义、剧种声腔乐种的区分、曲牌体与板腔体，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

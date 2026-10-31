@@ -16,7 +16,7 @@ links:
   - "[[glossary:mastering]]"
   - "[[glossary:lufs]]"
 sources:
-  - 参考曲目的响度匹配，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Bob Katz, Mastering Audio；本文为原创表述
+  - 参考曲目的响度匹配，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Bob Katz, Mastering Audio
 updated: 2026-10-28
 ---
 

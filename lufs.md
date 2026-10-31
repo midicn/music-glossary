@@ -15,7 +15,7 @@ links:
   - "[[glossary:daw]]"
   - "[[glossary:sidechain]]"
 sources:
-  - LUFS 的加权与门限算法，参 ITU-R BS.1770-4（2015）；平台目标值参 EBU R 128 与各平台公开的响度归一化说明；本文为原创表述
+  - LUFS 的加权与门限算法，参 ITU-R BS.1770-4（2015）；平台目标值参 EBU R 128 与各平台公开的响度归一化说明
 updated: 2026-10-28
 ---
 

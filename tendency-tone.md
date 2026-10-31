@@ -15,7 +15,7 @@ links:
   - "[[glossary:resolution]]"
   - "[[glossary:non-chord-tone]]"
 sources:
-  - 倾向音的定义、调内方向与解决方式，参 The New Grove Dictionary of Music and Musicians, "Tendency tone"；本文为原创表述
+  - 倾向音的定义、调内方向与解决方式，参 The New Grove Dictionary of Music and Musicians, "Tendency tone"
 updated: 2026-10-28
 ---
 

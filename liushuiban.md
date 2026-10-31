@@ -15,7 +15,7 @@ links:
   - "[[glossary:xipi]]"
   - "[[glossary:erliu]]"
 sources:
-  - 流水板有板无眼、字多腔少的形态与西皮流水的用法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 流水板有板无眼、字多腔少的形态与西皮流水的用法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

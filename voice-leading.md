@@ -15,7 +15,7 @@ links:
   - "[[glossary:chord]]"
   - "[[glossary:interval]]"
 sources:
-  - 定义、禁则与转位选择参 The New Grove Dictionary of Music and Musicians, "Voice leading"；本文为原创表述
+  - 定义、禁则与转位选择参 The New Grove Dictionary of Music and Musicians, "Voice leading"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:reverb]]"
   - "[[glossary:delay]]"
 sources:
-  - dub 的录音室手法与牙买加传统，参 The New Grove Dictionary of Music and Musicians, "Dub"；本文为原创表述
+  - dub 的录音室手法与牙买加传统，参 The New Grove Dictionary of Music and Musicians, "Dub"
 updated: 2026-10-28
 ---
 

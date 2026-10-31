@@ -16,7 +16,7 @@ links:
   - "[[concept:triad]]"
   - "[[glossary:interval]]"
 sources:
-  - 三度叠置、三和弦四型与转位的定义为通行乐理（参 The New Grove Dictionary of Music and Musicians, "Chord"）；本文为原创表述
+  - 三度叠置、三和弦四型与转位的定义为通行乐理（参 The New Grove Dictionary of Music and Musicians, "Chord"）
 updated: 2026-10-28
 ---
 

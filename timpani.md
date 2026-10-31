@@ -16,7 +16,7 @@ links:
   - "[[glossary:snare-drum]]"
   - "[[glossary:bass-drum]]"
 sources:
-  - 各语种乐器名与定音鼓的定音方式，参 The New Grove Dictionary of Music and Musicians, "Timpani"；本文为原创表述
+  - 各语种乐器名与定音鼓的定音方式，参 The New Grove Dictionary of Music and Musicians, "Timpani"
 updated: 2026-10-28
 ---
 

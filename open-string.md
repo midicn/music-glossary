@@ -16,7 +16,7 @@ links:
   - "[[glossary:pizzicato]]"
   - "[[glossary:legato]]"
 sources:
-  - 空弦的定弦、记谱与音色，参 The New Grove Dictionary of Music and Musicians, "Open string"；本文为原创表述
+  - 空弦的定弦、记谱与音色，参 The New Grove Dictionary of Music and Musicians, "Open string"
 updated: 2026-10-28
 ---
 

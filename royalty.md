@@ -16,7 +16,7 @@ links:
   - "[[glossary:sync-license]]"
   - "[[glossary:publishing-split]]"
 sources:
-  - 音乐版税的类型与结算，参通行音乐产业教材与 The New Grove Dictionary of Music and Musicians, "Royalty"；本文为通识说明，不构成法律意见
+  - 音乐版税的类型与结算，参通行音乐产业教材与 The New Grove Dictionary of Music and Musicians, "Royalty"；不构成法律意见
 updated: 2026-10-28
 ---
 

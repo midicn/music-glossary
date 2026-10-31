@@ -16,7 +16,7 @@ links:
   - "[[concept:timbre]]"
   - "[[instrument:trumpet]]"
 sources:
-  - 各类弱音器的构造与音色效果，参 The New Grove Dictionary of Music and Musicians, "Mute"；本文为原创表述
+  - 各类弱音器的构造与音色效果，参 The New Grove Dictionary of Music and Musicians, "Mute"
 updated: 2026-10-28
 ---
 

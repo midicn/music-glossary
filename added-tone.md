@@ -15,7 +15,7 @@ links:
   - "[[glossary:ninth-chord]]"
   - "[[glossary:suspension]]"
 sources:
-  - 加音和弦与七和弦的区别，参 The New Grove Dictionary of Music and Musicians, "Chord"；本文为原创表述
+  - 加音和弦与七和弦的区别，参 The New Grove Dictionary of Music and Musicians, "Chord"
 updated: 2026-10-28
 ---
 

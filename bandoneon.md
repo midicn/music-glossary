@@ -16,7 +16,7 @@ links:
   - "[[instrument:accordion]]"
   - "[[glossary:harmonium]]"
 sources:
-  - 各语种乐器名与班多钮的构造，参 The New Grove Dictionary of Music and Musicians, "Bandoneon"；本文为原创表述
+  - 各语种乐器名与班多钮的构造，参 The New Grove Dictionary of Music and Musicians, "Bandoneon"
 updated: 2026-10-28
 ---
 

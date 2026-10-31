@@ -16,7 +16,7 @@ links:
   - "[[glossary:madrigal]]"
   - "[[glossary:melody]]"
 sources:
-  - 字画在牧歌与巴洛克声乐中的具体手法，参 The New Grove Dictionary of Music and Musicians, "Word painting"；本文为原创表述
+  - 字画在牧歌与巴洛克声乐中的具体手法，参 The New Grove Dictionary of Music and Musicians, "Word painting"
 updated: 2026-10-28
 ---
 

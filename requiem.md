@@ -15,7 +15,7 @@ links:
   - "[[glossary:mass]]"
   - "[[glossary:oratorio]]"
 sources:
-  - 安魂弥撒的专用经文、末日经与历代作曲家对文本的取舍，参 The New Grove Dictionary of Music and Musicians, "Requiem"；本文为原创表述
+  - 安魂弥撒的专用经文、末日经与历代作曲家对文本的取舍，参 The New Grove Dictionary of Music and Musicians, "Requiem"
 updated: 2026-10-28
 ---
 

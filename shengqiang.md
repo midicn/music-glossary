@@ -15,7 +15,7 @@ links:
   - "[[glossary:jingju]]"
   - "[[glossary:banshi]]"
 sources:
-  - 声腔作为跨剧种唱腔体系的定义、四大声腔与腔调及板式的区别，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 声腔作为跨剧种唱腔体系的定义、四大声腔与腔调及板式的区别，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

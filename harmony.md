@@ -16,7 +16,7 @@ links:
   - "[[concept:harmonic-function]]"
   - "[[glossary:counterpoint]]"
 sources:
-  - 和声作为同时音高关系及其进行的定义，参 The New Grove Dictionary of Music and Musicians, "Harmony"；本文为原创表述
+  - 和声作为同时音高关系及其进行的定义，参 The New Grove Dictionary of Music and Musicians, "Harmony"
 updated: 2026-10-28
 ---
 

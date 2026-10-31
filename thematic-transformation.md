@@ -15,7 +15,7 @@ links:
   - "[[glossary:motivic-development]]"
   - "[[glossary:program-music]]"
 sources:
-  - 主题变形的定义、与变奏的区别及浪漫派用法，参 The New Grove Dictionary of Music and Musicians, "Thematic transformation"；本文为原创表述
+  - 主题变形的定义、与变奏的区别及浪漫派用法，参 The New Grove Dictionary of Music and Musicians, "Thematic transformation"
 updated: 2026-10-28
 ---
 

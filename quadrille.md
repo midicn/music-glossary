@@ -16,7 +16,7 @@ links:
   - "[[glossary:polka]]"
   - "[[glossary:suite]]"
 sources:
-  - 方阵舞的舞厅形式与音乐结构，参 The New Grove Dictionary of Music and Musicians, "Quadrille"；本文为原创表述
+  - 方阵舞的舞厅形式与音乐结构，参 The New Grove Dictionary of Music and Musicians, "Quadrille"
 updated: 2026-10-28
 ---
 

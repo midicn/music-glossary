@@ -15,7 +15,7 @@ links:
   - "[[glossary:cadence]]"
   - "[[glossary:chord]]"
 sources:
-  - 三种类型、构造与解决参 The New Grove Dictionary of Music and Musicians, "Augmented sixth chord"；本文为原创表述
+  - 三种类型、构造与解决参 The New Grove Dictionary of Music and Musicians, "Augmented sixth chord"
 updated: 2026-10-28
 ---
 

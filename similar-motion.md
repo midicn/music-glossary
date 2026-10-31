@@ -16,7 +16,7 @@ links:
   - "[[glossary:parallel-motion]]"
   - "[[glossary:voice-leading]]"
 sources:
-  - 声部进行分类与平行五八度的限制，参 The New Grove Dictionary of Music and Musicians, "Voice leading"；本文为原创表述
+  - 声部进行分类与平行五八度的限制，参 The New Grove Dictionary of Music and Musicians, "Voice leading"
 updated: 2026-10-28
 ---
 

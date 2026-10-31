@@ -15,7 +15,7 @@ links:
   - "[[glossary:part]]"
   - "[[glossary:aria]]"
 sources:
-  - 声乐谱的编制与用途，参 The New Grove Dictionary of Music and Musicians, "Vocal score"；本文为原创表述
+  - 声乐谱的编制与用途，参 The New Grove Dictionary of Music and Musicians, "Vocal score"
 updated: 2026-10-28
 ---
 

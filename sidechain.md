@@ -15,7 +15,7 @@ links:
   - "[[glossary:daw]]"
   - "[[glossary:lufs]]"
 sources:
-  - 侧链压缩的检测路径与常见用法，参 Bobby Owsinski, The Mixing Engineer's Handbook 与通行混音教材；本文为原创表述
+  - 侧链压缩的检测路径与常见用法，参 Bobby Owsinski, The Mixing Engineer's Handbook 与通行混音教材
 updated: 2026-10-28
 ---
 

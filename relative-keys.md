@@ -15,7 +15,7 @@ links:
   - "[[glossary:key-signature]]"
   - "[[glossary:modulation]]"
 sources:
-  - 关系调的定义与转调，参 The New Grove Dictionary of Music and Musicians, "Key"；本文为原创表述
+  - 关系调的定义与转调，参 The New Grove Dictionary of Music and Musicians, "Key"
 updated: 2026-10-28
 ---
 

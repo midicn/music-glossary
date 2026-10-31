@@ -15,7 +15,7 @@ links:
   - "[[glossary:dizi]]"
   - "[[glossary:gongchepu]]"
 sources:
-  - 昆曲的声腔源流、水磨调、曲牌体与笛子主奏，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 昆曲的声腔源流、水磨调、曲牌体与笛子主奏，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

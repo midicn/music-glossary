@@ -16,7 +16,7 @@ links:
   - "[[glossary:marcato]]"
   - "[[glossary:deciso]]"
 sources:
-  - energico 的表情含义与词源，参 The New Grove Dictionary of Music and Musicians, "Energico"；本文为原创表述
+  - energico 的表情含义与词源，参 The New Grove Dictionary of Music and Musicians, "Energico"
 updated: 2026-10-28
 ---
 

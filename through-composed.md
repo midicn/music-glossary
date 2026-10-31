@@ -15,7 +15,7 @@ links:
   - "[[glossary:opera]]"
   - "[[glossary:aria]]"
 sources:
-  - 通谱体的定义、与分节歌的对照及歌曲用法，参 The New Grove Dictionary of Music and Musicians, "Through-composed"；本文为原创表述
+  - 通谱体的定义、与分节歌的对照及歌曲用法，参 The New Grove Dictionary of Music and Musicians, "Through-composed"
 updated: 2026-10-28
 ---
 

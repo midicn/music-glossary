@@ -16,7 +16,7 @@ links:
   - "[[glossary:royalty]]"
   - "[[glossary:publishing-split]]"
 sources:
-  - 回本机制与合同扣项，参通行音乐产业教材；本文为通识说明，不构成法律意见
+  - 回本机制与合同扣项，参通行音乐产业教材；不构成法律意见
 updated: 2026-10-28
 ---
 

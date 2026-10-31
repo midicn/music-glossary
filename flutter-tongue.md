@@ -16,7 +16,7 @@ links:
   - "[[glossary:vibrato]]"
   - "[[instrument:flute]]"
 sources:
-  - 花舌的演奏方式与在长笛/铜管上的用法，参 The New Grove Dictionary of Music and Musicians, "Flutter-tonguing"；本文为原创表述
+  - 花舌的演奏方式与在长笛/铜管上的用法，参 The New Grove Dictionary of Music and Musicians, "Flutter-tonguing"
 updated: 2026-10-28
 ---
 

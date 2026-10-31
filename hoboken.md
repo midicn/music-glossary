@@ -16,7 +16,7 @@ links:
   - "[[glossary:opus]]"
   - "[[glossary:koechel]]"
 sources:
-  - 海顿 Hob. 的分组与编号，参 The New Grove Dictionary of Music and Musicians, "Hoboken, Anthony van" 与 "Haydn"；目录本体参 Hoboken-Verzeichnis（1957–1978）；本文为原创表述
+  - 海顿 Hob. 的分组与编号，参 The New Grove Dictionary of Music and Musicians, "Hoboken, Anthony van" 与 "Haydn"；目录本体参 Hoboken-Verzeichnis（1957–1978）
 updated: 2026-10-28
 ---
 

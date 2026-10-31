@@ -16,7 +16,7 @@ links:
   - "[[glossary:ballade]]"
   - "[[glossary:capriccio]]"
 sources:
-  - 狂想曲的体裁特征与李斯特、格什温的用法，参 The New Grove Dictionary of Music and Musicians, "Rhapsody"；本文为原创表述
+  - 狂想曲的体裁特征与李斯特、格什温的用法，参 The New Grove Dictionary of Music and Musicians, "Rhapsody"
 updated: 2026-10-28
 ---
 

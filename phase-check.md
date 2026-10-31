@@ -16,7 +16,7 @@ links:
   - "[[glossary:monitoring]]"
   - "[[glossary:headphone-mix]]"
 sources:
-  - 多麦克风相位与单声道校验，参 Huber & Runstein, Modern Recording Techniques 与 Bobby Owsinski, The Mixing Engineer's Handbook；本文为原创表述
+  - 多麦克风相位与单声道校验，参 Huber & Runstein, Modern Recording Techniques 与 Bobby Owsinski, The Mixing Engineer's Handbook
 updated: 2026-10-28
 ---
 

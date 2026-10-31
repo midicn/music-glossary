@@ -15,7 +15,7 @@ links:
   - "[[glossary:meter]]"
   - "[[glossary:cross-rhythm]]"
 sources:
-  - 定义、记谱与实例参 The New Grove Dictionary of Music and Musicians, "Polyrhythm"；本文为原创表述
+  - 定义、记谱与实例参 The New Grove Dictionary of Music and Musicians, "Polyrhythm"
 updated: 2026-10-28
 ---
 

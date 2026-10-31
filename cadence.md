@@ -16,7 +16,7 @@ links:
   - "[[glossary:tonality]]"
   - "[[glossary:seventh-chord]]"
 sources:
-  - 各类终止式的定义与功能，参 The New Grove Dictionary of Music and Musicians, "Cadence"；本文为原创表述
+  - 各类终止式的定义与功能，参 The New Grove Dictionary of Music and Musicians, "Cadence"
 updated: 2026-10-28
 ---
 

@@ -9,13 +9,13 @@ summary_en: EQ that moves only when a band crosses a threshold, following the ma
 level: brief
 tags: [制作, 均衡, 动态]
 tags_en: [production, eq, dynamics]
-alias: [动态均衡, dynamic EQ, 动态均衡器, 动态EQ]
+alias: [动态均衡, dynamic EQ, 动态均衡器, 动态 EQ]
 links:
   - "[[glossary:eq]]"
   - "[[glossary:compressor]]"
   - "[[glossary:multiband-compression]]"
 sources:
-  - 动态均衡的阈值与频段处理，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 动态均衡的阈值与频段处理，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

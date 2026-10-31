@@ -15,7 +15,7 @@ links:
   - "[[glossary:pitch]]"
   - "[[glossary:octave]]"
 sources:
-  - ossia 小谱表的用途与写法，参 The New Grove Dictionary of Music and Musicians, "Ossia"；本文为原创表述
+  - ossia 小谱表的用途与写法，参 The New Grove Dictionary of Music and Musicians, "Ossia"
 updated: 2026-10-28
 ---
 

@@ -14,7 +14,7 @@ links:
   - "[[glossary:trv]]"
   - "[[glossary:opus]]"
 sources:
-  - 李斯特 S. 号与拉贝 R. 号的关系，参 The New Grove Dictionary of Music and Musicians, "Liszt, Franz"；目录本体参 Humphrey Searle, The Music of Liszt（1966）；本文为原创表述
+  - 李斯特 S. 号与拉贝 R. 号的关系，参 The New Grove Dictionary of Music and Musicians, "Liszt, Franz"；目录本体参 Humphrey Searle, The Music of Liszt（1966）
 updated: 2026-10-28
 ---
 

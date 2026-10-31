@@ -15,7 +15,7 @@ links:
   - "[[glossary:opera]]"
   - "[[glossary:suite]]"
 sources:
-  - 戏剧配乐的功能与十九世纪代表作品，参 The New Grove Dictionary of Music and Musicians, "Incidental music"；本文为原创表述
+  - 戏剧配乐的功能与十九世纪代表作品，参 The New Grove Dictionary of Music and Musicians, "Incidental music"
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[concept:concerto-form]]"
   - "[[glossary:bwv]]"
 sources:
-  - 维瓦尔第 RV 编号及 P./F./R. 旧编号，参 The New Grove Dictionary of Music and Musicians, "Vivaldi" 与 "Ryom, Peter"；本文为原创表述
+  - 维瓦尔第 RV 编号及 P./F./R. 旧编号，参 The New Grove Dictionary of Music and Musicians, "Vivaldi" 与 "Ryom, Peter"
 updated: 2026-10-28
 ---
 

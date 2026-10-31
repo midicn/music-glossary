@@ -16,7 +16,7 @@ links:
   - "[[glossary:di-box]]"
   - "[[glossary:balanced-connection]]"
 sources:
-  - 跳线盘的正常/半正常接法，参通行录音教材；本文为原创表述
+  - 跳线盘的正常/半正常接法，参通行录音教材
 updated: 2026-10-28
 ---
 

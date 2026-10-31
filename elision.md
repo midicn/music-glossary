@@ -15,7 +15,7 @@ links:
   - "[[glossary:cadence]]"
   - "[[glossary:period]]"
 sources:
-  - 叠接的定义、句界共用与在乐句结构中的用法，参 The New Grove Dictionary of Music and Musicians, "Elision"；本文为原创表述
+  - 叠接的定义、句界共用与在乐句结构中的用法，参 The New Grove Dictionary of Music and Musicians, "Elision"
 updated: 2026-10-28
 ---
 

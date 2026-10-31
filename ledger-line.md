@@ -14,7 +14,7 @@ links:
   - "[[glossary:clef]]"
   - "[[glossary:ottava-bassa]]"
 sources:
-  - 加线的记谱规则，参 The New Grove Dictionary of Music and Musicians, "Notation"；本文为原创表述
+  - 加线的记谱规则，参 The New Grove Dictionary of Music and Musicians, "Notation"
 updated: 2026-10-28
 ---
 

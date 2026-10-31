@@ -16,7 +16,7 @@ links:
   - "[[glossary:appoggiatura]]"
   - "[[glossary:escape-tone]]"
 sources:
-  - 自由音与非和弦音分类，参 The New Grove Dictionary of Music and Musicians, "Non-chord tone"；本文为原创表述
+  - 自由音与非和弦音分类，参 The New Grove Dictionary of Music and Musicians, "Non-chord tone"
 updated: 2026-10-28
 ---
 

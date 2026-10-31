@@ -15,7 +15,7 @@ links:
   - "[[glossary:cadence]]"
   - "[[glossary:chord]]"
 sources:
-  - 定义、历史用法与名称问题参 The New Grove Dictionary of Music and Musicians, "Picardy third"；本文为原创表述
+  - 定义、历史用法与名称问题参 The New Grove Dictionary of Music and Musicians, "Picardy third"
 updated: 2026-10-28
 ---
 

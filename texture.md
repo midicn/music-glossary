@@ -16,7 +16,7 @@ links:
   - "[[concept:counterpoint]]"
   - "[[concept:melody]]"
 sources:
-  - 织体的分类、层次与历史用法，参 The New Grove Dictionary of Music and Musicians, "Texture"；本文为原创表述
+  - 织体的分类、层次与历史用法，参 The New Grove Dictionary of Music and Musicians, "Texture"
 updated: 2026-10-28
 ---
 

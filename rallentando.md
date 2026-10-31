@@ -16,7 +16,7 @@ links:
   - "[[glossary:accelerando]]"
   - "[[concept:tempo]]"
 sources:
-  - rallentando 与 ritardando 的细微差别，参 The New Grove Dictionary of Music and Musicians, "Tempo and tempo marks"；本文为原创表述
+  - rallentando 与 ritardando 的细微差别，参 The New Grove Dictionary of Music and Musicians, "Tempo and tempo marks"
 updated: 2026-10-28
 ---
 

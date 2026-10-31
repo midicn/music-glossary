@@ -15,7 +15,7 @@ links:
   - "[[glossary:symphony]]"
   - "[[glossary:opera]]"
 sources:
-  - 进行曲的步伐节拍、曲式与在艺术音乐中的用法，参 The New Grove Dictionary of Music and Musicians, "March"；本文为原创表述
+  - 进行曲的步伐节拍、曲式与在艺术音乐中的用法，参 The New Grove Dictionary of Music and Musicians, "March"
 updated: 2026-10-28
 ---
 

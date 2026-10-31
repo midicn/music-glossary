@@ -16,7 +16,7 @@ links:
   - "[[glossary:eq]]"
   - "[[glossary:automation]]"
 sources:
-  - 延迟的效果类型与参数，参通行录音教材（Huber & Runstein, Modern Recording Techniques）；本文为原创表述
+  - 延迟的效果类型与参数，参通行录音教材（Huber & Runstein, Modern Recording Techniques）
 updated: 2026-10-28
 ---
 

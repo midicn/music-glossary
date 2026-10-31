@@ -16,7 +16,7 @@ links:
   - "[[glossary:tango]]"
   - "[[glossary:syncopation]]"
 sources:
-  - 哈巴涅拉的节奏型与跨大西洋流传，参 The New Grove Dictionary of Music and Musicians, "Habanera"；本文为原创表述
+  - 哈巴涅拉的节奏型与跨大西洋流传，参 The New Grove Dictionary of Music and Musicians, "Habanera"
 updated: 2026-10-28
 ---
 

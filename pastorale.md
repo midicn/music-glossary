@@ -16,7 +16,7 @@ links:
   - "[[glossary:pedal-point]]"
   - "[[glossary:operetta]]"
 sources:
-  - 田园曲的性格特征与圣诞协奏曲传统，参 The New Grove Dictionary of Music and Musicians, "Pastorale"；本文为原创表述
+  - 田园曲的性格特征与圣诞协奏曲传统，参 The New Grove Dictionary of Music and Musicians, "Pastorale"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:meno-mosso]]"
   - "[[concept:tempo]]"
 sources:
-  - con moto 的速度含义，参 The New Grove Dictionary of Music and Musicians, "Tempo and tempo marks"；本文为原创表述
+  - con moto 的速度含义，参 The New Grove Dictionary of Music and Musicians, "Tempo and tempo marks"
 updated: 2026-10-28
 ---
 

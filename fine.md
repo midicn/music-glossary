@@ -15,7 +15,7 @@ links:
   - "[[glossary:dal-segno]]"
   - "[[glossary:coda]]"
 sources:
-  - Fine 在 da capo 与 dal segno 结构中的止点作用，参 The New Grove Dictionary of Music and Musicians, "Da capo"；本文为原创表述
+  - Fine 在 da capo 与 dal segno 结构中的止点作用，参 The New Grove Dictionary of Music and Musicians, "Da capo"
 updated: 2026-10-28
 ---
 

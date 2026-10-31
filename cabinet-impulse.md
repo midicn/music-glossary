@@ -16,7 +16,7 @@ links:
   - "[[glossary:reverb]]"
   - "[[glossary:eq]]"
 sources:
-  - 箱体脉冲的采集与卷积回放，参通行录音教材；本文为原创表述
+  - 箱体脉冲的采集与卷积回放，参通行录音教材
 updated: 2026-10-28
 ---
 

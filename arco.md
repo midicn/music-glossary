@@ -16,7 +16,7 @@ links:
   - "[[glossary:legato]]"
   - "[[instrument:violin]]"
 sources:
-  - arco 的记谱含义与弦乐演奏，参 The New Grove Dictionary of Music and Musicians, "Arco"；本文为原创表述
+  - arco 的记谱含义与弦乐演奏，参 The New Grove Dictionary of Music and Musicians, "Arco"
 updated: 2026-10-28
 ---
 

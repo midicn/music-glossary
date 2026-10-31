@@ -15,7 +15,7 @@ links:
   - "[[glossary:sanban]]"
   - "[[glossary:yaoban]]"
 sources:
-  - 哭头作为散板、摇板中哭腔收句的形态与用法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 哭头作为散板、摇板中哭腔收句的形态与用法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

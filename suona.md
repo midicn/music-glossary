@@ -16,7 +16,7 @@ links:
   - "[[glossary:sheng]]"
   - "[[glossary:dizi]]"
 sources:
-  - 名称与形制，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "Suona"；译名参通行音乐术语词典；本文为原创表述
+  - 名称与形制，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "Suona"；译名参通行音乐术语词典
 updated: 2026-10-28
 ---
 

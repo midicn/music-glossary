@@ -16,7 +16,7 @@ links:
   - "[[glossary:creative-commons]]"
   - "[[glossary:sync-license]]"
 sources:
-  - 许可的类型与合同要素，参通行音乐产业教材；本文为通识说明，不构成法律意见
+  - 许可的类型与合同要素，参通行音乐产业教材；不构成法律意见
 updated: 2026-10-28
 ---
 

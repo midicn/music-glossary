@@ -16,7 +16,7 @@ links:
   - "[[glossary:trill]]"
   - "[[glossary:mordent]]"
 sources:
-  - 装饰音的类型与历史演变，参 The New Grove Dictionary of Music and Musicians, "Ornamentation"；本文为原创表述
+  - 装饰音的类型与历史演变，参 The New Grove Dictionary of Music and Musicians, "Ornamentation"
 updated: 2026-10-28
 ---
 

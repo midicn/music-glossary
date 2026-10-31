@@ -16,7 +16,7 @@ links:
   - "[[glossary:tempo]]"
   - "[[glossary:rubato]]"
 sources:
-  - 延长记号的定义与历史用法，参 The New Grove Dictionary of Music and Musicians, "Fermata"；本文为原创表述
+  - 延长记号的定义与历史用法，参 The New Grove Dictionary of Music and Musicians, "Fermata"
 updated: 2026-10-28
 ---
 

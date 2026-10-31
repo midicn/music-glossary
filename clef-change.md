@@ -14,7 +14,7 @@ links:
   - "[[glossary:clef]]"
   - "[[glossary:ledger-line]]"
 sources:
-  - 谱号更换的记谱惯例，参 The New Grove Dictionary of Music and Musicians, "Clef"；本文为原创表述
+  - 谱号更换的记谱惯例，参 The New Grove Dictionary of Music and Musicians, "Clef"
 updated: 2026-10-28
 ---
 

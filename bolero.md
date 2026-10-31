@@ -16,7 +16,7 @@ links:
   - "[[glossary:rondo]]"
   - "[[glossary:meter]]"
 sources:
-  - 波莱罗的西班牙来源与拉威尔的管弦乐用法，参 The New Grove Dictionary of Music and Musicians, "Bolero"；本文为原创表述
+  - 波莱罗的西班牙来源与拉威尔的管弦乐用法，参 The New Grove Dictionary of Music and Musicians, "Bolero"
 updated: 2026-10-28
 ---
 

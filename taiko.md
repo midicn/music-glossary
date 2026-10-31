@@ -16,7 +16,7 @@ links:
   - "[[glossary:djembe]]"
   - "[[glossary:tabla]]"
 sources:
-  - 各语种乐器名与形制，参 The New Grove Dictionary of Music and Musicians, "Taiko"；本文为原创表述
+  - 各语种乐器名与形制，参 The New Grove Dictionary of Music and Musicians, "Taiko"
 updated: 2026-10-28
 ---
 

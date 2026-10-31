@@ -15,7 +15,7 @@ links:
   - "[[glossary:meter]]"
   - "[[glossary:beat]]"
 sources:
-  - 定义、记谱与比例参 The New Grove Dictionary of Music and Musicians, "Tuplet"；本文为原创表述
+  - 定义、记谱与比例参 The New Grove Dictionary of Music and Musicians, "Tuplet"
 updated: 2026-10-28
 ---
 

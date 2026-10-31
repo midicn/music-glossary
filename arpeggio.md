@@ -16,7 +16,7 @@ links:
   - "[[glossary:chordal-skip]]"
   - "[[glossary:voicing]]"
 sources:
-  - 琶音的演奏与记谱，参 The New Grove Dictionary of Music and Musicians, "Arpeggio"；本文为原创表述
+  - 琶音的演奏与记谱，参 The New Grove Dictionary of Music and Musicians, "Arpeggio"
 updated: 2026-10-28
 ---
 

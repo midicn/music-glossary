@@ -15,7 +15,7 @@ links:
   - "[[glossary:mass]]"
   - "[[glossary:cantata]]"
 sources:
-  - 英国圣公会赞美歌的全唱与交替形式、代表作曲家，参 The New Grove Dictionary of Music and Musicians, "Anthem"；本文为原创表述
+  - 英国圣公会赞美歌的全唱与交替形式、代表作曲家，参 The New Grove Dictionary of Music and Musicians, "Anthem"
 updated: 2026-10-28
 ---
 

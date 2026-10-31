@@ -15,7 +15,7 @@ links:
   - "[[glossary:bwv]]"
   - "[[glossary:opus]]"
 sources:
-  - 许茨 SWV 与刊印集的对应，参 The New Grove Dictionary of Music and Musicians, "Schütz, Heinrich"；目录本体参 Werner Bittinger, Schütz-Werke-Verzeichnis（1960）；本文为原创表述
+  - 许茨 SWV 与刊印集的对应，参 The New Grove Dictionary of Music and Musicians, "Schütz, Heinrich"；目录本体参 Werner Bittinger, Schütz-Werke-Verzeichnis（1960）
 updated: 2026-10-28
 ---
 

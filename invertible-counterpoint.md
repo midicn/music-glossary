@@ -15,7 +15,7 @@ links:
   - "[[glossary:contrapuntal-imitation]]"
   - "[[glossary:fugue]]"
 sources:
-  - 可转位对位的音程计算、常见转位与赋格用法，参 The New Grove Dictionary of Music and Musicians, "Invertible counterpoint"；本文为原创表述
+  - 可转位对位的音程计算、常见转位与赋格用法，参 The New Grove Dictionary of Music and Musicians, "Invertible counterpoint"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:stems]]"
   - "[[glossary:automation]]"
 sources:
-  - 缩混流程，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 缩混流程，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:buffer-size]]"
   - "[[glossary:patchbay]]"
 sources:
-  - 延迟补偿在 DAW 中的机制，参通行录音教材；本文为原创表述
+  - 延迟补偿在 DAW 中的机制，参通行录音教材
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:pivot-chord]]"
   - "[[glossary:enharmonic-modulation]]"
 sources:
-  - 共同音转调的手法与边界，参 The New Grove Dictionary of Music and Musicians, "Modulation"；本文为原创表述
+  - 共同音转调的手法与边界，参 The New Grove Dictionary of Music and Musicians, "Modulation"
 updated: 2026-10-28
 ---
 

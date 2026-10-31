@@ -16,7 +16,7 @@ links:
   - "[[glossary:sul-ponticello]]"
   - "[[glossary:tremolo]]"
 sources:
-  - col legno 的两种奏法与音色，参 The New Grove Dictionary of Music and Musicians, "Col legno"；本文为原创表述
+  - col legno 的两种奏法与音色，参 The New Grove Dictionary of Music and Musicians, "Col legno"
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:room-mode]]"
   - "[[glossary:phase-check]]"
 sources:
-  - 短延迟叠加与梳状滤波，参 Everest & Pohlmann, Master Handbook of Acoustics 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 短延迟叠加与梳状滤波，参 Everest & Pohlmann, Master Handbook of Acoustics 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

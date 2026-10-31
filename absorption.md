@@ -16,7 +16,7 @@ links:
   - "[[glossary:bass-trap]]"
   - "[[glossary:diffusion]]"
 sources:
-  - 吸声材料与频率特性，参 Everest & Pohlmann, Master Handbook of Acoustics；本文为原创表述
+  - 吸声材料与频率特性，参 Everest & Pohlmann, Master Handbook of Acoustics
 updated: 2026-10-28
 ---
 

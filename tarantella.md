@@ -16,7 +16,7 @@ links:
   - "[[glossary:presto]]"
   - "[[glossary:meter]]"
 sources:
-  - 塔兰泰拉的节奏、传说与演奏传统，参 The New Grove Dictionary of Music and Musicians, "Tarantella"；本文为原创表述
+  - 塔兰泰拉的节奏、传说与演奏传统，参 The New Grove Dictionary of Music and Musicians, "Tarantella"
 updated: 2026-10-28
 ---
 

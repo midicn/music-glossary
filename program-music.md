@@ -15,7 +15,7 @@ links:
   - "[[glossary:overture]]"
   - "[[glossary:symphony]]"
 sources:
-  - 标题音乐的观念、代表作品与绝对音乐之争，参 The New Grove Dictionary of Music and Musicians, "Programme music"；本文为原创表述
+  - 标题音乐的观念、代表作品与绝对音乐之争，参 The New Grove Dictionary of Music and Musicians, "Programme music"
 updated: 2026-10-28
 ---
 

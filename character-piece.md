@@ -15,7 +15,7 @@ links:
   - "[[glossary:prelude]]"
   - "[[glossary:etude]]"
 sources:
-  - 特性小品的定义与十九世纪钢琴小品的传统，参 The New Grove Dictionary of Music and Musicians, "Character piece"；本文为原创表述
+  - 特性小品的定义与十九世纪钢琴小品的传统，参 The New Grove Dictionary of Music and Musicians, "Character piece"
 updated: 2026-10-28
 ---
 

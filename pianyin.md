@@ -15,7 +15,7 @@ links:
   - "[[glossary:qingyue]]"
   - "[[glossary:yanyue]]"
 sources:
-  - 变宫、变徵、清角、闰四个偏音与三种七声音阶，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 变宫、变徵、清角、闰四个偏音与三种七声音阶，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

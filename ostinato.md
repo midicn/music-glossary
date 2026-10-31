@@ -16,7 +16,7 @@ links:
   - "[[glossary:texture]]"
   - "[[concept:motive]]"
 sources:
-  - 固定音型的定义、类型与历史用法，参 The New Grove Dictionary of Music and Musicians, "Ostinato"；本文为原创表述
+  - 固定音型的定义、类型与历史用法，参 The New Grove Dictionary of Music and Musicians, "Ostinato"
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:cadence]]"
   - "[[glossary:scale-degree]]"
 sources:
-  - 构造、转位与解决参 The New Grove Dictionary of Music and Musicians, "Neapolitan chord"；本文为原创表述
+  - 构造、转位与解决参 The New Grove Dictionary of Music and Musicians, "Neapolitan chord"
 updated: 2026-10-28
 ---
 

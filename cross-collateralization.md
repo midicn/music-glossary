@@ -15,7 +15,7 @@ links:
   - "[[glossary:advance]]"
   - "[[glossary:net-profit-split]]"
 sources:
-  - 交叉抵扣的范围与结算，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；本文为通识说明，不构成法律意见
+  - 交叉抵扣的范围与结算，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；不构成法律意见
 updated: 2026-10-28
 ---
 

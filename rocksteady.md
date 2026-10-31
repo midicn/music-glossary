@@ -16,7 +16,7 @@ links:
   - "[[glossary:reggae]]"
   - "[[glossary:dub]]"
 sources:
-  - rocksteady 的过渡位置与音乐特征，参 The New Grove Dictionary of Music and Musicians, "Rocksteady"；本文为原创表述
+  - rocksteady 的过渡位置与音乐特征，参 The New Grove Dictionary of Music and Musicians, "Rocksteady"
 updated: 2026-10-28
 ---
 

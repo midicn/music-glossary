@@ -14,7 +14,7 @@ links:
   - "[[glossary:shange]]"
   - "[[glossary:suyue]]"
 sources:
-  - 信天游的两句结构、比兴手法、代表曲目与流传地域，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 信天游的两句结构、比兴手法、代表曲目与流传地域，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

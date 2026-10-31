@@ -16,7 +16,7 @@ links:
   - "[[glossary:mass]]"
   - "[[concept:form]]"
 sources:
-  - 康塔塔的体裁演变与巴赫的教堂康塔塔，参 The New Grove Dictionary of Music and Musicians, "Cantata"；本文为原创表述
+  - 康塔塔的体裁演变与巴赫的教堂康塔塔，参 The New Grove Dictionary of Music and Musicians, "Cantata"
 updated: 2026-10-28
 ---
 

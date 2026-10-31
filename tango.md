@@ -16,7 +16,7 @@ links:
   - "[[glossary:milonga]]"
   - "[[instrument:bandoneon]]"
 sources:
-  - 探戈的音乐特征与班多钮的核心地位，参 The New Grove Dictionary of Music and Musicians, "Tango"；本文为原创表述
+  - 探戈的音乐特征与班多钮的核心地位，参 The New Grove Dictionary of Music and Musicians, "Tango"
 updated: 2026-10-28
 ---
 

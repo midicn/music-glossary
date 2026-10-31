@@ -16,7 +16,7 @@ links:
   - "[[glossary:sync-license]]"
   - "[[glossary:isrc]]"
 sources:
-  - 录音母带权的归属与授权，参通行音乐产业教材与 The New Grove Dictionary of Music and Musicians, "Copyright"；本文为通识说明，不构成法律意见
+  - 录音母带权的归属与授权，参通行音乐产业教材与 The New Grove Dictionary of Music and Musicians, "Copyright"；不构成法律意见
 updated: 2026-10-28
 ---
 

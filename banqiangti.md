@@ -15,7 +15,7 @@ links:
   - "[[glossary:banyan]]"
   - "[[glossary:erhuang]]"
 sources:
-  - 板腔体与曲牌体的结构区别、板式变化手法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 板腔体与曲牌体的结构区别、板式变化手法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:pitch]]"
   - "[[glossary:clef]]"
 sources:
-  - 8va 与 8vb 的记谱含义，参 The New Grove Dictionary of Music and Musicians, "Octave"；本文为原创表述
+  - 8va 与 8vb 的记谱含义，参 The New Grove Dictionary of Music and Musicians, "Octave"
 updated: 2026-10-28
 ---
 

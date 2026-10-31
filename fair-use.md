@@ -16,7 +16,7 @@ links:
   - "[[glossary:public-domain]]"
   - "[[glossary:sample-clearance]]"
 sources:
-  - 合理使用的四要素与法域差异，参通行版权教材；本文为通识说明，不构成法律意见
+  - 合理使用的四要素与法域差异，参通行版权教材；不构成法律意见
 updated: 2026-10-28
 ---
 

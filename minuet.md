@@ -16,7 +16,7 @@ links:
   - "[[glossary:waltz]]"
   - "[[glossary:symphony]]"
 sources:
-  - 小步舞曲的宫廷来源与曲式位置，参 The New Grove Dictionary of Music and Musicians, "Minuet"；本文为原创表述
+  - 小步舞曲的宫廷来源与曲式位置，参 The New Grove Dictionary of Music and Musicians, "Minuet"
 updated: 2026-10-28
 ---
 

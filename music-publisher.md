@@ -15,7 +15,7 @@ links:
   - "[[glossary:mechanical-license]]"
   - "[[glossary:royalty]]"
 sources:
-  - 出版商的职能与出版合同，参通行音乐产业教材与 The New Grove Dictionary of Music and Musicians, "Publishing"；本文为通识说明，不构成法律意见
+  - 出版商的职能与出版合同，参通行音乐产业教材与 The New Grove Dictionary of Music and Musicians, "Publishing"；不构成法律意见
 updated: 2026-10-28
 ---
 

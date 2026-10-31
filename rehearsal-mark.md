@@ -15,7 +15,7 @@ links:
   - "[[glossary:part]]"
   - "[[glossary:repeat-sign]]"
 sources:
-  - 排练记号的编排惯例，参 The New Grove Dictionary of Music and Musicians, "Notation"；本文为原创表述
+  - 排练记号的编排惯例，参 The New Grove Dictionary of Music and Musicians, "Notation"
 updated: 2026-10-28
 ---
 

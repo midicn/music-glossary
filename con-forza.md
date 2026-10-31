@@ -15,7 +15,7 @@ links:
   - "[[glossary:energico]]"
   - "[[glossary:risoluto]]"
 sources:
-  - con forza 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Forza"；本文为原创表述
+  - con forza 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Forza"
 updated: 2026-10-28
 ---
 

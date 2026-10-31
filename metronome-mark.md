@@ -15,7 +15,7 @@ links:
   - "[[glossary:beat]]"
   - "[[glossary:meter]]"
 sources:
-  - 节拍器标记的写法与历史，参 The New Grove Dictionary of Music and Musicians, "Metronome"；本文为原创表述
+  - 节拍器标记的写法与历史，参 The New Grove Dictionary of Music and Musicians, "Metronome"
 updated: 2026-10-28
 ---
 

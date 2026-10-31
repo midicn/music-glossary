@@ -16,7 +16,7 @@ links:
   - "[[glossary:tonicization]]"
   - "[[glossary:seventh-chord]]"
 sources:
-  - 副属和弦的记法与功能，参 The New Grove Dictionary of Music and Musicians, "Secondary dominant"；本文为原创表述
+  - 副属和弦的记法与功能，参 The New Grove Dictionary of Music and Musicians, "Secondary dominant"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:reference-monitor]]"
   - "[[glossary:patchbay]]"
 sources:
-  - 监听控制器的功能，参通行录音教材；本文为原创表述
+  - 监听控制器的功能，参通行录音教材
 updated: 2026-10-28
 ---
 

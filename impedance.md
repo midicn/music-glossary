@@ -16,7 +16,7 @@ links:
   - "[[glossary:balanced-connection]]"
   - "[[glossary:preamp]]"
 sources:
-  - 阻抗匹配与乐器信号的通行原则，参通行录音教材；本文为原创表述
+  - 阻抗匹配与乐器信号的通行原则，参通行录音教材
 updated: 2026-10-28
 ---
 

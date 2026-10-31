@@ -16,7 +16,7 @@ links:
   - "[[glossary:piano-dynamic]]"
   - "[[glossary:sforzando]]"
 sources:
-  - fp 记号的演奏含义，参 The New Grove Dictionary of Music and Musicians, "Dynamics"；本文为原创表述
+  - fp 记号的演奏含义，参 The New Grove Dictionary of Music and Musicians, "Dynamics"
 updated: 2026-10-28
 ---
 

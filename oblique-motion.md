@@ -16,7 +16,7 @@ links:
   - "[[glossary:pedal-point]]"
   - "[[glossary:voice-leading]]"
 sources:
-  - 斜向进行的定义与用法，参 The New Grove Dictionary of Music and Musicians, "Voice leading"；本文为原创表述
+  - 斜向进行的定义与用法，参 The New Grove Dictionary of Music and Musicians, "Voice leading"
 updated: 2026-10-28
 ---
 

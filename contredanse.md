@@ -16,7 +16,7 @@ links:
   - "[[glossary:minuet]]"
   - "[[glossary:waltz]]"
 sources:
-  - 对舞的英法传统与方阵舞的关系，参 The New Grove Dictionary of Music and Musicians, "Contredanse"；本文为原创表述
+  - 对舞的英法传统与方阵舞的关系，参 The New Grove Dictionary of Music and Musicians, "Contredanse"
 updated: 2026-10-28
 ---
 

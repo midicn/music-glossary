@@ -16,7 +16,7 @@ links:
   - "[[glossary:anh]]"
   - "[[glossary:k-anh]]"
 sources:
-  - RV Anh. 的用途，参 The New Grove Dictionary of Music and Musicians, "Vivaldi"；本文为原创表述
+  - RV Anh. 的用途，参 The New Grove Dictionary of Music and Musicians, "Vivaldi"
 updated: 2026-10-28
 ---
 

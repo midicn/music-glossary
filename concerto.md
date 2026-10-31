@@ -16,7 +16,7 @@ links:
   - "[[glossary:sonata-form]]"
   - "[[glossary:cadence]]"
 sources:
-  - 协奏曲的体裁历史、利托奈罗与华彩段，参 The New Grove Dictionary of Music and Musicians, "Concerto"；本文为原创表述
+  - 协奏曲的体裁历史、利托奈罗与华彩段，参 The New Grove Dictionary of Music and Musicians, "Concerto"
 updated: 2026-10-28
 ---
 

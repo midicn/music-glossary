@@ -16,7 +16,7 @@ links:
   - "[[instrument:violin]]"
   - "[[concept:timbre]]"
 sources:
-  - 弦乐与管乐泛音的物理与记谱，参 The New Grove Dictionary of Music and Musicians, "Harmonics"；本文为原创表述
+  - 弦乐与管乐泛音的物理与记谱，参 The New Grove Dictionary of Music and Musicians, "Harmonics"
 updated: 2026-10-28
 ---
 

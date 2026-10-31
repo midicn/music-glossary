@@ -16,7 +16,7 @@ links:
   - "[[glossary:ostinato]]"
   - "[[glossary:pedal-point]]"
 sources:
-  - 帕萨卡利亚的固定低音与历史用法，参 The New Grove Dictionary of Music and Musicians, "Passacaglia"；本文为原创表述
+  - 帕萨卡利亚的固定低音与历史用法，参 The New Grove Dictionary of Music and Musicians, "Passacaglia"
 updated: 2026-10-28
 ---
 

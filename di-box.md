@@ -16,7 +16,7 @@ links:
   - "[[glossary:balanced-connection]]"
   - "[[glossary:re-amp]]"
 sources:
-  - DI 盒的阻抗变换与平衡输出，参通行录音教材；本文为原创表述
+  - DI 盒的阻抗变换与平衡输出，参通行录音教材
 updated: 2026-10-28
 ---
 

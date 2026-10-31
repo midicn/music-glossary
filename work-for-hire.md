@@ -16,7 +16,7 @@ links:
   - "[[glossary:publishing-split]]"
   - "[[glossary:licensing]]"
 sources:
-  - 雇佣作品 doctrine 与法域差异，参通行版权教材；本文为通识说明，不构成法律意见
+  - 雇佣作品 doctrine 与法域差异，参通行版权教材；不构成法律意见
 updated: 2026-10-28
 ---
 

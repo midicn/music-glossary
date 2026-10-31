@@ -16,7 +16,7 @@ links:
   - "[[instrument:classical-guitar]]"
   - "[[instrument:ukulele]]"
 sources:
-  - 各语种乐器名与安第斯拨弦传统，参 The New Grove Dictionary of Music and Musicians, "Charango"；本文为原创表述
+  - 各语种乐器名与安第斯拨弦传统，参 The New Grove Dictionary of Music and Musicians, "Charango"
 updated: 2026-10-28
 ---
 

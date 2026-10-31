@@ -15,7 +15,7 @@ links:
   - "[[glossary:opus]]"
   - "[[glossary:op-posthumous]]"
 sources:
-  - 施特劳斯 TrV 与 AV 两套编号，参 The New Grove Dictionary of Music and Musicians, "Strauss, Richard"；目录本体参 Franz Trenner, Richard Strauss. Werkverzeichnis（1999）；本文为原创表述
+  - 施特劳斯 TrV 与 AV 两套编号，参 The New Grove Dictionary of Music and Musicians, "Strauss, Richard"；目录本体参 Franz Trenner, Richard Strauss. Werkverzeichnis（1999）
 updated: 2026-10-28
 ---
 

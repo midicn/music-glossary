@@ -16,7 +16,7 @@ links:
   - "[[concept:semitone]]"
   - "[[glossary:chord]]"
 sources:
-  - 度数首尾俱计、音数按半音计，为通行乐理定义（参 The New Grove Dictionary of Music and Musicians, "Interval"）；本文为原创表述
+  - 度数首尾俱计、音数按半音计，为通行乐理定义（参 The New Grove Dictionary of Music and Musicians, "Interval"）
 updated: 2026-10-28
 ---
 

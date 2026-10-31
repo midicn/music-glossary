@@ -16,7 +16,7 @@ links:
   - "[[glossary:mazurka]]"
   - "[[glossary:polonaise]]"
 sources:
-  - 圆舞曲的起源、三拍子与维也纳传统，参 The New Grove Dictionary of Music and Musicians, "Waltz"；本文为原创表述
+  - 圆舞曲的起源、三拍子与维也纳传统，参 The New Grove Dictionary of Music and Musicians, "Waltz"
 updated: 2026-10-28
 ---
 

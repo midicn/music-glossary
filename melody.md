@@ -16,7 +16,7 @@ links:
   - "[[glossary:pitch]]"
   - "[[glossary:interval]]"
 sources:
-  - 旋律的轮廓、级进跳进与记忆性，参 The New Grove Dictionary of Music and Musicians, "Melody"；本文为原创表述
+  - 旋律的轮廓、级进跳进与记忆性，参 The New Grove Dictionary of Music and Musicians, "Melody"
 updated: 2026-10-28
 ---
 

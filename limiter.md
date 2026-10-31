@@ -16,7 +16,7 @@ links:
   - "[[glossary:true-peak-limiter]]"
   - "[[glossary:lufs]]"
 sources:
-  - 限制器的参数与母带用法，参通行录音教材；本文为原创表述
+  - 限制器的参数与母带用法，参通行录音教材
 updated: 2026-10-28
 ---
 

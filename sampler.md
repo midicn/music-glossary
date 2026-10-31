@@ -16,7 +16,7 @@ links:
   - "[[glossary:midi-protocol]]"
   - "[[glossary:sample-rate]]"
 sources:
-  - 采样器架构与映射，参 Huber & Runstein, Modern Recording Techniques 与通行采样器手册；本文为原创表述
+  - 采样器架构与映射，参 Huber & Runstein, Modern Recording Techniques 与通行采样器手册
 updated: 2026-10-28
 ---
 

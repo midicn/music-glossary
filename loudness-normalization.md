@@ -16,7 +16,7 @@ links:
   - "[[glossary:maximizer]]"
   - "[[glossary:true-peak-limiter]]"
 sources:
-  - 平台响度归一与目标值，参通行母带教材；本文为原创表述
+  - 平台响度归一与目标值，参通行母带教材
 updated: 2026-10-28
 ---
 

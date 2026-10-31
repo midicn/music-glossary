@@ -16,7 +16,7 @@ links:
   - "[[concept:key-signature]]"
   - "[[glossary:mode]]"
 sources:
-  - 调性为中心音及其等级关系的通行表述（参 The New Grove Dictionary of Music and Musicians, "Tonality"）；本文为原创表述
+  - 调性为中心音及其等级关系的通行表述（参 The New Grove Dictionary of Music and Musicians, "Tonality"）
 updated: 2026-10-28
 ---
 

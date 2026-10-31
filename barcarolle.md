@@ -15,7 +15,7 @@ links:
   - "[[glossary:character-piece]]"
   - "[[glossary:waltz]]"
 sources:
-  - 船歌的威尼斯渊源、六拍子摇橹音型与肖邦、奥芬巴赫等作品，参 The New Grove Dictionary of Music and Musicians, "Barcarolle"；本文为原创表述
+  - 船歌的威尼斯渊源、六拍子摇橹音型与肖邦、奥芬巴赫等作品，参 The New Grove Dictionary of Music and Musicians, "Barcarolle"
 updated: 2026-10-28
 ---
 

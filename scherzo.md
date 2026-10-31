@@ -16,7 +16,7 @@ links:
   - "[[glossary:symphony]]"
   - "[[glossary:string-quartet]]"
 sources:
-  - 谐谑曲的曲式位置与贝多芬以来的用法，参 The New Grove Dictionary of Music and Musicians, "Scherzo"；本文为原创表述
+  - 谐谑曲的曲式位置与贝多芬以来的用法，参 The New Grove Dictionary of Music and Musicians, "Scherzo"
 updated: 2026-10-28
 ---
 

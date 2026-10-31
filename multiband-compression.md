@@ -15,7 +15,7 @@ links:
   - "[[glossary:eq]]"
   - "[[glossary:dynamic-eq]]"
 sources:
-  - 多段压缩的原理与分频，参 Bob Katz, Mastering Audio 与 Bobby Owsinski, The Mixing Engineer's Handbook；本文为原创表述
+  - 多段压缩的原理与分频，参 Bob Katz, Mastering Audio 与 Bobby Owsinski, The Mixing Engineer's Handbook
 updated: 2026-10-28
 ---
 

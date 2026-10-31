@@ -15,7 +15,7 @@ links:
   - "[[glossary:lute]]"
   - "[[glossary:clef]]"
 sources:
-  - 指法谱的弦线记法与历史形态，参 The New Grove Dictionary of Music and Musicians, "Tablature"；本文为原创表述
+  - 指法谱的弦线记法与历史形态，参 The New Grove Dictionary of Music and Musicians, "Tablature"
 updated: 2026-10-28
 ---
 

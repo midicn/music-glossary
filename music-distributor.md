@@ -15,7 +15,7 @@ links:
   - "[[glossary:royalty]]"
   - "[[glossary:record-label]]"
 sources:
-  - 数字发行与聚合服务，参通行音乐产业教材；本文为通识说明，不构成法律意见
+  - 数字发行与聚合服务，参通行音乐产业教材；不构成法律意见
 updated: 2026-10-28
 ---
 

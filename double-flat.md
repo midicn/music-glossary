@@ -15,7 +15,7 @@ links:
   - "[[glossary:pitch]]"
   - "[[glossary:enharmonic-spelling]]"
 sources:
-  - 重降号的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Accidental"；本文为原创表述
+  - 重降号的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Accidental"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:harmony]]"
   - "[[concept:fugue]]"
 sources:
-  - 对位的定义、分类与species 教学法，参 The New Grove Dictionary of Music and Musicians, "Counterpoint"；本文为原创表述
+  - 对位的定义、分类与species 教学法，参 The New Grove Dictionary of Music and Musicians, "Counterpoint"
 updated: 2026-10-28
 ---
 

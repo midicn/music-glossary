@@ -16,7 +16,7 @@ links:
   - "[[glossary:daw]]"
   - "[[concept:timbre]]"
 sources:
-  - MIDI 力度值的 7 位范围、note on/off 语义与 MIDI 2.0 的扩展，参 MIDI 1.0 Specification 与 MIDI 2.0 Specification（MMA）；本文为原创表述
+  - MIDI 力度值的 7 位范围、note on/off 语义与 MIDI 2.0 的扩展，参 MIDI 1.0 Specification 与 MIDI 2.0 Specification（MMA）
 updated: 2026-10-28
 ---
 

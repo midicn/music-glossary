@@ -15,7 +15,7 @@ links:
   - "[[glossary:grand-opera]]"
   - "[[glossary:operetta]]"
 sources:
-  - 法国抒情歌剧的中间规模、旋律优先与代表作曲家，参 The New Grove Dictionary of Music and Musicians, "Opéra lyrique"；本文为原创表述
+  - 法国抒情歌剧的中间规模、旋律优先与代表作曲家，参 The New Grove Dictionary of Music and Musicians, "Opéra lyrique"
 updated: 2026-10-28
 ---
 

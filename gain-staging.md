@@ -16,7 +16,7 @@ links:
   - "[[glossary:clipping]]"
   - "[[glossary:eq]]"
 sources:
-  - 增益结构与标称电平，参 Huber & Runstein, Modern Recording Techniques 与 Bob Katz, Mastering Audio 的通行论述；本文为原创表述
+  - 增益结构与标称电平，参 Huber & Runstein, Modern Recording Techniques 与 Bob Katz, Mastering Audio 的通行论述
 updated: 2026-10-28
 ---
 

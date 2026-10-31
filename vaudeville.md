@@ -15,7 +15,7 @@ links:
   - "[[glossary:cabaret]]"
   - "[[glossary:musical-theatre]]"
 sources:
-  - 美国杂耍剧场的院线制度与法国 vaudeville 源流，参 The New Grove Dictionary of Music and Musicians, "Vaudeville"；本文为原创表述
+  - 美国杂耍剧场的院线制度与法国 vaudeville 源流，参 The New Grove Dictionary of Music and Musicians, "Vaudeville"
 updated: 2026-10-28
 ---
 

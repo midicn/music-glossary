@@ -15,7 +15,7 @@ links:
   - "[[glossary:con-forza]]"
   - "[[glossary:energico]]"
 sources:
-  - risoluto 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Risoluto"；本文为原创表述
+  - risoluto 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Risoluto"
 updated: 2026-10-28
 ---
 

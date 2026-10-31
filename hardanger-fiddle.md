@@ -16,7 +16,7 @@ links:
   - "[[instrument:violin]]"
   - "[[glossary:nyckelharpa]]"
 sources:
-  - 各语种乐器名与挪威民间提琴传统，参 The New Grove Dictionary of Music and Musicians, "Hardanger fiddle"；本文为原创表述
+  - 各语种乐器名与挪威民间提琴传统，参 The New Grove Dictionary of Music and Musicians, "Hardanger fiddle"
 updated: 2026-10-28
 ---
 

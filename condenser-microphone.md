@@ -15,7 +15,7 @@ links:
   - "[[glossary:polar-pattern]]"
   - "[[glossary:ribbon-microphone]]"
 sources:
-  - 电容换能与供电，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques；本文为原创表述
+  - 电容换能与供电，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques
 updated: 2026-10-28
 ---
 

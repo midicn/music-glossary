@@ -16,7 +16,7 @@ links:
   - "[[glossary:bus]]"
   - "[[glossary:velocity]]"
 sources:
-  - 自动化在 DAW 中的实现与用途，参通行录音教材（Huber & Runstein, Modern Recording Techniques）；本文为原创表述
+  - 自动化在 DAW 中的实现与用途，参通行录音教材（Huber & Runstein, Modern Recording Techniques）
 updated: 2026-10-28
 ---
 

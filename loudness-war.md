@@ -16,7 +16,7 @@ links:
   - "[[glossary:mastering]]"
   - "[[glossary:true-peak]]"
 sources:
-  - 响度竞争与动态压缩，参 Bob Katz, Mastering Audio 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 响度竞争与动态压缩，参 Bob Katz, Mastering Audio 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

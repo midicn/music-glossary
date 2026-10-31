@@ -15,7 +15,7 @@ links:
   - "[[glossary:prelude]]"
   - "[[glossary:etude]]"
 sources:
-  - 托卡塔的起源、巴洛克对位传统与现代钢琴写法，参 The New Grove Dictionary of Music and Musicians, "Toccata"；本文为原创表述
+  - 托卡塔的起源、巴洛克对位传统与现代钢琴写法，参 The New Grove Dictionary of Music and Musicians, "Toccata"
 updated: 2026-10-28
 ---
 

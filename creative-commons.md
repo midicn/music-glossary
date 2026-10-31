@@ -16,7 +16,7 @@ links:
   - "[[glossary:public-domain]]"
   - "[[glossary:licensing]]"
 sources:
-  - Creative Commons 许可条款与 CC0 的区别，参 Creative Commons 官方许可说明；本文为通识说明，不构成法律意见
+  - Creative Commons 许可条款与 CC0 的区别，参 Creative Commons 官方许可说明；不构成法律意见
 updated: 2026-10-28
 ---
 

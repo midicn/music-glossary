@@ -15,7 +15,7 @@ links:
   - "[[glossary:secondary-dominant]]"
   - "[[glossary:chromatic-mediant]]"
 sources:
-  - 借用和弦与调式交替的关系，参 The New Grove Dictionary of Music and Musicians, "Modal mixture"；本文为原创表述
+  - 借用和弦与调式交替的关系，参 The New Grove Dictionary of Music and Musicians, "Modal mixture"
 updated: 2026-10-28
 ---
 

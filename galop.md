@@ -16,7 +16,7 @@ links:
   - "[[glossary:presto]]"
   - "[[glossary:quadrille]]"
 sources:
-  - 加洛普的速度与舞厅传统，参 The New Grove Dictionary of Music and Musicians, "Galop"；本文为原创表述
+  - 加洛普的速度与舞厅传统，参 The New Grove Dictionary of Music and Musicians, "Galop"
 updated: 2026-10-28
 ---
 

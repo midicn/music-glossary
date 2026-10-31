@@ -16,7 +16,7 @@ links:
   - "[[glossary:ostinato]]"
   - "[[glossary:theme-variations]]"
 sources:
-  - 恰空与帕萨卡利亚的关系，参 The New Grove Dictionary of Music and Musicians, "Chaconne"；本文为原创表述
+  - 恰空与帕萨卡利亚的关系，参 The New Grove Dictionary of Music and Musicians, "Chaconne"
 updated: 2026-10-28
 ---
 

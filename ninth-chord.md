@@ -15,7 +15,7 @@ links:
   - "[[glossary:extended-chord]]"
   - "[[glossary:added-tone]]"
 sources:
-  - 九和弦的构成与常见类型，参 The New Grove Dictionary of Music and Musicians, "Chord"；本文为原创表述
+  - 九和弦的构成与常见类型，参 The New Grove Dictionary of Music and Musicians, "Chord"
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:clarinet]]"
   - "[[glossary:concert-pitch]]"
 sources:
-  - 移调乐器的记谱惯例与常见调性，参 The New Grove Dictionary of Music and Musicians, "Transposing instruments"；本文为原创表述
+  - 移调乐器的记谱惯例与常见调性，参 The New Grove Dictionary of Music and Musicians, "Transposing instruments"
 updated: 2026-10-28
 ---
 

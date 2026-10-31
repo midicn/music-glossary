@@ -16,7 +16,7 @@ links:
   - "[[glossary:inner-voice]]"
   - "[[glossary:close-position]]"
 sources:
-  - 和弦排列与声部安排，参 The New Grove Dictionary of Music and Musicians, "Voicing" 与 "Harmony"；本文为原创表述
+  - 和弦排列与声部安排，参 The New Grove Dictionary of Music and Musicians, "Voicing" 与 "Harmony"
 updated: 2026-10-28
 ---
 

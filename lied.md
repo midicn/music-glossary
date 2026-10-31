@@ -16,7 +16,7 @@ links:
   - "[[glossary:opera]]"
   - "[[glossary:cantata]]"
 sources:
-  - 艺术歌曲的体裁定义与舒伯特以来的传统，参 The New Grove Dictionary of Music and Musicians, "Lied"；本文为原创表述
+  - 艺术歌曲的体裁定义与舒伯特以来的传统，参 The New Grove Dictionary of Music and Musicians, "Lied"
 updated: 2026-10-28
 ---
 

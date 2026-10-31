@@ -15,7 +15,7 @@ links:
   - "[[glossary:music-publisher]]"
   - "[[glossary:publishing-deal]]"
 sources:
-  - 共同出版的份额与管理安排，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；本文为通识说明，不构成法律意见
+  - 共同出版的份额与管理安排，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；不构成法律意见
 updated: 2026-10-28
 ---
 

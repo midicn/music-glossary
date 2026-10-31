@@ -16,7 +16,7 @@ links:
   - "[[glossary:non-chord-tone]]"
   - "[[glossary:counterpoint]]"
 sources:
-  - cambiata 的定义与对位用法，参 The New Grove Dictionary of Music and Musicians, "Cambiata"；本文为原创表述
+  - cambiata 的定义与对位用法，参 The New Grove Dictionary of Music and Musicians, "Cambiata"
 updated: 2026-10-28
 ---
 

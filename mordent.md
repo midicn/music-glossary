@@ -16,7 +16,7 @@ links:
   - "[[glossary:trill]]"
   - "[[glossary:ornaments]]"
 sources:
-  - 波音的两种方向与记谱，参 The New Grove Dictionary of Music and Musicians, "Mordent"；本文为原创表述
+  - 波音的两种方向与记谱，参 The New Grove Dictionary of Music and Musicians, "Mordent"
 updated: 2026-10-28
 ---
 

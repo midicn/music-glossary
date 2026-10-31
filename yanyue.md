@@ -15,7 +15,7 @@ links:
   - "[[glossary:qingyue]]"
   - "[[glossary:gongdiao]]"
 sources:
-  - 燕乐的宴飨用途、九部乐十部乐与燕乐二十八调，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 燕乐的宴飨用途、九部乐十部乐与燕乐二十八调，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

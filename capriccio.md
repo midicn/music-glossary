@@ -15,7 +15,7 @@ links:
   - "[[glossary:etude]]"
   - "[[glossary:rhapsody]]"
 sources:
-  - 随想曲从巴洛克键盘曲到帕格尼尼、勃拉姆斯的演变，参 The New Grove Dictionary of Music and Musicians, "Capriccio"；本文为原创表述
+  - 随想曲从巴洛克键盘曲到帕格尼尼、勃拉姆斯的演变，参 The New Grove Dictionary of Music and Musicians, "Capriccio"
 updated: 2026-10-28
 ---
 

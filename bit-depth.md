@@ -15,7 +15,7 @@ links:
   - "[[glossary:sample-rate]]"
   - "[[glossary:daw]]"
 sources:
-  - 位深、量化噪声与每比特 6 dB 动态范围的通行表述，参 Modern Recording Techniques（Huber & Runstein）与 The New Grove Dictionary of Music and Musicians, "Sound recording"；本文为原创表述
+  - 位深、量化噪声与每比特 6 dB 动态范围的通行表述，参 Modern Recording Techniques（Huber & Runstein）与 The New Grove Dictionary of Music and Musicians, "Sound recording"
 updated: 2026-10-28
 ---
 

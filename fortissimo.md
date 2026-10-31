@@ -16,7 +16,7 @@ links:
   - "[[glossary:pianissimo]]"
   - "[[glossary:dynamics]]"
 sources:
-  - fortissimo 的力度含义与控制，参 The New Grove Dictionary of Music and Musicians, "Dynamics"；本文为原创表述
+  - fortissimo 的力度含义与控制，参 The New Grove Dictionary of Music and Musicians, "Dynamics"
 updated: 2026-10-28
 ---
 

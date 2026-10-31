@@ -14,7 +14,7 @@ links:
   - "[[glossary:suite]]"
   - "[[glossary:opera]]"
 sources:
-  - 芭蕾音乐与舞剧配乐的历史，参 The New Grove Dictionary of Music and Musicians, "Ballet"；本文为原创表述
+  - 芭蕾音乐与舞剧配乐的历史，参 The New Grove Dictionary of Music and Musicians, "Ballet"
 updated: 2026-10-28
 ---
 

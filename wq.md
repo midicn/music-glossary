@@ -16,7 +16,7 @@ links:
   - "[[glossary:hoboken]]"
   - "[[glossary:opus]]"
 sources:
-  - Wq 与 H 两套 C. P. E. 巴赫编号的关系，参 The New Grove Dictionary of Music and Musicians, "Bach, Carl Philipp Emanuel"；本文为原创表述
+  - Wq 与 H 两套 C. P. E. 巴赫编号的关系，参 The New Grove Dictionary of Music and Musicians, "Bach, Carl Philipp Emanuel"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:concerto]]"
   - "[[glossary:tone-poem]]"
 sources:
-  - 交响曲的体裁形成、四乐章规范与十九世纪扩张，参 The New Grove Dictionary of Music and Musicians, "Symphony"；本文为原创表述
+  - 交响曲的体裁形成、四乐章规范与十九世纪扩张，参 The New Grove Dictionary of Music and Musicians, "Symphony"
 updated: 2026-10-28
 ---
 

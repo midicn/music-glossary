@@ -16,7 +16,7 @@ links:
   - "[[glossary:erhuang]]"
   - "[[glossary:theme-variations]]"
 sources:
-  - 曲牌作为曲调模板与曲牌体/板腔体的区别，参 The New Grove Dictionary of Music and Musicians, "China" 与《中国音乐词典》相关条目；本文为原创表述
+  - 曲牌作为曲调模板与曲牌体/板腔体的区别，参 The New Grove Dictionary of Music and Musicians, "China" 与《中国音乐词典》相关条目
 updated: 2026-10-28
 ---
 

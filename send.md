@@ -15,7 +15,7 @@ links:
   - "[[glossary:return]]"
   - "[[glossary:reverb]]"
 sources:
-  - 发送与返回的路由及推子前/后用法，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 发送与返回的路由及推子前/后用法，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

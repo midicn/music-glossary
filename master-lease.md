@@ -15,7 +15,7 @@ links:
   - "[[glossary:record-label]]"
   - "[[glossary:royalty]]"
 sources:
-  - 母带租赁与授权发行的区别，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；本文为通识说明，不构成法律意见
+  - 母带租赁与授权发行的区别，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；不构成法律意见
 updated: 2026-10-28
 ---
 

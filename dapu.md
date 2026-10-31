@@ -15,7 +15,7 @@ links:
   - "[[glossary:guqin]]"
   - "[[glossary:qiyun]]"
 sources:
-  - 打谱在古琴谱整理中的性质与方法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 打谱在古琴谱整理中的性质与方法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

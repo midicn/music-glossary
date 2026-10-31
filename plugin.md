@@ -16,7 +16,7 @@ links:
   - "[[glossary:latency]]"
   - "[[glossary:sampler]]"
 sources:
-  - 插件格式与宿主关系，参 Huber & Runstein, Modern Recording Techniques 与通行 DAW 文档；本文为原创表述
+  - 插件格式与宿主关系，参 Huber & Runstein, Modern Recording Techniques 与通行 DAW 文档
 updated: 2026-10-28
 ---
 

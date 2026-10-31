@@ -16,7 +16,7 @@ links:
   - "[[glossary:tenuto]]"
   - "[[glossary:staccato]]"
 sources:
-  - 突强记号与邻近力度记号的区别，参 The New Grove Dictionary of Music and Musicians, "Sforzando"；本文为原创表述
+  - 突强记号与邻近力度记号的区别，参 The New Grove Dictionary of Music and Musicians, "Sforzando"
 updated: 2026-10-28
 ---
 

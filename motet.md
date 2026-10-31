@@ -16,7 +16,7 @@ links:
   - "[[glossary:mass]]"
   - "[[glossary:madrigal]]"
 sources:
-  - 经文歌的体裁演变与复调特征，参 The New Grove Dictionary of Music and Musicians, "Motet"；本文为原创表述
+  - 经文歌的体裁演变与复调特征，参 The New Grove Dictionary of Music and Musicians, "Motet"
 updated: 2026-10-28
 ---
 

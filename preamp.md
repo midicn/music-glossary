@@ -16,7 +16,7 @@ links:
   - "[[glossary:gain-staging]]"
   - "[[glossary:noise-floor]]"
 sources:
-  - 话放的增益与染色，参通行录音教材；本文为原创表述
+  - 话放的增益与染色，参通行录音教材
 updated: 2026-10-28
 ---
 

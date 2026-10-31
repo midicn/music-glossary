@@ -16,7 +16,7 @@ links:
   - "[[glossary:legato]]"
   - "[[glossary:pizzicato]]"
 sources:
-  - double-stop 的奏法与常见难点，参 The New Grove Dictionary of Music and Musicians, "Double stop"；本文为原创表述
+  - double-stop 的奏法与常见难点，参 The New Grove Dictionary of Music and Musicians, "Double stop"
 updated: 2026-10-28
 ---
 

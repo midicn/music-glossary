@@ -15,7 +15,7 @@ links:
   - "[[glossary:transposing-instrument]]"
   - "[[glossary:octave]]"
 sources:
-  - 实际音高的记谱含义与调音标准，参 The New Grove Dictionary of Music and Musicians, "Pitch"；本文为原创表述
+  - 实际音高的记谱含义与调音标准，参 The New Grove Dictionary of Music and Musicians, "Pitch"
 updated: 2026-10-28
 ---
 

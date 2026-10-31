@@ -16,7 +16,7 @@ links:
   - "[[glossary:kv]]"
   - "[[glossary:anh]]"
 sources:
-  - K. Anh. 的用途与疑作问题，参 The New Grove Dictionary of Music and Musicians, "Mozart"；本文为原创表述
+  - K. Anh. 的用途与疑作问题，参 The New Grove Dictionary of Music and Musicians, "Mozart"
 updated: 2026-10-28
 ---
 

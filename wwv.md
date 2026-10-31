@@ -15,7 +15,7 @@ links:
   - "[[glossary:trv]]"
   - "[[glossary:opus]]"
 sources:
-  - 瓦格纳 WWV 的编排与《指环》分号，参 The New Grove Dictionary of Music and Musicians, "Wagner, Richard"；目录本体参 John Deathridge, Martin Geck and Egon Voss, Wagner Werk-Verzeichnis（1986）；本文为原创表述
+  - 瓦格纳 WWV 的编排与《指环》分号，参 The New Grove Dictionary of Music and Musicians, "Wagner, Richard"；目录本体参 John Deathridge, Martin Geck and Egon Voss, Wagner Werk-Verzeichnis（1986）
 updated: 2026-10-28
 ---
 

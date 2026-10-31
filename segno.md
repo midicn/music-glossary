@@ -15,7 +15,7 @@ links:
   - "[[glossary:coda]]"
   - "[[glossary:fine]]"
 sources:
-  - Segno 记号与 dal segno 的配合方式，参 The New Grove Dictionary of Music and Musicians, "Segno"；本文为原创表述
+  - Segno 记号与 dal segno 的配合方式，参 The New Grove Dictionary of Music and Musicians, "Segno"
 updated: 2026-10-28
 ---
 

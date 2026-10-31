@@ -15,7 +15,7 @@ links:
   - "[[glossary:con-brio]]"
   - "[[glossary:espressivo]]"
 sources:
-  - con anima 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Anima"；本文为原创表述
+  - con anima 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Anima"
 updated: 2026-10-28
 ---
 

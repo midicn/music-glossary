@@ -16,7 +16,7 @@ links:
   - "[[glossary:tessitura]]"
   - "[[glossary:octave]]"
 sources:
-  - 音域的定义与记谱，参 The New Grove Dictionary of Music and Musicians, "Range"；本文为原创表述
+  - 音域的定义与记谱，参 The New Grove Dictionary of Music and Musicians, "Range"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:chord]]"
   - "[[concept:seventh-chord]]"
 sources:
-  - 三和弦的构成与四种性质，参 The New Grove Dictionary of Music and Musicians, "Triad"；本文为原创表述
+  - 三和弦的构成与四种性质，参 The New Grove Dictionary of Music and Musicians, "Triad"
 updated: 2026-10-28
 ---
 

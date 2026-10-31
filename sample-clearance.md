@@ -16,7 +16,7 @@ links:
   - "[[glossary:master-rights]]"
   - "[[glossary:fair-use]]"
 sources:
-  - 采样清权的双层授权与常见做法，参通行音乐产业教材；本文为通识说明，不构成法律意见
+  - 采样清权的双层授权与常见做法，参通行音乐产业教材；不构成法律意见
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:room-treatment]]"
   - "[[glossary:reference-monitor]]"
 sources:
-  - 近场监听与摆位，参 Bob Katz, Mastering Audio 与 Philip Newell, Recording Studio Design；本文为原创表述
+  - 近场监听与摆位，参 Bob Katz, Mastering Audio 与 Philip Newell, Recording Studio Design
 updated: 2026-10-28
 ---
 

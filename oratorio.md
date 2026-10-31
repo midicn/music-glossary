@@ -16,7 +16,7 @@ links:
   - "[[glossary:cantata]]"
   - "[[glossary:mass]]"
 sources:
-  - 清唱剧的罗马起源、亨德尔的英语清唱剧与合唱职能，参 The New Grove Dictionary of Music and Musicians, "Oratorio"；本文为原创表述
+  - 清唱剧的罗马起源、亨德尔的英语清唱剧与合唱职能，参 The New Grove Dictionary of Music and Musicians, "Oratorio"
 updated: 2026-10-28
 ---
 

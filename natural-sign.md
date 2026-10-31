@@ -15,7 +15,7 @@ links:
   - "[[glossary:key-signature]]"
   - "[[glossary:pitch]]"
 sources:
-  - 还原号的记号来源与生效范围，参 The New Grove Dictionary of Music and Musicians, "Accidental"；本文为原创表述
+  - 还原号的记号来源与生效范围，参 The New Grove Dictionary of Music and Musicians, "Accidental"
 updated: 2026-10-28
 ---
 

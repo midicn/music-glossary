@@ -16,7 +16,7 @@ links:
   - "[[glossary:leggiero]]"
   - "[[glossary:animato]]"
 sources:
-  - giocoso 的表情含义与词源，参 The New Grove Dictionary of Music and Musicians, "Giocoso"；本文为原创表述
+  - giocoso 的表情含义与词源，参 The New Grove Dictionary of Music and Musicians, "Giocoso"
 updated: 2026-10-28
 ---
 

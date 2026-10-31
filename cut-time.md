@@ -15,7 +15,7 @@ links:
   - "[[glossary:common-time]]"
   - "[[glossary:meter]]"
 sources:
-  - Cut time 与 alla breve 的拍号关系，参 The New Grove Dictionary of Music and Musicians, "Alla breve"；本文为原创表述
+  - Cut time 与 alla breve 的拍号关系，参 The New Grove Dictionary of Music and Musicians, "Alla breve"
 updated: 2026-10-28
 ---
 

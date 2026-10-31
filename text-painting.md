@@ -16,7 +16,7 @@ links:
   - "[[glossary:madrigal]]"
   - "[[glossary:melody]]"
 sources:
-  - 词画在文艺复兴与巴洛克声乐中的用法，参 The New Grove Dictionary of Music and Musicians, "Word painting"；本文为原创表述
+  - 词画在文艺复兴与巴洛克声乐中的用法，参 The New Grove Dictionary of Music and Musicians, "Word painting"
 updated: 2026-10-28
 ---
 

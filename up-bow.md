@@ -16,7 +16,7 @@ links:
   - "[[glossary:legato]]"
   - "[[glossary:staccato]]"
 sources:
-  - 上弓记号与弦乐弓法分配，参 The New Grove Dictionary of Music and Musicians, "Bowing"；本文为原创表述
+  - 上弓记号与弦乐弓法分配，参 The New Grove Dictionary of Music and Musicians, "Bowing"
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:cabaret]]"
   - "[[glossary:vaudeville]]"
 sources:
-  - 巴黎时事歌舞剧的段子结构、齐格飞富丽秀与百老汇，参 The New Grove Dictionary of Music and Musicians, "Revue"；本文为原创表述
+  - 巴黎时事歌舞剧的段子结构、齐格飞富丽秀与百老汇，参 The New Grove Dictionary of Music and Musicians, "Revue"
 updated: 2026-10-28
 ---
 

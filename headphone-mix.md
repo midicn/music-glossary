@@ -16,7 +16,7 @@ links:
   - "[[glossary:mixdown]]"
   - "[[glossary:nearfield-monitor]]"
 sources:
-  - 耳机监听与混音校验，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 耳机监听与混音校验，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

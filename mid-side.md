@@ -15,7 +15,7 @@ links:
   - "[[glossary:polar-pattern]]"
   - "[[glossary:phase-check]]"
 sources:
-  - 中侧矩阵与立体声拾音，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques；本文为原创表述
+  - 中侧矩阵与立体声拾音，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques
 updated: 2026-10-28
 ---
 

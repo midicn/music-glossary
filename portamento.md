@@ -16,7 +16,7 @@ links:
   - "[[glossary:legato]]"
   - "[[instrument:violin]]"
 sources:
-  - portamento 与 glissando 的区别，参 The New Grove Dictionary of Music and Musicians, "Portamento"；本文为原创表述
+  - portamento 与 glissando 的区别，参 The New Grove Dictionary of Music and Musicians, "Portamento"
 updated: 2026-10-28
 ---
 

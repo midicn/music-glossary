@@ -16,7 +16,7 @@ links:
   - "[[concept:phrase]]"
   - "[[concept:form]]"
 sources:
-  - 乐段与前句、后句的定义和类型，参 The New Grove Dictionary of Music and Musicians, "Period"；本文为原创表述
+  - 乐段与前句、后句的定义和类型，参 The New Grove Dictionary of Music and Musicians, "Period"
 updated: 2026-10-28
 ---
 

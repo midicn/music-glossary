@@ -14,7 +14,7 @@ links:
   - "[[glossary:bwv]]"
   - "[[glossary:hwv]]"
 sources:
-  - 泰勒曼 TWV 与 TVWV 的分工，参 The New Grove Dictionary of Music and Musicians, "Telemann, Georg Philipp"；目录本体参 Martin Ruhnke, Telemann-Werke-Verzeichnis（1984）与 Werner Menke, Telemann-Vokalwerke-Verzeichnis（1982）；本文为原创表述
+  - 泰勒曼 TWV 与 TVWV 的分工，参 The New Grove Dictionary of Music and Musicians, "Telemann, Georg Philipp"；目录本体参 Martin Ruhnke, Telemann-Werke-Verzeichnis（1984）与 Werner Menke, Telemann-Vokalwerke-Verzeichnis（1982）
 updated: 2026-10-28
 ---
 

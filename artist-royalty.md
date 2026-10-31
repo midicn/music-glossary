@@ -15,7 +15,7 @@ links:
   - "[[glossary:recoupment]]"
   - "[[glossary:record-label]]"
 sources:
-  - 艺人版税的计算与扣项，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；本文为通识说明，不构成法律意见
+  - 艺人版税的计算与扣项，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；不构成法律意见
 updated: 2026-10-28
 ---
 

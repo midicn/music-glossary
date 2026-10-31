@@ -15,7 +15,7 @@ links:
   - "[[glossary:meter]]"
   - "[[glossary:divisive-rhythm]]"
 sources:
-  - 定义与跨文化用法参 The New Grove Dictionary of Music and Musicians, "Rhythm"；本文为原创表述
+  - 定义与跨文化用法参 The New Grove Dictionary of Music and Musicians, "Rhythm"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:ben]]"
   - "[[glossary:tempo]]"
 sources:
-  - quasi 作为体裁/性格修饰语的用法，参 The New Grove Dictionary of Music and Musicians, "Quasi"；本文为原创表述
+  - quasi 作为体裁/性格修饰语的用法，参 The New Grove Dictionary of Music and Musicians, "Quasi"
 updated: 2026-10-28
 ---
 

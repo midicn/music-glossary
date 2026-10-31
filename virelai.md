@@ -15,7 +15,7 @@ links:
   - "[[glossary:ballade]]"
   - "[[glossary:rondeau]]"
 sources:
-  - 法语维勒莱的叠句与诗节结构、马肖的写作及舞蹈歌别名，参 The New Grove Dictionary of Music and Musicians, "Virelai"；本文为原创表述
+  - 法语维勒莱的叠句与诗节结构、马肖的写作及舞蹈歌别名，参 The New Grove Dictionary of Music and Musicians, "Virelai"
 updated: 2026-10-28
 ---
 

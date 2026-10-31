@@ -15,7 +15,7 @@ links:
   - "[[glossary:repeat-sign]]"
   - "[[glossary:sonata-form]]"
 sources:
-  - 二部曲式的类型、反复与回归写法，参 The New Grove Dictionary of Music and Musicians, "Binary form"；本文为原创表述
+  - 二部曲式的类型、反复与回归写法，参 The New Grove Dictionary of Music and Musicians, "Binary form"
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:condenser-microphone]]"
   - "[[glossary:dynamic-microphone]]"
 sources:
-  - 铝带换能与双向拾音，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques；本文为原创表述
+  - 铝带换能与双向拾音，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques
 updated: 2026-10-28
 ---
 

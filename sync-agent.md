@@ -15,7 +15,7 @@ links:
   - "[[glossary:master-rights]]"
   - "[[glossary:music-publisher]]"
 sources:
-  - 同步代理的职能与授权流程，参通行影视音乐教材与通行音乐产业教材；本文为通识说明，不构成法律意见
+  - 同步代理的职能与授权流程，参通行影视音乐教材与通行音乐产业教材；不构成法律意见
 updated: 2026-10-28
 ---
 

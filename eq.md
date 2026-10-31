@@ -16,7 +16,7 @@ links:
   - "[[glossary:reverb]]"
   - "[[glossary:bus]]"
 sources:
-  - EQ 的类型与参数，参通行录音教材（如 Huber & Runstein, Modern Recording Techniques）与 The New Grove Dictionary of Music and Musicians, "Equalization"；本文为原创表述
+  - EQ 的类型与参数，参通行录音教材（如 Huber & Runstein, Modern Recording Techniques）与 The New Grove Dictionary of Music and Musicians, "Equalization"
 updated: 2026-10-28
 ---
 

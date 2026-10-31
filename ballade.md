@@ -15,7 +15,7 @@ links:
   - "[[glossary:rondeau]]"
   - "[[glossary:virelai]]"
 sources:
-  - 法语叙事歌的三节叠句结构、马肖的复调处理与后续演变，参 The New Grove Dictionary of Music and Musicians, "Ballade"；本文为原创表述
+  - 法语叙事歌的三节叠句结构、马肖的复调处理与后续演变，参 The New Grove Dictionary of Music and Musicians, "Ballade"
 updated: 2026-10-28
 ---
 

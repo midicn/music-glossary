@@ -16,7 +16,7 @@ links:
   - "[[instrument:koto]]"
   - "[[glossary:janggu]]"
 sources:
-  - 各语种乐器名与伽倻琴的形制，参 The New Grove Dictionary of Music and Musicians, "Kayagum"；本文为原创表述
+  - 各语种乐器名与伽倻琴的形制，参 The New Grove Dictionary of Music and Musicians, "Kayagum"
 updated: 2026-10-28
 ---
 

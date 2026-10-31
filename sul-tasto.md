@@ -16,7 +16,7 @@ links:
   - "[[glossary:con-sordino]]"
   - "[[glossary:legato]]"
 sources:
-  - sul tasto 的弓位与音色，参 The New Grove Dictionary of Music and Musicians, "Sul tasto"；本文为原创表述
+  - sul tasto 的弓位与音色，参 The New Grove Dictionary of Music and Musicians, "Sul tasto"
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:short-score]]"
   - "[[glossary:vocal-score]]"
 sources:
-  - 大总谱与缩编谱的区分，参 The New Grove Dictionary of Music and Musicians, "Score"；本文为原创表述
+  - 大总谱与缩编谱的区分，参 The New Grove Dictionary of Music and Musicians, "Score"
 updated: 2026-10-28
 ---
 

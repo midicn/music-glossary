@@ -15,7 +15,7 @@ links:
   - "[[glossary:borrowed-chord]]"
   - "[[glossary:key]]"
 sources:
-  - 同主音调的定义与借用关系，参 The New Grove Dictionary of Music and Musicians, "Key"；本文为原创表述
+  - 同主音调的定义与借用关系，参 The New Grove Dictionary of Music and Musicians, "Key"
 updated: 2026-10-28
 ---
 

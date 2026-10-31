@@ -15,7 +15,7 @@ links:
   - "[[glossary:anh]]"
   - "[[glossary:hess]]"
 sources:
-  - BWV Anh. 的分组与佩措尔德归属，参 The New Grove Dictionary of Music and Musicians, "Bach, Johann Sebastian"；目录本体参 Wolfgang Schmieder, Bach-Werke-Verzeichnis（1990 修订版）；本文为原创表述
+  - BWV Anh. 的分组与佩措尔德归属，参 The New Grove Dictionary of Music and Musicians, "Bach, Johann Sebastian"；目录本体参 Wolfgang Schmieder, Bach-Werke-Verzeichnis（1990 修订版）
 updated: 2026-10-28
 ---
 

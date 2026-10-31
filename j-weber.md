@@ -16,7 +16,7 @@ links:
   - "[[glossary:opus]]"
   - "[[glossary:fp]]"
 sources:
-  - 韦伯 J. 编号的来源，参 The New Grove Dictionary of Music and Musicians, "Weber"；本文为原创表述
+  - 韦伯 J. 编号的来源，参 The New Grove Dictionary of Music and Musicians, "Weber"
 updated: 2026-10-28
 ---
 

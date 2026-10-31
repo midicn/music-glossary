@@ -15,7 +15,7 @@ links:
   - "[[glossary:chord]]"
   - "[[glossary:key-signature]]"
 sources:
-  - 领谱的构成与爵士演奏惯例，参 The New Grove Dictionary of Music and Musicians, "Lead sheet"；本文为原创表述
+  - 领谱的构成与爵士演奏惯例，参 The New Grove Dictionary of Music and Musicians, "Lead sheet"
 updated: 2026-10-28
 ---
 

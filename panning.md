@@ -15,7 +15,7 @@ links:
   - "[[glossary:bus]]"
   - "[[glossary:reverb]]"
 sources:
-  - 声像定位与单声道兼容，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 声像定位与单声道兼容，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

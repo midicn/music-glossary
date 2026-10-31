@@ -16,7 +16,7 @@ links:
   - "[[glossary:key-signature]]"
   - "[[glossary:mode]]"
 sources:
-  - 调的构成与调号/调性的区别，参 The New Grove Dictionary of Music and Musicians, "Key"；本文为原创表述
+  - 调的构成与调号/调性的区别，参 The New Grove Dictionary of Music and Musicians, "Key"
 updated: 2026-10-28
 ---
 

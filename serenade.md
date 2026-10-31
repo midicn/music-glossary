@@ -15,7 +15,7 @@ links:
   - "[[glossary:nocturne]]"
   - "[[glossary:string-quartet]]"
 sources:
-  - 小夜曲的声乐与器乐两条传统，参 The New Grove Dictionary of Music and Musicians, "Serenade"；本文为原创表述
+  - 小夜曲的声乐与器乐两条传统，参 The New Grove Dictionary of Music and Musicians, "Serenade"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:texture]]"
   - "[[concept:counterpoint]]"
 sources:
-  - 持续音的定义、类型与和声功能，参 The New Grove Dictionary of Music and Musicians, "Pedal point"；本文为原创表述
+  - 持续音的定义、类型与和声功能，参 The New Grove Dictionary of Music and Musicians, "Pedal point"
 updated: 2026-10-28
 ---
 

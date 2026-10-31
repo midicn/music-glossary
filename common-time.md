@@ -15,7 +15,7 @@ links:
   - "[[glossary:cut-time]]"
   - "[[glossary:alla-breve]]"
 sources:
-  - Common time 的 C 记号来源与 4/4 含义，参 The New Grove Dictionary of Music and Musicians, "Time signature"；本文为原创表述
+  - Common time 的 C 记号来源与 4/4 含义，参 The New Grove Dictionary of Music and Musicians, "Time signature"
 updated: 2026-10-28
 ---
 

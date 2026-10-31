@@ -16,7 +16,7 @@ links:
   - "[[concept:harmonic-series]]"
   - "[[glossary:interval]]"
 sources:
-  - 音色由分音结构、包络与噪声成分共同决定的通行表述（参 The New Grove Dictionary of Music and Musicians, "Timbre"；ANSI 声学术语）；本文为原创表述
+  - 音色由分音结构、包络与噪声成分共同决定的通行表述（参 The New Grove Dictionary of Music and Musicians, "Timbre"；ANSI 声学术语）
 updated: 2026-10-28
 ---
 

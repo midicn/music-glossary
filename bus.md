@@ -16,7 +16,7 @@ links:
   - "[[glossary:compressor]]"
   - "[[glossary:automation]]"
 sources:
-  - 总线与编组的路由概念，参通行录音教材（Huber & Runstein, Modern Recording Techniques）；本文为原创表述
+  - 总线与编组的路由概念，参通行录音教材（Huber & Runstein, Modern Recording Techniques）
 updated: 2026-10-28
 ---
 

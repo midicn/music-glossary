@@ -15,7 +15,7 @@ links:
   - "[[glossary:lied]]"
   - "[[glossary:ballade]]"
 sources:
-  - 法语尚松从马肖、勃艮第乐派到巴黎尚松的演变，参 The New Grove Dictionary of Music and Musicians, "Chanson"；本文为原创表述
+  - 法语尚松从马肖、勃艮第乐派到巴黎尚松的演变，参 The New Grove Dictionary of Music and Musicians, "Chanson"
 updated: 2026-10-28
 ---
 

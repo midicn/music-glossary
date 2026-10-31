@@ -15,7 +15,7 @@ links:
   - "[[glossary:sanxian]]"
   - "[[glossary:qupai]]"
 sources:
-  - 苏州评话与弹词的体制、书调、流派与伴奏乐器，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 苏州评话与弹词的体制、书调、流派与伴奏乐器，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

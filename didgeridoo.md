@@ -16,7 +16,7 @@ links:
   - "[[glossary:bagpipe]]"
   - "[[instrument:flute]]"
 sources:
-  - 各语种乐器名与原住民吹管传统，参 The New Grove Dictionary of Music and Musicians, "Didjeridu"；本文为原创表述
+  - 各语种乐器名与原住民吹管传统，参 The New Grove Dictionary of Music and Musicians, "Didjeridu"
 updated: 2026-10-28
 ---
 

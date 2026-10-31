@@ -16,7 +16,7 @@ links:
   - "[[glossary:largo]]"
   - "[[concept:tempo]]"
 sources:
-  - maestoso 的表情与速度含义，参 The New Grove Dictionary of Music and Musicians, "Maestoso"；本文为原创表述
+  - maestoso 的表情与速度含义，参 The New Grove Dictionary of Music and Musicians, "Maestoso"
 updated: 2026-10-28
 ---
 

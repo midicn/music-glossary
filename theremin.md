@@ -16,7 +16,7 @@ links:
   - "[[glossary:synthesizer]]"
   - "[[glossary:celesta]]"
 sources:
-  - 各语种乐器名依通行音乐术语词典（参 The New Grove Dictionary of Music and Musicians, "Theremin"）；本文为原创表述
+  - 各语种乐器名依通行音乐术语词典（参 The New Grove Dictionary of Music and Musicians, "Theremin"）
 updated: 2026-10-28
 ---
 

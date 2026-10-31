@@ -15,7 +15,7 @@ links:
   - "[[glossary:lied]]"
   - "[[glossary:ballade]]"
 sources:
-  - 分节歌的定义、变化分节与歌曲用法，参 The New Grove Dictionary of Music and Musicians, "Strophic"；本文为原创表述
+  - 分节歌的定义、变化分节与歌曲用法，参 The New Grove Dictionary of Music and Musicians, "Strophic"
 updated: 2026-10-28
 ---
 

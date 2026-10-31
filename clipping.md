@@ -16,7 +16,7 @@ links:
   - "[[glossary:gain-staging]]"
   - "[[glossary:compressor]]"
 sources:
-  - 削波与真峰值，参 Bob Katz, Mastering Audio 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 削波与真峰值，参 Bob Katz, Mastering Audio 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

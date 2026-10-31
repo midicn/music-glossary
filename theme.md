@@ -16,7 +16,7 @@ links:
   - "[[concept:motive]]"
   - "[[concept:form]]"
 sources:
-  - 主题的定义、类型与在曲式中的功能，参 The New Grove Dictionary of Music and Musicians, "Theme"；本文为原创表述
+  - 主题的定义、类型与在曲式中的功能，参 The New Grove Dictionary of Music and Musicians, "Theme"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:non-chord-tone]]"
   - "[[glossary:resolution]]"
 sources:
-  - 倚音的时值规则与历史用法，参 The New Grove Dictionary of Music and Musicians, "Appoggiatura"；本文为原创表述
+  - 倚音的时值规则与历史用法，参 The New Grove Dictionary of Music and Musicians, "Appoggiatura"
 updated: 2026-10-28
 ---
 

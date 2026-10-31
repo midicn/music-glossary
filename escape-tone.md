@@ -16,7 +16,7 @@ links:
   - "[[glossary:cambiata]]"
   - "[[glossary:non-chord-tone]]"
 sources:
-  - 逃音（échappée）的定义，参 The New Grove Dictionary of Music and Musicians, "Non-chord tone"；本文为原创表述
+  - 逃音（échappée）的定义，参 The New Grove Dictionary of Music and Musicians, "Non-chord tone"
 updated: 2026-10-28
 ---
 

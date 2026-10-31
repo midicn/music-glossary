@@ -16,7 +16,7 @@ links:
   - "[[glossary:hardanger-fiddle]]"
   - "[[glossary:hurdy-gurdy]]"
 sources:
-  - 各语种乐器名与键提琴构造，参 The New Grove Dictionary of Music and Musicians, "Nyckelharpa"；本文为原创表述
+  - 各语种乐器名与键提琴构造，参 The New Grove Dictionary of Music and Musicians, "Nyckelharpa"
 updated: 2026-10-28
 ---
 

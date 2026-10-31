@@ -16,7 +16,7 @@ links:
   - "[[glossary:ornaments]]"
   - "[[glossary:cadence]]"
 sources:
-  - fioritura 的含义与在歌剧中的用法，参 The New Grove Dictionary of Music and Musicians, "Fioritura"；本文为原创表述
+  - fioritura 的含义与在歌剧中的用法，参 The New Grove Dictionary of Music and Musicians, "Fioritura"
 updated: 2026-10-28
 ---
 

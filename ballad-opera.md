@@ -15,7 +15,7 @@ links:
   - "[[glossary:singspiel]]"
   - "[[glossary:operetta]]"
 sources:
-  - 谣曲歌剧的《乞丐歌剧》开端、借曲填词与政治讽刺，参 The New Grove Dictionary of Music and Musicians, "Ballad opera"；本文为原创表述
+  - 谣曲歌剧的《乞丐歌剧》开端、借曲填词与政治讽刺，参 The New Grove Dictionary of Music and Musicians, "Ballad opera"
 updated: 2026-10-28
 ---
 

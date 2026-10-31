@@ -15,7 +15,7 @@ links:
   - "[[glossary:extended-chord]]"
   - "[[glossary:chord]]"
 sources:
-  - 十三和弦的省略与记谱，参 The New Grove Dictionary of Music and Musicians, "Chord"；本文为原创表述
+  - 十三和弦的省略与记谱，参 The New Grove Dictionary of Music and Musicians, "Chord"
 updated: 2026-10-28
 ---
 

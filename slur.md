@@ -16,7 +16,7 @@ links:
   - "[[concept:ties-slurs]]"
   - "[[glossary:legato]]"
 sources:
-  - 连音线在不同乐器上的含义，参 The New Grove Dictionary of Music and Musicians, "Slur" 与 "Articulation"；本文为原创表述
+  - 连音线在不同乐器上的含义，参 The New Grove Dictionary of Music and Musicians, "Slur" 与 "Articulation"
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:fugue]]"
   - "[[glossary:theme-variations]]"
 sources:
-  - 幻想曲的自由写法、巴洛克对位与现代改编，参 The New Grove Dictionary of Music and Musicians, "Fantasia"；本文为原创表述
+  - 幻想曲的自由写法、巴洛克对位与现代改编，参 The New Grove Dictionary of Music and Musicians, "Fantasia"
 updated: 2026-10-28
 ---
 

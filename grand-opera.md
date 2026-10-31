@@ -15,7 +15,7 @@ links:
   - "[[glossary:ballet-music]]"
   - "[[glossary:music-drama]]"
 sources:
-  - 巴黎大歌剧的五幕体制、历史题材与芭蕾场面，参 The New Grove Dictionary of Music and Musicians, "Grand opéra"；本文为原创表述
+  - 巴黎大歌剧的五幕体制、历史题材与芭蕾场面，参 The New Grove Dictionary of Music and Musicians, "Grand opéra"
 updated: 2026-10-28
 ---
 

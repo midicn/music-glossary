@@ -16,7 +16,7 @@ links:
   - "[[glossary:yayue]]"
   - "[[glossary:concert-pitch]]"
 sources:
-  - 十二律与律管的制度，参《中国音乐词典》与 Grove "China"；本文为原创表述
+  - 十二律与律管的制度，参《中国音乐词典》与 Grove "China"
 updated: 2026-10-28
 ---
 

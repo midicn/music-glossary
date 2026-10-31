@@ -15,7 +15,7 @@ links:
   - "[[glossary:full-score]]"
   - "[[glossary:vocal-score]]"
 sources:
-  - 缩写总谱的形态与用途，参 The New Grove Dictionary of Music and Musicians, "Short score"；本文为原创表述
+  - 缩写总谱的形态与用途，参 The New Grove Dictionary of Music and Musicians, "Short score"
 updated: 2026-10-28
 ---
 

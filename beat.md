@@ -16,7 +16,7 @@ links:
   - "[[glossary:rhythm]]"
   - "[[glossary:tempo]]"
 sources:
-  - 拍作为脉冲单位与拍号、速度的关系，参 The New Grove Dictionary of Music and Musicians, "Beat" 与 "Metre"；本文为原创表述
+  - 拍作为脉冲单位与拍号、速度的关系，参 The New Grove Dictionary of Music and Musicians, "Beat" 与 "Metre"
 updated: 2026-10-28
 ---
 

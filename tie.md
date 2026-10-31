@@ -16,7 +16,7 @@ links:
   - "[[concept:ties-slurs]]"
   - "[[glossary:legato]]"
 sources:
-  - 延音线与连音线的区别，参 The New Grove Dictionary of Music and Musicians, "Tie" 与 "Slur"；本文为原创表述
+  - 延音线与连音线的区别，参 The New Grove Dictionary of Music and Musicians, "Tie" 与 "Slur"
 updated: 2026-10-28
 ---
 

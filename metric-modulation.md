@@ -15,7 +15,7 @@ links:
   - "[[glossary:tempo]]"
   - "[[glossary:beat]]"
 sources:
-  - 术语、比例换算与实例参 The New Grove Dictionary of Music and Musicians, "Metric modulation"；本文为原创表述
+  - 术语、比例换算与实例参 The New Grove Dictionary of Music and Musicians, "Metric modulation"
 updated: 2026-10-28
 ---
 

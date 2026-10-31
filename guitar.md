@@ -16,7 +16,7 @@ links:
   - "[[instrument:acoustic-guitar]]"
   - "[[glossary:violin]]"
 sources:
-  - 各语种乐器名与 guitar 的词源，参 The New Grove Dictionary of Music and Musicians, "Guitar"；本文为原创表述
+  - 各语种乐器名与 guitar 的词源，参 The New Grove Dictionary of Music and Musicians, "Guitar"
 updated: 2026-10-28
 ---
 

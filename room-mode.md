@@ -15,7 +15,7 @@ links:
   - "[[glossary:bass-trap]]"
   - "[[glossary:comb-filtering]]"
 sources:
-  - 房间模式与低频驻波，参 Everest & Pohlmann, Master Handbook of Acoustics 与 Philip Newell, Recording Studio Design；本文为原创表述
+  - 房间模式与低频驻波，参 Everest & Pohlmann, Master Handbook of Acoustics 与 Philip Newell, Recording Studio Design
 updated: 2026-10-28
 ---
 

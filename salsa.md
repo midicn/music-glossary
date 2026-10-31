@@ -16,7 +16,7 @@ links:
   - "[[glossary:mambo]]"
   - "[[glossary:clave]]"
 sources:
-  - 萨尔萨的音乐构成与 clave 节奏，参 The New Grove Dictionary of Music and Musicians, "Salsa"；本文为原创表述
+  - 萨尔萨的音乐构成与 clave 节奏，参 The New Grove Dictionary of Music and Musicians, "Salsa"
 updated: 2026-10-28
 ---
 

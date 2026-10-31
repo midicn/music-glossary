@@ -15,7 +15,7 @@ links:
   - "[[glossary:deciso]]"
   - "[[glossary:energico]]"
 sources:
-  - marcato 的奏法含义与词源，参 The New Grove Dictionary of Music and Musicians, "Marcato"；本文为原创表述
+  - marcato 的奏法含义与词源，参 The New Grove Dictionary of Music and Musicians, "Marcato"
 updated: 2026-10-28
 ---
 

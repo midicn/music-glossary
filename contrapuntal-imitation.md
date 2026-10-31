@@ -15,7 +15,7 @@ links:
   - "[[glossary:fugue]]"
   - "[[glossary:invertible-counterpoint]]"
 sources:
-  - 模仿的种类、进入方式与在复调中的功能，参 The New Grove Dictionary of Music and Musicians, "Imitation"；本文为原创表述
+  - 模仿的种类、进入方式与在复调中的功能，参 The New Grove Dictionary of Music and Musicians, "Imitation"
 updated: 2026-10-28
 ---
 

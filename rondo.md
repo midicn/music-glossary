@@ -16,7 +16,7 @@ links:
   - "[[glossary:sonata-form]]"
   - "[[glossary:theme-variations]]"
 sources:
-  - 回旋曲的 ABACA 结构与历史用法，参 The New Grove Dictionary of Music and Musicians, "Rondo"；本文为原创表述
+  - 回旋曲的 ABACA 结构与历史用法，参 The New Grove Dictionary of Music and Musicians, "Rondo"
 updated: 2026-10-28
 ---
 

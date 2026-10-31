@@ -15,7 +15,7 @@ links:
   - "[[glossary:opera-buffa]]"
   - "[[glossary:aria]]"
 sources:
-  - 正歌剧的三幕程式、退场咏叹调与阉人歌手，参 The New Grove Dictionary of Music and Musicians, "Opera seria"；本文为原创表述
+  - 正歌剧的三幕程式、退场咏叹调与阉人歌手，参 The New Grove Dictionary of Music and Musicians, "Opera seria"
 updated: 2026-10-28
 ---
 

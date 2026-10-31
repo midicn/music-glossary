@@ -16,7 +16,7 @@ links:
   - "[[glossary:ornaments]]"
   - "[[glossary:opera]]"
 sources:
-  - coloratura 的声乐含义与历史，参 The New Grove Dictionary of Music and Musicians, "Coloratura"；本文为原创表述
+  - coloratura 的声乐含义与历史，参 The New Grove Dictionary of Music and Musicians, "Coloratura"
 updated: 2026-10-28
 ---
 

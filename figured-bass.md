@@ -15,7 +15,7 @@ links:
   - "[[glossary:counterpoint]]"
   - "[[glossary:continuo]]"
 sources:
-  - 数字低音的数字含义与实现惯例，参 The New Grove Dictionary of Music and Musicians, "Figured bass"；本文为原创表述
+  - 数字低音的数字含义与实现惯例，参 The New Grove Dictionary of Music and Musicians, "Figured bass"
 updated: 2026-10-28
 ---
 

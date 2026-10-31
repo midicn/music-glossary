@@ -15,7 +15,7 @@ links:
   - "[[glossary:xuangong]]"
   - "[[glossary:gongdiao]]"
 sources:
-  - 三分损益的损一益一算法与十二律不闭合，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 三分损益的损一益一算法与十二律不闭合，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

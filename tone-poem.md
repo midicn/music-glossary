@@ -15,7 +15,7 @@ links:
   - "[[glossary:symphony]]"
   - "[[glossary:opera]]"
 sources:
-  - 交响诗的单乐章标题性构思、李斯特的奠基与主题变形，参 The New Grove Dictionary of Music and Musicians, "Symphonic poem"；本文为原创表述
+  - 交响诗的单乐章标题性构思、李斯特的奠基与主题变形，参 The New Grove Dictionary of Music and Musicians, "Symphonic poem"
 updated: 2026-10-28
 ---
 

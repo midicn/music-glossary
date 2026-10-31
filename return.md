@@ -15,7 +15,7 @@ links:
   - "[[glossary:bus]]"
   - "[[glossary:reverb]]"
 sources:
-  - 效果返回通道的作用与共享方式，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 效果返回通道的作用与共享方式，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:legato]]"
   - "[[glossary:accent]]"
 sources:
-  - 断奏记号的演奏含义与不同乐器上的实现，参 The New Grove Dictionary of Music and Musicians, "Articulation" 与通行乐理教材；本文为原创表述
+  - 断奏记号的演奏含义与不同乐器上的实现，参 The New Grove Dictionary of Music and Musicians, "Articulation" 与通行乐理教材
 updated: 2026-10-28
 ---
 

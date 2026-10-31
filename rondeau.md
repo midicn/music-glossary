@@ -15,7 +15,7 @@ links:
   - "[[glossary:ballade]]"
   - "[[glossary:virelai]]"
 sources:
-  - 法语回旋歌的叠句结构、马肖与迪费的复调写作，参 The New Grove Dictionary of Music and Musicians, "Rondeau"；本文为原创表述
+  - 法语回旋歌的叠句结构、马肖与迪费的复调写作，参 The New Grove Dictionary of Music and Musicians, "Rondeau"
 updated: 2026-10-28
 ---
 

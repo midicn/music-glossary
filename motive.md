@@ -16,7 +16,7 @@ links:
   - "[[concept:melody]]"
   - "[[concept:phrase]]"
 sources:
-  - 动机的定义、识别与变形手法，参 The New Grove Dictionary of Music and Musicians, "Motif"；本文为原创表述
+  - 动机的定义、识别与变形手法，参 The New Grove Dictionary of Music and Musicians, "Motif"
 updated: 2026-10-28
 ---
 

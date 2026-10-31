@@ -15,7 +15,7 @@ links:
   - "[[glossary:comb-filtering]]"
   - "[[glossary:stereo-technique]]"
 sources:
-  - 相位与多麦克风叠加，参 Huber & Runstein, Modern Recording Techniques 与 Bobby Owsinski, The Mixing Engineer's Handbook；本文为原创表述
+  - 相位与多麦克风叠加，参 Huber & Runstein, Modern Recording Techniques 与 Bobby Owsinski, The Mixing Engineer's Handbook
 updated: 2026-10-28
 ---
 

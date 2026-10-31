@@ -16,7 +16,7 @@ links:
   - "[[glossary:tonality]]"
   - "[[glossary:circle-of-fifths]]"
 sources:
-  - 调号的记谱规则与关系大小调的共享，参 The New Grove Dictionary of Music and Musicians, "Key signature"；本文为原创表述
+  - 调号的记谱规则与关系大小调的共享，参 The New Grove Dictionary of Music and Musicians, "Key signature"
 updated: 2026-10-28
 ---
 

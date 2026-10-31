@@ -15,7 +15,7 @@ links:
   - "[[glossary:dynamic-microphone]]"
   - "[[glossary:polar-pattern]]"
 sources:
-  - 麦克风类型与录音基础，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques；本文为原创表述
+  - 麦克风类型与录音基础，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques
 updated: 2026-10-28
 ---
 

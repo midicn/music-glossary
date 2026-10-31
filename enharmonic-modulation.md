@@ -15,7 +15,7 @@ links:
   - "[[glossary:common-tone-modulation]]"
   - "[[glossary:augmented-sixth]]"
 sources:
-  - 等音转调的手法与解决，参 The New Grove Dictionary of Music and Musicians, "Modulation"；本文为原创表述
+  - 等音转调的手法与解决，参 The New Grove Dictionary of Music and Musicians, "Modulation"
 updated: 2026-10-28
 ---
 

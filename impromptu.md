@@ -15,7 +15,7 @@ links:
   - "[[glossary:character-piece]]"
   - "[[glossary:etude]]"
 sources:
-  - 即兴曲在舒伯特、肖邦与福雷手中的形态，参 The New Grove Dictionary of Music and Musicians, "Impromptu"；本文为原创表述
+  - 即兴曲在舒伯特、肖邦与福雷手中的形态，参 The New Grove Dictionary of Music and Musicians, "Impromptu"
 updated: 2026-10-28
 ---
 

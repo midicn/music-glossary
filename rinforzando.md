@@ -16,7 +16,7 @@ links:
   - "[[glossary:tenuto]]"
   - "[[glossary:legato]]"
 sources:
-  - rinforzando 与 sforzando 的用法差异，参 The New Grove Dictionary of Music and Musicians, "Rinforzando"；本文为原创表述
+  - rinforzando 与 sforzando 的用法差异，参 The New Grove Dictionary of Music and Musicians, "Rinforzando"
 updated: 2026-10-28
 ---
 

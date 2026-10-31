@@ -16,7 +16,7 @@ links:
   - "[[glossary:portamento]]"
   - "[[instrument:trombone]]"
 sources:
-  - glissando 与 portamento 的区别及不同乐器上的实现，参 The New Grove Dictionary of Music and Musicians, "Glissando" 与 "Portamento"；本文为原创表述
+  - glissando 与 portamento 的区别及不同乐器上的实现，参 The New Grove Dictionary of Music and Musicians, "Glissando" 与 "Portamento"
 updated: 2026-10-28
 ---
 

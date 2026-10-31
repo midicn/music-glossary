@@ -16,7 +16,7 @@ links:
   - "[[glossary:bit-depth]]"
   - "[[glossary:preamp]]"
 sources:
-  - 噪声底与信噪比，参通行录音教材；本文为原创表述
+  - 噪声底与信噪比，参通行录音教材
 updated: 2026-10-28
 ---
 

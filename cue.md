@@ -15,7 +15,7 @@ links:
   - "[[glossary:score]]"
   - "[[glossary:rehearsal-mark]]"
 sources:
-  - 分谱中提示乐句的写法，参 The New Grove Dictionary of Music and Musicians, "Cue"；本文为原创表述
+  - 分谱中提示乐句的写法，参 The New Grove Dictionary of Music and Musicians, "Cue"
 updated: 2026-10-28
 ---
 

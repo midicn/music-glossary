@@ -16,7 +16,7 @@ links:
   - "[[glossary:bass-drum]]"
   - "[[glossary:timpani]]"
 sources:
-  - 各语种乐器名与小军鼓的响弦构造，参 The New Grove Dictionary of Music and Musicians, "Snare drum"；本文为原创表述
+  - 各语种乐器名与小军鼓的响弦构造，参 The New Grove Dictionary of Music and Musicians, "Snare drum"
 updated: 2026-10-28
 ---
 

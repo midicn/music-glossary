@@ -16,7 +16,7 @@ links:
   - "[[glossary:clipping]]"
   - "[[glossary:bit-depth]]"
 sources:
-  - 数字余量与峰值表，参 Bob Katz, Mastering Audio 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 数字余量与峰值表，参 Bob Katz, Mastering Audio 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

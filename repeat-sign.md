@@ -16,7 +16,7 @@ links:
   - "[[concept:form]]"
   - "[[glossary:suite]]"
 sources:
-  - 反复记号与第一/第二结尾的用法，参 The New Grove Dictionary of Music and Musicians, "Repeat"；本文为原创表述
+  - 反复记号与第一/第二结尾的用法，参 The New Grove Dictionary of Music and Musicians, "Repeat"
 updated: 2026-10-28
 ---
 

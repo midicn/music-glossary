@@ -16,7 +16,7 @@ links:
   - "[[glossary:key-signature]]"
   - "[[glossary:octave]]"
 sources:
-  - 变音记号的记号含义、生效范围与调号的关系，参 The New Grove Dictionary of Music and Musicians, "Accidental"；本文为原创表述
+  - 变音记号的记号含义、生效范围与调号的关系，参 The New Grove Dictionary of Music and Musicians, "Accidental"
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:masque]]"
   - "[[glossary:incidental-music]]"
 sources:
-  - 哑剧的芭蕾哑剧源流与英国圣诞童话剧支系，参 The New Grove Dictionary of Music and Musicians, "Pantomime"；本文为原创表述
+  - 哑剧的芭蕾哑剧源流与英国圣诞童话剧支系，参 The New Grove Dictionary of Music and Musicians, "Pantomime"
 updated: 2026-10-28
 ---
 

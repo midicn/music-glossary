@@ -16,7 +16,7 @@ links:
   - "[[glossary:trill]]"
   - "[[instrument:violin]]"
 sources:
-  - tremolo 的两种形态与记谱，参 The New Grove Dictionary of Music and Musicians, "Tremolo"；本文为原创表述
+  - tremolo 的两种形态与记谱，参 The New Grove Dictionary of Music and Musicians, "Tremolo"
 updated: 2026-10-28
 ---
 

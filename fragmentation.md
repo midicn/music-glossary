@@ -15,7 +15,7 @@ links:
   - "[[glossary:motivic-development]]"
   - "[[glossary:sequence]]"
 sources:
-  - 动机分裂的手段、与减值的区别及展开部用法，参 The New Grove Dictionary of Music and Musicians, "Fragmentation"；本文为原创表述
+  - 动机分裂的手段、与减值的区别及展开部用法，参 The New Grove Dictionary of Music and Musicians, "Fragmentation"
 updated: 2026-10-28
 ---
 

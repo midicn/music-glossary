@@ -15,7 +15,7 @@ links:
   - "[[glossary:jingju]]"
   - "[[glossary:banshi]]"
 sources:
-  - 四平调与二黄相近而自成一格、一板一眼的形态及《贵妃醉酒》的用法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 四平调与二黄相近而自成一格、一板一眼的形态及《贵妃醉酒》的用法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

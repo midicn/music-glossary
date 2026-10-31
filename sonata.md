@@ -16,7 +16,7 @@ links:
   - "[[glossary:sonata-form]]"
   - "[[glossary:concerto]]"
 sources:
-  - 奏鸣曲作为多乐章器乐体裁的历史与用法，参 The New Grove Dictionary of Music and Musicians, "Sonata"；本文为原创表述
+  - 奏鸣曲作为多乐章器乐体裁的历史与用法，参 The New Grove Dictionary of Music and Musicians, "Sonata"
 updated: 2026-10-28
 ---
 

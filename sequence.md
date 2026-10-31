@@ -15,7 +15,7 @@ links:
   - "[[glossary:phrase]]"
   - "[[glossary:modulation]]"
 sources:
-  - 定义、类型与和声模进参 The New Grove Dictionary of Music and Musicians, "Sequence"；本文为原创表述
+  - 定义、类型与和声模进参 The New Grove Dictionary of Music and Musicians, "Sequence"
 updated: 2026-10-28
 ---
 

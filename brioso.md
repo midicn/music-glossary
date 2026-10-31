@@ -16,7 +16,7 @@ links:
   - "[[glossary:energico]]"
   - "[[glossary:tempo]]"
 sources:
-  - brioso 的表情含义，参 The New Grove Dictionary of Music and Musicians, "Brio"；本文为原创表述
+  - brioso 的表情含义，参 The New Grove Dictionary of Music and Musicians, "Brio"
 updated: 2026-10-28
 ---
 

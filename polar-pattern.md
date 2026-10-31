@@ -15,7 +15,7 @@ links:
   - "[[glossary:condenser-microphone]]"
   - "[[glossary:stereo-technique]]"
 sources:
-  - 指向性与离轴响应，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques；本文为原创表述
+  - 指向性与离轴响应，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques
 updated: 2026-10-28
 ---
 

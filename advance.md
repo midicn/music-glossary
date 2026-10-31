@@ -16,7 +16,7 @@ links:
   - "[[glossary:recoupment]]"
   - "[[glossary:licensing]]"
 sources:
-  - 预付版税与回本机制，参通行音乐产业教材；本文为通识说明，不构成法律意见
+  - 预付版税与回本机制，参通行音乐产业教材；不构成法律意见
 updated: 2026-10-28
 ---
 

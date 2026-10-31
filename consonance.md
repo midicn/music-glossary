@@ -16,7 +16,7 @@ links:
   - "[[glossary:interval]]"
   - "[[concept:cadence]]"
 sources:
-  - 协和与不协和的声学解释及历史变迁，参 The New Grove Dictionary of Music and Musicians, "Consonance" 与 "Dissonance"；本文为原创表述
+  - 协和与不协和的声学解释及历史变迁，参 The New Grove Dictionary of Music and Musicians, "Consonance" 与 "Dissonance"
 updated: 2026-10-28
 ---
 

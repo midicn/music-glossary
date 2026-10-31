@@ -16,7 +16,7 @@ links:
   - "[[glossary:diffusion]]"
   - "[[glossary:bass-trap]]"
 sources:
-  - 房间声学与监听环境，参 Philip Newell, Recording Studio Design 与 Everest & Pohlmann, Master Handbook of Acoustics；本文为原创表述
+  - 房间声学与监听环境，参 Philip Newell, Recording Studio Design 与 Everest & Pohlmann, Master Handbook of Acoustics
 updated: 2026-10-28
 ---
 

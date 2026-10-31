@@ -16,7 +16,7 @@ links:
   - "[[glossary:royalty]]"
   - "[[glossary:master-rights]]"
 sources:
-  - 词曲版权分割与出版合同结构，参通行音乐产业教材与 The New Grove Dictionary of Music and Musicians, "Publishing"；本文为通识说明，不构成法律意见
+  - 词曲版权分割与出版合同结构，参通行音乐产业教材与 The New Grove Dictionary of Music and Musicians, "Publishing"；不构成法律意见
 updated: 2026-10-28
 ---
 

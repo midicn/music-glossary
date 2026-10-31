@@ -15,7 +15,7 @@ links:
   - "[[glossary:vaudeville]]"
   - "[[glossary:chanson]]"
 sources:
-  - 卡巴莱的酒馆形态、黑猫酒馆与柏林政治讽刺，参 The New Grove Dictionary of Music and Musicians, "Cabaret"；本文为原创表述
+  - 卡巴莱的酒馆形态、黑猫酒馆与柏林政治讽刺，参 The New Grove Dictionary of Music and Musicians, "Cabaret"
 updated: 2026-10-28
 ---
 

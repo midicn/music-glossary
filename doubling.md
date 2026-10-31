@@ -16,7 +16,7 @@ links:
   - "[[glossary:inner-voice]]"
   - "[[glossary:spacing]]"
 sources:
-  - 配器中的加倍手法，参 The New Grove Dictionary of Music and Musicians, "Orchestration"；本文为原创表述
+  - 配器中的加倍手法，参 The New Grove Dictionary of Music and Musicians, "Orchestration"
 updated: 2026-10-28
 ---
 

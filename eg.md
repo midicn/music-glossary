@@ -16,7 +16,7 @@ links:
   - "[[glossary:sz]]"
   - "[[glossary:bwv]]"
 sources:
-  - EG 编号的使用，参 The New Grove Dictionary of Music and Musicians, "Grieg"；本文为原创表述
+  - EG 编号的使用，参 The New Grove Dictionary of Music and Musicians, "Grieg"
 updated: 2026-10-28
 ---
 

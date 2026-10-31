@@ -15,7 +15,7 @@ links:
   - "[[glossary:segno]]"
   - "[[glossary:coda]]"
 sources:
-  - dal segno 及其 al fine / al coda 变体，参 The New Grove Dictionary of Music and Musicians, "Da capo"；本文为原创表述
+  - dal segno 及其 al fine / al coda 变体，参 The New Grove Dictionary of Music and Musicians, "Da capo"
 updated: 2026-10-28
 ---
 

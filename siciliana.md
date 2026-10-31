@@ -16,7 +16,7 @@ links:
   - "[[glossary:meter]]"
   - "[[glossary:intermezzo]]"
 sources:
-  - 西西里舞曲的节奏与田园性格，参 The New Grove Dictionary of Music and Musicians, "Siciliana"；本文为原创表述
+  - 西西里舞曲的节奏与田园性格，参 The New Grove Dictionary of Music and Musicians, "Siciliana"
 updated: 2026-10-28
 ---
 

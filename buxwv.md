@@ -15,7 +15,7 @@ links:
   - "[[glossary:swv]]"
   - "[[glossary:opus]]"
 sources:
-  - 布克斯特胡德 BuxWV 的编排与范围，参 The New Grove Dictionary of Music and Musicians, "Buxtehude, Dieterich"；目录本体参 Georg Karstädt, Thematisch-systematisches Verzeichnis der musikalischen Werke von Dietrich Buxtehude（1974，1985 修订）；本文为原创表述
+  - 布克斯特胡德 BuxWV 的编排与范围，参 The New Grove Dictionary of Music and Musicians, "Buxtehude, Dieterich"；目录本体参 Georg Karstädt, Thematisch-systematisches Verzeichnis der musikalischen Werke von Dietrich Buxtehude（1974，1985 修订）
 updated: 2026-10-28
 ---
 

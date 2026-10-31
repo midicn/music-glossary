@@ -16,7 +16,7 @@ links:
   - "[[glossary:triad]]"
   - "[[glossary:chord]]"
 sources:
-  - 七和弦的构成与常见类型，参 The New Grove Dictionary of Music and Musicians, "Seventh chord"；本文为原创表述
+  - 七和弦的构成与常见类型，参 The New Grove Dictionary of Music and Musicians, "Seventh chord"
 updated: 2026-10-28
 ---
 

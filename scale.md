@@ -16,7 +16,7 @@ links:
   - "[[glossary:mode]]"
   - "[[glossary:tonality]]"
 sources:
-  - 音阶作为有序音高集合的定义与大小调音阶结构，参 The New Grove Dictionary of Music and Musicians, "Scale"；本文为原创表述
+  - 音阶作为有序音高集合的定义与大小调音阶结构，参 The New Grove Dictionary of Music and Musicians, "Scale"
 updated: 2026-10-28
 ---
 

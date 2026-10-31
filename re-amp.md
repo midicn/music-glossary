@@ -16,7 +16,7 @@ links:
   - "[[glossary:amp-simulator]]"
   - "[[glossary:preamp]]"
 sources:
-  - re-amp 的信号链与用途，参通行录音教材；本文为原创表述
+  - re-amp 的信号链与用途，参通行录音教材
 updated: 2026-10-28
 ---
 

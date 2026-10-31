@@ -16,7 +16,7 @@ links:
   - "[[glossary:range]]"
   - "[[glossary:coloratura]]"
 sources:
-  - tessitura 与 range 的区别，参 The New Grove Dictionary of Music and Musicians, "Tessitura"；本文为原创表述
+  - tessitura 与 range 的区别，参 The New Grove Dictionary of Music and Musicians, "Tessitura"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[concept:fugue]]"
   - "[[glossary:koechel]]"
 sources:
-  - 巴赫作品编号与 BWV 各类的划分，参 The New Grove Dictionary of Music and Musicians, "Bach, Johann Sebastian" 与 "Schmieder, Wolfgang"；目录本体参 Schmieder, Bach-Werke-Verzeichnis（1950，后续有修订）；本文为原创表述
+  - 巴赫作品编号与 BWV 各类的划分，参 The New Grove Dictionary of Music and Musicians, "Bach, Johann Sebastian" 与 "Schmieder, Wolfgang"；目录本体参 Schmieder, Bach-Werke-Verzeichnis（1950，后续有修订）
 updated: 2026-10-28
 ---
 

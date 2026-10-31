@@ -16,7 +16,7 @@ links:
   - "[[glossary:lufs]]"
   - "[[glossary:loudness-war]]"
 sources:
-  - 真峰值测量与上限设置，参 Bob Katz, Mastering Audio 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 真峰值测量与上限设置，参 Bob Katz, Mastering Audio 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

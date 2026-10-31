@@ -16,7 +16,7 @@ links:
   - "[[glossary:banyan]]"
   - "[[glossary:gong-shang-jue-zhi-yu]]"
 sources:
-  - 工尺谱的谱字、相对音高与使用场合，参 The New Grove Dictionary of Music and Musicians, "China" 与《中国音乐词典》相关条目；本文为原创表述
+  - 工尺谱的谱字、相对音高与使用场合，参 The New Grove Dictionary of Music and Musicians, "China" 与《中国音乐词典》相关条目
 updated: 2026-10-28
 ---
 

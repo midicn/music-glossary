@@ -15,7 +15,7 @@ links:
   - "[[glossary:full-score]]"
   - "[[glossary:short-score]]"
 sources:
-  - 总谱的构成与读法，参 The New Grove Dictionary of Music and Musicians, "Score"；本文为原创表述
+  - 总谱的构成与读法，参 The New Grove Dictionary of Music and Musicians, "Score"
 updated: 2026-10-28
 ---
 

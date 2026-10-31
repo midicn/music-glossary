@@ -16,7 +16,7 @@ links:
   - "[[concept:counterpoint]]"
   - "[[glossary:sonata-form]]"
 sources:
-  - 赋格的主题、答题与声部进入规则，参 The New Grove Dictionary of Music and Musicians, "Fugue"；本文为原创表述
+  - 赋格的主题、答题与声部进入规则，参 The New Grove Dictionary of Music and Musicians, "Fugue"
 updated: 2026-10-28
 ---
 

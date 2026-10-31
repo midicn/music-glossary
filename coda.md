@@ -15,7 +15,7 @@ links:
   - "[[glossary:fine]]"
   - "[[glossary:da-capo]]"
 sources:
-  - 尾声在曲式与返始路线中的用法，参 The New Grove Dictionary of Music and Musicians, "Coda"；本文为原创表述
+  - 尾声在曲式与返始路线中的用法，参 The New Grove Dictionary of Music and Musicians, "Coda"
 updated: 2026-10-28
 ---
 

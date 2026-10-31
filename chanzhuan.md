@@ -16,7 +16,7 @@ links:
   - "[[glossary:zhugongdiao]]"
   - "[[glossary:yuefu]]"
 sources:
-  - 唱赚的体制与曲牌连缀，参《中国音乐词典》与 Grove "China"；本文为原创表述
+  - 唱赚的体制与曲牌连缀，参《中国音乐词典》与 Grove "China"
 updated: 2026-10-28
 ---
 

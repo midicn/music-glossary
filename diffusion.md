@@ -16,7 +16,7 @@ links:
   - "[[glossary:absorption]]"
   - "[[glossary:monitoring]]"
 sources:
-  - 声扩散与房间处理，参 Everest & Pohlmann, Master Handbook of Acoustics 与 Philip Newell, Recording Studio Design；本文为原创表述
+  - 声扩散与房间处理，参 Everest & Pohlmann, Master Handbook of Acoustics 与 Philip Newell, Recording Studio Design
 updated: 2026-10-28
 ---
 

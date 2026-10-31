@@ -16,7 +16,7 @@ links:
   - "[[glossary:plugin]]"
   - "[[glossary:reverb]]"
 sources:
-  - 声音设计的流程，参 David Sonnenschein, Sound Design — The Expressive Power of Music, Voice and Sound Effects in Cinema 与通行游戏音频教材；本文为原创表述
+  - 声音设计的流程，参 David Sonnenschein, Sound Design — The Expressive Power of Music, Voice and Sound Effects in Cinema 与通行游戏音频教材
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:loudness-normalization]]"
   - "[[glossary:sample-rate]]"
 sources:
-  - 真峰值（inter-sample peak）与限制，参通行母带教材；本文为原创表述
+  - 真峰值（inter-sample peak）与限制，参通行母带教材
 updated: 2026-10-28
 ---
 

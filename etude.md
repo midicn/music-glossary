@@ -15,7 +15,7 @@ links:
   - "[[glossary:toccata]]"
   - "[[glossary:character-piece]]"
 sources:
-  - 练习曲从教材到音乐会体裁的发展，参 The New Grove Dictionary of Music and Musicians, "Etude"；本文为原创表述
+  - 练习曲从教材到音乐会体裁的发展，参 The New Grove Dictionary of Music and Musicians, "Etude"
 updated: 2026-10-28
 ---
 

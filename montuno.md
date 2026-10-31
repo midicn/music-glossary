@@ -16,7 +16,7 @@ links:
   - "[[glossary:salsa]]"
   - "[[glossary:ostinato]]"
 sources:
-  - montuno 在 son/salsa 中的功能，参 The New Grove Dictionary of Music and Musicians, "Montuno"；本文为原创表述
+  - montuno 在 son/salsa 中的功能，参 The New Grove Dictionary of Music and Musicians, "Montuno"
 updated: 2026-10-28
 ---
 

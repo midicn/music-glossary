@@ -16,7 +16,7 @@ links:
   - "[[glossary:concerto]]"
   - "[[concept:form]]"
 sources:
-  - 室内乐「一人一声部、无指挥」的定义与弦乐四重奏传统，参 The New Grove Dictionary of Music and Musicians, "Chamber music"；本文为原创表述
+  - 室内乐「一人一声部、无指挥」的定义与弦乐四重奏传统，参 The New Grove Dictionary of Music and Musicians, "Chamber music"
 updated: 2026-10-28
 ---
 

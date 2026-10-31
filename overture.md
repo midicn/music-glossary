@@ -15,7 +15,7 @@ links:
   - "[[glossary:incidental-music]]"
   - "[[glossary:tone-poem]]"
 sources:
-  - 序曲从法国歌剧序曲到音乐会序曲的演变，参 The New Grove Dictionary of Music and Musicians, "Overture"；本文为原创表述
+  - 序曲从法国歌剧序曲到音乐会序曲的演变，参 The New Grove Dictionary of Music and Musicians, "Overture"
 updated: 2026-10-28
 ---
 

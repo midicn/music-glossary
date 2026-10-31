@@ -16,7 +16,7 @@ links:
   - "[[glossary:beat]]"
   - "[[glossary:rhythm]]"
 sources:
-  - 时值重音的概念，参 The New Grove Dictionary of Music and Musicians, "Accent" 与 "Agogic"；本文为原创表述
+  - 时值重音的概念，参 The New Grove Dictionary of Music and Musicians, "Accent" 与 "Agogic"
 updated: 2026-10-28
 ---
 

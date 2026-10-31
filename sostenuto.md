@@ -16,7 +16,7 @@ links:
   - "[[glossary:con-moto]]"
   - "[[concept:tempo]]"
 sources:
-  - sostenuto 的速度/表情含义与钢琴中踏板，参 The New Grove Dictionary of Music and Musicians, "Sostenuto"；本文为原创表述
+  - sostenuto 的速度/表情含义与钢琴中踏板，参 The New Grove Dictionary of Music and Musicians, "Sostenuto"
 updated: 2026-10-28
 ---
 

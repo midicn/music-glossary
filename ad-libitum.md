@@ -16,7 +16,7 @@ links:
   - "[[glossary:rubato]]"
   - "[[glossary:espressivo]]"
 sources:
-  - ad libitum 的用法与历史，参 The New Grove Dictionary of Music and Musicians, "Ad libitum"；本文为原创表述
+  - ad libitum 的用法与历史，参 The New Grove Dictionary of Music and Musicians, "Ad libitum"
 updated: 2026-10-28
 ---
 

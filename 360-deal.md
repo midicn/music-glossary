@@ -15,7 +15,7 @@ links:
   - "[[glossary:artist-royalty]]"
   - "[[glossary:net-profit-split]]"
 sources:
-  - 360 合约的范围与谈判要点，参通行音乐产业教材；本文为通识说明，不构成法律意见
+  - 360 合约的范围与谈判要点，参通行音乐产业教材；不构成法律意见
 updated: 2026-10-28
 ---
 

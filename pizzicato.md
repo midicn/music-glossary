@@ -16,7 +16,7 @@ links:
   - "[[instrument:violin]]"
   - "[[glossary:arco]]"
 sources:
-  - pizzicato 的演奏方式与记谱，参 The New Grove Dictionary of Music and Musicians, "Pizzicato"；本文为原创表述
+  - pizzicato 的演奏方式与记谱，参 The New Grove Dictionary of Music and Musicians, "Pizzicato"
 updated: 2026-10-28
 ---
 

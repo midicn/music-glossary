@@ -15,7 +15,7 @@ links:
   - "[[glossary:ortf]]"
   - "[[glossary:mid-side]]"
 sources:
-  - 立体声拾音制式，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques；本文为原创表述
+  - 立体声拾音制式，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques
 updated: 2026-10-28
 ---
 

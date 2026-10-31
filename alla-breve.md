@@ -15,7 +15,7 @@ links:
   - "[[glossary:common-time]]"
   - "[[glossary:meter]]"
 sources:
-  - alla breve 的历史用法与拍号含义，参 The New Grove Dictionary of Music and Musicians, "Alla breve"；本文为原创表述
+  - alla breve 的历史用法与拍号含义，参 The New Grove Dictionary of Music and Musicians, "Alla breve"
 updated: 2026-10-28
 ---
 

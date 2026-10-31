@@ -16,7 +16,7 @@ links:
   - "[[glossary:trv]]"
   - "[[glossary:j-weber]]"
 sources:
-  - AV 编号与 TrV 编号的关系，参 The New Grove Dictionary of Music and Musicians, "Strauss, Richard"；本文为原创表述
+  - AV 编号与 TrV 编号的关系，参 The New Grove Dictionary of Music and Musicians, "Strauss, Richard"
 updated: 2026-10-28
 ---
 

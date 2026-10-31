@@ -15,7 +15,7 @@ links:
   - "[[glossary:opus]]"
   - "[[glossary:koechel]]"
 sources:
-  - 舒伯特 D. 编号与目录体例，参 The New Grove Dictionary of Music and Musicians, "Deutsch, Otto Erich" 与 "Schubert"；目录本体参 Deutsch, Schubert Thematic Catalogue（1951）；本文为原创表述
+  - 舒伯特 D. 编号与目录体例，参 The New Grove Dictionary of Music and Musicians, "Deutsch, Otto Erich" 与 "Schubert"；目录本体参 Deutsch, Schubert Thematic Catalogue（1951）
 updated: 2026-10-28
 ---
 

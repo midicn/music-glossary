@@ -15,7 +15,7 @@ links:
   - "[[glossary:triad]]"
   - "[[glossary:key]]"
 sources:
-  - 罗马数字和声标记的级数与性质，参 The New Grove Dictionary of Music and Musicians, "Analysis"；本文为原创表述
+  - 罗马数字和声标记的级数与性质，参 The New Grove Dictionary of Music and Musicians, "Analysis"
 updated: 2026-10-28
 ---
 

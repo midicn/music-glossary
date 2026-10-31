@@ -16,7 +16,7 @@ links:
   - "[[glossary:key-signature]]"
   - "[[glossary:tonality]]"
 sources:
-  - 五度圈的构造与调号关系，参 The New Grove Dictionary of Music and Musicians, "Circle of fifths"；本文为原创表述
+  - 五度圈的构造与调号关系，参 The New Grove Dictionary of Music and Musicians, "Circle of fifths"
 updated: 2026-10-28
 ---
 

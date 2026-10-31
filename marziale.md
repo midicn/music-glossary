@@ -16,7 +16,7 @@ links:
   - "[[glossary:maestoso]]"
   - "[[glossary:tempo]]"
 sources:
-  - marziale 的表情与节奏含义，参 The New Grove Dictionary of Music and Musicians, "March"；本文为原创表述
+  - marziale 的表情与节奏含义，参 The New Grove Dictionary of Music and Musicians, "March"
 updated: 2026-10-28
 ---
 

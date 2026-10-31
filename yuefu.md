@@ -16,7 +16,7 @@ links:
   - "[[glossary:qupai]]"
   - "[[glossary:yayue]]"
 sources:
-  - 乐府的官署性质与乐府诗传统，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China"；本文为原创表述
+  - 乐府的官署性质与乐府诗传统，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China"
 updated: 2026-10-28
 ---
 

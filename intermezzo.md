@@ -16,7 +16,7 @@ links:
   - "[[glossary:prelude]]"
   - "[[glossary:nocturne]]"
 sources:
-  - 间奏曲的两种用法（歌剧幕间 / 独立钢琴曲），参 The New Grove Dictionary of Music and Musicians, "Intermezzo"；本文为原创表述
+  - 间奏曲的两种用法（歌剧幕间 / 独立钢琴曲），参 The New Grove Dictionary of Music and Musicians, "Intermezzo"
 updated: 2026-10-28
 ---
 

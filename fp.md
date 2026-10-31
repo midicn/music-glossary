@@ -16,7 +16,7 @@ links:
   - "[[glossary:eg]]"
   - "[[glossary:bb]]"
 sources:
-  - FP 编号的来源，参 The New Grove Dictionary of Music and Musicians, "Poulenc"；本文为原创表述
+  - FP 编号的来源，参 The New Grove Dictionary of Music and Musicians, "Poulenc"
 updated: 2026-10-28
 ---
 

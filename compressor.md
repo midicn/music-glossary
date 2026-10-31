@@ -16,7 +16,7 @@ links:
   - "[[glossary:lufs]]"
   - "[[glossary:sidechain]]"
 sources:
-  - 压缩器参数与听感，参通行录音教材（Huber & Runstein, Modern Recording Techniques）与 The New Grove Dictionary of Music and Musicians, "Compression"；本文为原创表述
+  - 压缩器参数与听感，参通行录音教材（Huber & Runstein, Modern Recording Techniques）与 The New Grove Dictionary of Music and Musicians, "Compression"
 updated: 2026-10-28
 ---
 

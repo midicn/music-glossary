@@ -14,7 +14,7 @@ links:
   - "[[glossary:bwv]]"
   - "[[glossary:bwv-anh]]"
 sources:
-  - 德奥作品目录中 Anhang 的用法，参 The New Grove Dictionary of Music and Musicians, "Bach, Johann Sebastian" 与 "Buxtehude, Dieterich"；目录本体分别参 BWV 与 BuxWV；本文为原创表述
+  - 德奥作品目录中 Anhang 的用法，参 The New Grove Dictionary of Music and Musicians, "Bach, Johann Sebastian" 与 "Buxtehude, Dieterich"；目录本体分别参 BWV 与 BuxWV
 updated: 2026-10-28
 ---
 

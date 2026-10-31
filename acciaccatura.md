@@ -16,7 +16,7 @@ links:
   - "[[glossary:mordent]]"
   - "[[glossary:ornaments]]"
 sources:
-  - 短倚音的记谱与演奏，参 The New Grove Dictionary of Music and Musicians, "Acciaccatura"；本文为原创表述
+  - 短倚音的记谱与演奏，参 The New Grove Dictionary of Music and Musicians, "Acciaccatura"
 updated: 2026-10-28
 ---
 

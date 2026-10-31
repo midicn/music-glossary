@@ -16,7 +16,7 @@ links:
   - "[[glossary:mastering]]"
   - "[[glossary:sample-rate]]"
 sources:
-  - 抖动与噪声整形，参 Bob Katz, Mastering Audio 与通行母带教材；本文为原创表述
+  - 抖动与噪声整形，参 Bob Katz, Mastering Audio 与通行母带教材
 updated: 2026-10-28
 ---
 

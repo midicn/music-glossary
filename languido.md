@@ -15,7 +15,7 @@ links:
   - "[[glossary:rubato]]"
   - "[[glossary:adagio]]"
 sources:
-  - languido 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Languido"；本文为原创表述
+  - languido 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Languido"
 updated: 2026-10-28
 ---
 

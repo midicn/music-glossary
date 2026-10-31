@@ -15,7 +15,7 @@ links:
   - "[[glossary:drum]]"
   - "[[glossary:parallel-compression]]"
 sources:
-  - 瞬态整形的包络控制，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques；本文为原创表述
+  - 瞬态整形的包络控制，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques
 updated: 2026-10-28
 ---
 

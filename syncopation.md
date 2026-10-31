@@ -16,7 +16,7 @@ links:
   - "[[glossary:beat]]"
   - "[[glossary:rhythm]]"
 sources:
-  - 切分的定义与在不同风格中的用法，参 The New Grove Dictionary of Music and Musicians, "Syncopation"；本文为原创表述
+  - 切分的定义与在不同风格中的用法，参 The New Grove Dictionary of Music and Musicians, "Syncopation"
 updated: 2026-10-28
 ---
 

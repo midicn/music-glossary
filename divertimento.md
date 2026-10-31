@@ -15,7 +15,7 @@ links:
   - "[[glossary:string-quartet]]"
   - "[[glossary:symphony]]"
 sources:
-  - 嬉游曲的宫廷社交功能与莫扎特作品，参 The New Grove Dictionary of Music and Musicians, "Divertimento"；本文为原创表述
+  - 嬉游曲的宫廷社交功能与莫扎特作品，参 The New Grove Dictionary of Music and Musicians, "Divertimento"
 updated: 2026-10-28
 ---
 

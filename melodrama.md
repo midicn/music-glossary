@@ -15,7 +15,7 @@ links:
   - "[[glossary:opera]]"
   - "[[glossary:monodrama]]"
 sources:
-  - 情节剧的说白配乐传统、卢梭与十九世纪流行剧，参 The New Grove Dictionary of Music and Musicians, "Melodrama"；本文为原创表述
+  - 情节剧的说白配乐传统、卢梭与十九世纪流行剧，参 The New Grove Dictionary of Music and Musicians, "Melodrama"
 updated: 2026-10-28
 ---
 

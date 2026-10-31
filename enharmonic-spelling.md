@@ -15,7 +15,7 @@ links:
   - "[[glossary:pitch]]"
   - "[[glossary:enharmonic-modulation]]"
 sources:
-  - 等音关系与拼写的调性依据，参 The New Grove Dictionary of Music and Musicians, "Enharmonic"；本文为原创表述
+  - 等音关系与拼写的调性依据，参 The New Grove Dictionary of Music and Musicians, "Enharmonic"
 updated: 2026-10-28
 ---
 

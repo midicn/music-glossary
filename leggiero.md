@@ -16,7 +16,7 @@ links:
   - "[[glossary:dolce]]"
   - "[[glossary:giocoso]]"
 sources:
-  - leggiero 的表情含义与词源，参 The New Grove Dictionary of Music and Musicians, "Leggiero"；本文为原创表述
+  - leggiero 的表情含义与词源，参 The New Grove Dictionary of Music and Musicians, "Leggiero"
 updated: 2026-10-28
 ---
 

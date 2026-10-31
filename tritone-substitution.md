@@ -15,7 +15,7 @@ links:
   - "[[glossary:secondary-dominant]]"
   - "[[glossary:neapolitan-chord]]"
 sources:
-  - 三全音替代的构造与解决，参 The New Grove Dictionary of Music and Musicians, "Harmony"；本文为原创表述
+  - 三全音替代的构造与解决，参 The New Grove Dictionary of Music and Musicians, "Harmony"
 updated: 2026-10-28
 ---
 

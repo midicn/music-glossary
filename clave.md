@@ -16,7 +16,7 @@ links:
   - "[[glossary:montuno]]"
   - "[[glossary:syncopation]]"
 sources:
-  - clave 的两种朝向与在古巴音乐中的框架作用，参 The New Grove Dictionary of Music and Musicians, "Clave"；本文为原创表述
+  - clave 的两种朝向与在古巴音乐中的框架作用，参 The New Grove Dictionary of Music and Musicians, "Clave"
 updated: 2026-10-28
 ---
 

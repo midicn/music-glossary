@@ -16,7 +16,7 @@ links:
   - "[[glossary:rondo]]"
   - "[[glossary:sonata-form]]"
 sources:
-  - 变奏曲式的类型与历史，参 The New Grove Dictionary of Music and Musicians, "Variations"；本文为原创表述
+  - 变奏曲式的类型与历史，参 The New Grove Dictionary of Music and Musicians, "Variations"
 updated: 2026-10-28
 ---
 

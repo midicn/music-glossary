@@ -16,7 +16,7 @@ links:
   - "[[glossary:dolce]]"
   - "[[glossary:rubato]]"
 sources:
-  - espressivo 的表情含义与演奏传统，参 The New Grove Dictionary of Music and Musicians, "Expression" 与 "Espressivo"；本文为原创表述
+  - espressivo 的表情含义与演奏传统，参 The New Grove Dictionary of Music and Musicians, "Expression" 与 "Espressivo"
 updated: 2026-10-28
 ---
 

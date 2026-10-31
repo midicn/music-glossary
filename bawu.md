@@ -15,7 +15,7 @@ links:
   - "[[instrument:bawu]]"
   - "[[glossary:hulusi]]"
 sources:
-  - 各语种乐器名与形制，参《中国音乐词典》（人民音乐出版社）及 The New Grove Dictionary of Music and Musicians, "Bawu"；本文为原创表述
+  - 各语种乐器名与形制，参《中国音乐词典》（人民音乐出版社）及 The New Grove Dictionary of Music and Musicians, "Bawu"
 updated: 2026-10-28
 ---
 

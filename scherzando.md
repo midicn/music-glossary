@@ -16,7 +16,7 @@ links:
   - "[[glossary:allegro]]"
   - "[[concept:tempo]]"
 sources:
-  - scherzando 的表情含义与谐谑曲的关系，参 The New Grove Dictionary of Music and Musicians, "Scherzo" 与 "Scherzando"；本文为原创表述
+  - scherzando 的表情含义与谐谑曲的关系，参 The New Grove Dictionary of Music and Musicians, "Scherzo" 与 "Scherzando"
 updated: 2026-10-28
 ---
 

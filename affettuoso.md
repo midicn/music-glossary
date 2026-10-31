@@ -15,7 +15,7 @@ links:
   - "[[glossary:espressivo]]"
   - "[[glossary:patetico]]"
 sources:
-  - affettuoso 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Affettuoso"；本文为原创表述
+  - affettuoso 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Affettuoso"
 updated: 2026-10-28
 ---
 

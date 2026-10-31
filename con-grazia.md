@@ -15,7 +15,7 @@ links:
   - "[[glossary:leggiero]]"
   - "[[glossary:dolce]]"
 sources:
-  - con grazia 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Grazioso"；本文为原创表述
+  - con grazia 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Grazioso"
 updated: 2026-10-28
 ---
 

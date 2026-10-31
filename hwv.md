@@ -14,7 +14,7 @@ links:
   - "[[glossary:opus]]"
   - "[[glossary:rv]]"
 sources:
-  - 亨德尔 HWV 的分卷与编号，参 The New Grove Dictionary of Music and Musicians, "Handel, George Frideric"；目录本体参 Bernd Baselt, Händel-Werke-Verzeichnis（1978–1986）；本文为原创表述
+  - 亨德尔 HWV 的分卷与编号，参 The New Grove Dictionary of Music and Musicians, "Handel, George Frideric"；目录本体参 Bernd Baselt, Händel-Werke-Verzeichnis（1978–1986）
 updated: 2026-10-28
 ---
 

@@ -14,7 +14,7 @@ links:
   - "[[glossary:xintianyou]]"
   - "[[glossary:suyue]]"
 sources:
-  - 山歌作为民歌体裁的特征、与号子、小调的分野及各地歌种，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 山歌作为民歌体裁的特征、与号子、小调的分野及各地歌种，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

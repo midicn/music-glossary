@@ -15,7 +15,7 @@ links:
   - "[[glossary:master-rights]]"
   - "[[glossary:royalty]]"
 sources:
-  - 邻接权的范围与归属，参通行音乐产业教材与 The New Grove Dictionary of Music and Musicians, "Copyright"；本文为通识说明，不构成法律意见
+  - 邻接权的范围与归属，参通行音乐产业教材与 The New Grove Dictionary of Music and Musicians, "Copyright"；不构成法律意见
 updated: 2026-10-28
 ---
 

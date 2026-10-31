@@ -16,7 +16,7 @@ links:
   - "[[glossary:master-rights]]"
   - "[[glossary:royalty]]"
 sources:
-  - ISRC 的结构与用途，参 International ISRC Agency 的通行说明与通行音乐产业教材；本文为通识说明，不构成法律意见
+  - ISRC 的结构与用途，参 International ISRC Agency 的通行说明与通行音乐产业教材；不构成法律意见
 updated: 2026-10-28
 ---
 

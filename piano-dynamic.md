@@ -16,7 +16,7 @@ links:
   - "[[glossary:dynamics]]"
   - "[[glossary:pianissimo]]"
 sources:
-  - piano 作为力度记号的含义与相对性，参 The New Grove Dictionary of Music and Musicians, "Dynamics"；本文为原创表述
+  - piano 作为力度记号的含义与相对性，参 The New Grove Dictionary of Music and Musicians, "Dynamics"
 updated: 2026-10-28
 ---
 

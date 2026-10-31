@@ -16,7 +16,7 @@ links:
   - "[[glossary:voice-leading]]"
   - "[[glossary:counterpoint]]"
 sources:
-  - 声部交错的判定与例外，参 The New Grove Dictionary of Music and Musicians, "Voice leading"；本文为原创表述
+  - 声部交错的判定与例外，参 The New Grove Dictionary of Music and Musicians, "Voice leading"
 updated: 2026-10-28
 ---
 

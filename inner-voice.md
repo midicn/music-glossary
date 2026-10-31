@@ -16,7 +16,7 @@ links:
   - "[[glossary:voicing]]"
   - "[[glossary:voice-crossing]]"
 sources:
-  - 内声部在四声部织体中的功能，参 The New Grove Dictionary of Music and Musicians, "Texture" 与 "Voice leading"；本文为原创表述
+  - 内声部在四声部织体中的功能，参 The New Grove Dictionary of Music and Musicians, "Texture" 与 "Voice leading"
 updated: 2026-10-28
 ---
 

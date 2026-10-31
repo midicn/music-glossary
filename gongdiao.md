@@ -15,7 +15,7 @@ links:
   - "[[glossary:mode]]"
   - "[[glossary:gongchepu]]"
 sources:
-  - 宫调的调高与调式含义、调门用法及旋宫转调，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 宫调的调高与调式含义、调门用法及旋宫转调，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

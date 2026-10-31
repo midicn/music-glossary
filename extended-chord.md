@@ -15,7 +15,7 @@ links:
   - "[[glossary:ninth-chord]]"
   - "[[glossary:thirteenth-chord]]"
 sources:
-  - 延伸和弦的叠置与省略实践，参 The New Grove Dictionary of Music and Musicians, "Chord"；本文为原创表述
+  - 延伸和弦的叠置与省略实践，参 The New Grove Dictionary of Music and Musicians, "Chord"
 updated: 2026-10-28
 ---
 

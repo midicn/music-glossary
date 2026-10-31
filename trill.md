@@ -16,7 +16,7 @@ links:
   - "[[glossary:glissando]]"
   - "[[glossary:legato]]"
 sources:
-  - 颤音的结构、起始音的历史差异与记谱，参 The New Grove Dictionary of Music and Musicians, "Trill" 与通行乐理教材；本文为原创表述
+  - 颤音的结构、起始音的历史差异与记谱，参 The New Grove Dictionary of Music and Musicians, "Trill" 与通行乐理教材
 updated: 2026-10-28
 ---
 

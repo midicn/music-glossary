@@ -16,7 +16,7 @@ links:
   - "[[concept:melody]]"
   - "[[glossary:period]]"
 sources:
-  - 乐句的定义、边界与句法功能，参 The New Grove Dictionary of Music and Musicians, "Phrase"；本文为原创表述
+  - 乐句的定义、边界与句法功能，参 The New Grove Dictionary of Music and Musicians, "Phrase"
 updated: 2026-10-28
 ---
 

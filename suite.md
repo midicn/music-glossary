@@ -16,7 +16,7 @@ links:
   - "[[glossary:sonata]]"
   - "[[glossary:rondo]]"
 sources:
-  - 组曲的体裁历史与舞曲排列，参 The New Grove Dictionary of Music and Musicians, "Suite"；本文为原创表述
+  - 组曲的体裁历史与舞曲排列，参 The New Grove Dictionary of Music and Musicians, "Suite"
 updated: 2026-10-28
 ---
 

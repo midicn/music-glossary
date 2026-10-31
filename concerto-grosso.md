@@ -15,7 +15,7 @@ links:
   - "[[glossary:concerto]]"
   - "[[glossary:chamber-music]]"
 sources:
-  - 大协奏曲的协奏组、全奏组与利托奈罗结构，参 The New Grove Dictionary of Music and Musicians, "Concerto grosso"；本文为原创表述
+  - 大协奏曲的协奏组、全奏组与利托奈罗结构，参 The New Grove Dictionary of Music and Musicians, "Concerto grosso"
 updated: 2026-10-28
 ---
 

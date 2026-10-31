@@ -15,7 +15,7 @@ links:
   - "[[glossary:yanyue]]"
   - "[[glossary:xianghe-ge]]"
 sources:
-  - 清乐的名实、清商三调与隋唐清商伎，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 清乐的名实、清商三调与隋唐清商伎，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

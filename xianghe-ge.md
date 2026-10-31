@@ -14,7 +14,7 @@ links:
   - "[[glossary:qingyue]]"
   - "[[glossary:gongdiao]]"
 sources:
-  - 相和歌的徒歌但歌来源、丝竹相和与相和大曲结构，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 相和歌的徒歌但歌来源、丝竹相和与相和大曲结构，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

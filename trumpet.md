@@ -16,7 +16,7 @@ links:
   - "[[glossary:flute]]"
   - "[[glossary:violin]]"
 sources:
-  - 各语种乐器名依通行音乐术语词典（参 The New Grove Dictionary of Music and Musicians, "Trumpet"）；本文为原创表述
+  - 各语种乐器名依通行音乐术语词典（参 The New Grove Dictionary of Music and Musicians, "Trumpet"）
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:publishing-split]]"
   - "[[glossary:royalty]]"
 sources:
-  - 出版合同的版权转让、预付与期限，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；本文为通识说明，不构成法律意见
+  - 出版合同的版权转让、预付与期限，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；不构成法律意见
 updated: 2026-10-28
 ---
 

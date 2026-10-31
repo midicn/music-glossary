@@ -16,7 +16,7 @@ links:
   - "[[glossary:resolution]]"
   - "[[glossary:suspension]]"
 sources:
-  - 和声不协和的功能与解决，参 The New Grove Dictionary of Music and Musicians, "Dissonance"；本文为原创表述
+  - 和声不协和的功能与解决，参 The New Grove Dictionary of Music and Musicians, "Dissonance"
 updated: 2026-10-28
 ---
 

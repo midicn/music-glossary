@@ -16,7 +16,7 @@ links:
   - "[[concept:form]]"
   - "[[glossary:cantata]]"
 sources:
-  - 弥撒曲的五个常规段落与循环弥撒的结构，参 The New Grove Dictionary of Music and Musicians, "Mass"；本文为原创表述
+  - 弥撒曲的五个常规段落与循环弥撒的结构，参 The New Grove Dictionary of Music and Musicians, "Mass"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:interval]]"
   - "[[glossary:clef]]"
 sources:
-  - 八度的频率比与听觉等价性，参 The New Grove Dictionary of Music and Musicians, "Octave"；本文为原创表述
+  - 八度的频率比与听觉等价性，参 The New Grove Dictionary of Music and Musicians, "Octave"
 updated: 2026-10-28
 ---
 

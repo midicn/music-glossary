@@ -15,7 +15,7 @@ links:
   - "[[glossary:serenade]]"
   - "[[glossary:prelude]]"
 sources:
-  - 夜曲的起源、肖邦的二十一首与后续扩展，参 The New Grove Dictionary of Music and Musicians, "Nocturne"；本文为原创表述
+  - 夜曲的起源、肖邦的二十一首与后续扩展，参 The New Grove Dictionary of Music and Musicians, "Nocturne"
 updated: 2026-10-28
 ---
 

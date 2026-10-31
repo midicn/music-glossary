@@ -15,7 +15,7 @@ links:
   - "[[glossary:suite]]"
   - "[[glossary:etude]]"
 sources:
-  - 前奏曲从引子到独立钢琴体裁的演变，参 The New Grove Dictionary of Music and Musicians, "Prelude"；本文为原创表述
+  - 前奏曲从引子到独立钢琴体裁的演变，参 The New Grove Dictionary of Music and Musicians, "Prelude"
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:da-capo]]"
   - "[[glossary:rondo]]"
 sources:
-  - 三部曲式的结构、对比段与再现写法，参 The New Grove Dictionary of Music and Musicians, "Ternary form"；本文为原创表述
+  - 三部曲式的结构、对比段与再现写法，参 The New Grove Dictionary of Music and Musicians, "Ternary form"
 updated: 2026-10-28
 ---
 

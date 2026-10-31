@@ -15,7 +15,7 @@ links:
   - "[[glossary:seconda-volta]]"
   - "[[glossary:dal-segno]]"
 sources:
-  - 第一结尾与反复记号的配合，参 The New Grove Dictionary of Music and Musicians, "Repeat"；本文为原创表述
+  - 第一结尾与反复记号的配合，参 The New Grove Dictionary of Music and Musicians, "Repeat"
 updated: 2026-10-28
 ---
 

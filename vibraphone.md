@@ -16,7 +16,7 @@ links:
   - "[[glossary:marimba]]"
   - "[[glossary:xylophone]]"
 sources:
-  - 各语种乐器名与 vibraphone 的构词，参 The New Grove Dictionary of Music and Musicians, "Vibraphone"；译名依通行音乐术语词典；本文为原创表述
+  - 各语种乐器名与 vibraphone 的构词，参 The New Grove Dictionary of Music and Musicians, "Vibraphone"；译名依通行音乐术语词典
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:clarinet]]"
   - "[[glossary:bassoon]]"
 sources:
-  - 各语种乐器名与双簧管的双簧片构造，参 The New Grove Dictionary of Music and Musicians, "Oboe"；本文为原创表述
+  - 各语种乐器名与双簧管的双簧片构造，参 The New Grove Dictionary of Music and Musicians, "Oboe"
 updated: 2026-10-28
 ---
 

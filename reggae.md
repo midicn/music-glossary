@@ -16,7 +16,7 @@ links:
   - "[[glossary:dub]]"
   - "[[glossary:syncopation]]"
 sources:
-  - 雷鬼的节奏特征与牙买加音乐谱系，参 The New Grove Dictionary of Music and Musicians, "Reggae"；本文为原创表述
+  - 雷鬼的节奏特征与牙买加音乐谱系，参 The New Grove Dictionary of Music and Musicians, "Reggae"
 updated: 2026-10-28
 ---
 

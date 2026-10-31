@@ -16,7 +16,7 @@ links:
   - "[[glossary:contrary-motion]]"
   - "[[glossary:voice-leading]]"
 sources:
-  - 平行五度/八度的限制与例外，参 The New Grove Dictionary of Music and Musicians, "Voice leading" 与 "Parallel fifths"；本文为原创表述
+  - 平行五度/八度的限制与例外，参 The New Grove Dictionary of Music and Musicians, "Voice leading" 与 "Parallel fifths"
 updated: 2026-10-28
 ---
 

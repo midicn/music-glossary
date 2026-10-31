@@ -15,7 +15,7 @@ links:
   - "[[glossary:publishing-split]]"
   - "[[glossary:mechanical-license]]"
 sources:
-  - 转授出版的区域代理与汇回，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；本文为通识说明，不构成法律意见
+  - 转授出版的区域代理与汇回，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；不构成法律意见
 updated: 2026-10-28
 ---
 

@@ -15,7 +15,7 @@ links:
   - "[[glossary:grand-opera]]"
   - "[[glossary:aria]]"
 sources:
-  - 瓦格纳乐剧的整体艺术、主导动机与连续结构，参 The New Grove Dictionary of Music and Musicians, "Music drama"；本文为原创表述
+  - 瓦格纳乐剧的整体艺术、主导动机与连续结构，参 The New Grove Dictionary of Music and Musicians, "Music drama"
 updated: 2026-10-28
 ---
 

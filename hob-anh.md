@@ -16,7 +16,7 @@ links:
   - "[[glossary:anh]]"
   - "[[glossary:k-anh]]"
 sources:
-  - Hob. Anh. 的用途，参 The New Grove Dictionary of Music and Musicians, "Haydn"；本文为原创表述
+  - Hob. Anh. 的用途，参 The New Grove Dictionary of Music and Musicians, "Haydn"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:oboe]]"
   - "[[glossary:clarinet]]"
 sources:
-  - 各语种乐器名与巴松管的对折管身，参 The New Grove Dictionary of Music and Musicians, "Bassoon"；本文为原创表述
+  - 各语种乐器名与巴松管的对折管身，参 The New Grove Dictionary of Music and Musicians, "Bassoon"
 updated: 2026-10-28
 ---
 

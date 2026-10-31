@@ -16,7 +16,7 @@ links:
   - "[[glossary:agitato]]"
   - "[[glossary:dolce]]"
 sources:
-  - appassionato 的表情含义与演奏传统，参 The New Grove Dictionary of Music and Musicians, "Appassionato"；本文为原创表述
+  - appassionato 的表情含义与演奏传统，参 The New Grove Dictionary of Music and Musicians, "Appassionato"
 updated: 2026-10-28
 ---
 

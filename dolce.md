@@ -16,7 +16,7 @@ links:
   - "[[glossary:cantabile]]"
   - "[[glossary:espressivo]]"
 sources:
-  - dolce 的表情含义与演奏实现，参 The New Grove Dictionary of Music and Musicians, "Dolce"；本文为原创表述
+  - dolce 的表情含义与演奏实现，参 The New Grove Dictionary of Music and Musicians, "Dolce"
 updated: 2026-10-28
 ---
 

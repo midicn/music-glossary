@@ -16,7 +16,7 @@ links:
   - "[[glossary:master-rights]]"
   - "[[glossary:music-copyright]]"
 sources:
-  - 同步权的定义与双层授权（词曲 + 录音），参 The New Grove Dictionary of Music and Musicians, "Copyright" 与通行影视音乐教材；本文为通识说明，不构成法律意见
+  - 同步权的定义与双层授权（词曲 + 录音），参 The New Grove Dictionary of Music and Musicians, "Copyright" 与通行影视音乐教材；不构成法律意见
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:counterpoint]]"
   - "[[glossary:inner-voice]]"
 sources:
-  - 副旋律与主调织体的关系，参 The New Grove Dictionary of Music and Musicians, "Melody" 与 "Counterpoint"；本文为原创表述
+  - 副旋律与主调织体的关系，参 The New Grove Dictionary of Music and Musicians, "Melody" 与 "Counterpoint"
 updated: 2026-10-28
 ---
 

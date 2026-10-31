@@ -16,7 +16,7 @@ links:
   - "[[glossary:aria]]"
   - "[[glossary:cantata]]"
 sources:
-  - 歌剧的诞生、宣叙调与咏叹调的分工，参 The New Grove Dictionary of Music and Musicians, "Opera"；本文为原创表述
+  - 歌剧的诞生、宣叙调与咏叹调的分工，参 The New Grove Dictionary of Music and Musicians, "Opera"
 updated: 2026-10-28
 ---
 

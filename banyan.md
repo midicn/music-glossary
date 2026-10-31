@@ -16,7 +16,7 @@ links:
   - "[[glossary:sanban]]"
   - "[[glossary:gongchepu]]"
 sources:
-  - 板眼的强弱拍定义与一板一眼等说法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 板眼的强弱拍定义与一板一眼等说法，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

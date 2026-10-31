@@ -16,7 +16,7 @@ links:
   - "[[concept:form]]"
   - "[[glossary:suite]]"
 sources:
-  - da capo 及其 al fine / al coda 变体，参 The New Grove Dictionary of Music and Musicians, "Da capo"；本文为原创表述
+  - da capo 及其 al fine / al coda 变体，参 The New Grove Dictionary of Music and Musicians, "Da capo"
 updated: 2026-10-28
 ---
 

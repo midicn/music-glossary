@@ -14,7 +14,7 @@ links:
   - "[[glossary:hwv]]"
   - "[[glossary:opus]]"
 sources:
-  - 珀塞尔 Z 号的编排与版本号，参 The New Grove Dictionary of Music and Musicians, "Purcell, Henry"；目录本体参 Franklin B. Zimmerman, Henry Purcell, 1659–1695 — An Analytical Catalogue of His Music（1963）；本文为原创表述
+  - 珀塞尔 Z 号的编排与版本号，参 The New Grove Dictionary of Music and Musicians, "Purcell, Henry"；目录本体参 Franklin B. Zimmerman, Henry Purcell, 1659–1695 — An Analytical Catalogue of His Music（1963）
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:cantata]]"
   - "[[concept:form]]"
 sources:
-  - 咏叹调与宣叙调的分工及返始形式，参 The New Grove Dictionary of Music and Musicians, "Aria"；本文为原创表述
+  - 咏叹调与宣叙调的分工及返始形式，参 The New Grove Dictionary of Music and Musicians, "Aria"
 updated: 2026-10-28
 ---
 

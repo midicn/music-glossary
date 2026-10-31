@@ -16,7 +16,7 @@ links:
   - "[[glossary:daw]]"
   - "[[concept:pitch]]"
 sources:
-  - 采样率、奈奎斯特频率与常用工程采样率，参 The New Grove Dictionary of Music and Musicians, "Sound recording" 与 Modern Recording Techniques（Huber & Runstein）；本文为原创表述
+  - 采样率、奈奎斯特频率与常用工程采样率，参 The New Grove Dictionary of Music and Musicians, "Sound recording" 与 Modern Recording Techniques（Huber & Runstein）
 updated: 2026-10-28
 ---
 

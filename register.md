@@ -16,7 +16,7 @@ links:
   - "[[glossary:tessitura]]"
   - "[[glossary:timbre]]"
 sources:
-  - 人声与乐器音区的划分，参 The New Grove Dictionary of Music and Musicians, "Register"；本文为原创表述
+  - 人声与乐器音区的划分，参 The New Grove Dictionary of Music and Musicians, "Register"
 updated: 2026-10-28
 ---
 

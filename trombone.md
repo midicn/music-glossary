@@ -16,7 +16,7 @@ links:
   - "[[glossary:tuba]]"
   - "[[glossary:french-horn]]"
 sources:
-  - 各语种乐器名与长号的滑管构造，参 The New Grove Dictionary of Music and Musicians, "Trombone"；本文为原创表述
+  - 各语种乐器名与长号的滑管构造，参 The New Grove Dictionary of Music and Musicians, "Trombone"
 updated: 2026-10-28
 ---
 

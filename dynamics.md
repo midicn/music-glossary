@@ -15,7 +15,7 @@ links:
   - "[[concept:dynamics]]"
   - "[[glossary:meter]]"
 sources:
-  - 力度记号为相对指示、非绝对声压级，为通行演奏惯例（参 The New Grove Dictionary of Music and Musicians, "Dynamics"）；velocity 为 MIDI 规范术语（MIDI 1.0 Specification）；本文为原创表述
+  - 力度记号为相对指示、非绝对声压级，为通行演奏惯例（参 The New Grove Dictionary of Music and Musicians, "Dynamics"）；velocity 为 MIDI 规范术语（MIDI 1.0 Specification）
 updated: 2026-10-28
 ---
 

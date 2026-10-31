@@ -16,7 +16,7 @@ links:
   - "[[glossary:sample-rate]]"
   - "[[glossary:bit-depth]]"
 sources:
-  - 数字音频工作站作为录音、编辑与混音宿主的功能划分，参 The New Grove Dictionary of Music and Musicians, "Computers and music" 与通行录音教材；本文为原创表述
+  - 数字音频工作站作为录音、编辑与混音宿主的功能划分，参 The New Grove Dictionary of Music and Musicians, "Computers and music" 与通行录音教材
 updated: 2026-10-28
 ---
 

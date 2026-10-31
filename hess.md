@@ -15,7 +15,7 @@ links:
   - "[[glossary:opus]]"
   - "[[glossary:anh]]"
 sources:
-  - 贝多芬 Hess 号的收录范围，参 The New Grove Dictionary of Music and Musicians, "Beethoven, Ludwig van"；目录本体参 Willy Hess, Verzeichnis der nicht in der Gesamtausgabe veröffentlichten Werke Ludwig van Beethovens（1957）；本文为原创表述
+  - 贝多芬 Hess 号的收录范围，参 The New Grove Dictionary of Music and Musicians, "Beethoven, Ludwig van"；目录本体参 Willy Hess, Verzeichnis der nicht in der Gesamtausgabe veröffentlichten Werke Ludwig van Beethovens（1957）
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:di-box]]"
   - "[[glossary:noise-floor]]"
 sources:
-  - 平衡传输的原理与接口，参通行录音教材；本文为原创表述
+  - 平衡传输的原理与接口，参通行录音教材
 updated: 2026-10-28
 ---
 

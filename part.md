@@ -15,7 +15,7 @@ links:
   - "[[glossary:rehearsal-mark]]"
   - "[[glossary:cue]]"
 sources:
-  - 分谱的提取与演奏惯例，参 The New Grove Dictionary of Music and Musicians, "Part"；本文为原创表述
+  - 分谱的提取与演奏惯例，参 The New Grove Dictionary of Music and Musicians, "Part"
 updated: 2026-10-28
 ---
 

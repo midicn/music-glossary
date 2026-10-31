@@ -16,7 +16,7 @@ links:
   - "[[glossary:secondary-dominant]]"
   - "[[concept:harmonic-function]]"
 sources:
-  - 共同和弦在转调中的用法，参 The New Grove Dictionary of Music and Musicians, "Modulation"；本文为原创表述
+  - 共同和弦在转调中的用法，参 The New Grove Dictionary of Music and Musicians, "Modulation"
 updated: 2026-10-28
 ---
 

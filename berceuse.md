@@ -15,7 +15,7 @@ links:
   - "[[glossary:nocturne]]"
   - "[[glossary:barcarolle]]"
 sources:
-  - 摇篮曲的摇摆音型、肖邦与勃拉姆斯等作品，参 The New Grove Dictionary of Music and Musicians, "Berceuse"；本文为原创表述
+  - 摇篮曲的摇摆音型、肖邦与勃拉姆斯等作品，参 The New Grove Dictionary of Music and Musicians, "Berceuse"
 updated: 2026-10-28
 ---
 

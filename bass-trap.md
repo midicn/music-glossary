@@ -16,7 +16,7 @@ links:
   - "[[glossary:absorption]]"
   - "[[glossary:nearfield-monitor]]"
 sources:
-  - 低频吸收与房间模式，参 Everest & Pohlmann, Master Handbook of Acoustics；本文为原创表述
+  - 低频吸收与房间模式，参 Everest & Pohlmann, Master Handbook of Acoustics
 updated: 2026-10-28
 ---
 

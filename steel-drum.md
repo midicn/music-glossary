@@ -15,7 +15,7 @@ links:
   - "[[instrument:steel-drum]]"
   - "[[instrument:handpan]]"
 sources:
-  - 各语种乐器名与钢鼓的体鸣构造，参 The New Grove Dictionary of Music and Musicians, "Steel drum"；本文为原创表述
+  - 各语种乐器名与钢鼓的体鸣构造，参 The New Grove Dictionary of Music and Musicians, "Steel drum"
 updated: 2026-10-28
 ---
 

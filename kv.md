@@ -16,7 +16,7 @@ links:
   - "[[glossary:opus]]"
   - "[[glossary:j-weber]]"
 sources:
-  - KV 与 K. 的同一关系，参 The New Grove Dictionary of Music and Musicians, "Mozart"；本文为原创表述
+  - KV 与 K. 的同一关系，参 The New Grove Dictionary of Music and Musicians, "Mozart"
 updated: 2026-10-28
 ---
 

@@ -16,7 +16,7 @@ links:
   - "[[glossary:koto]]"
   - "[[glossary:pipa]]"
 sources:
-  - 各语种名称与形制，参 The New Grove Dictionary of Music and Musicians, "Shamisen"；译名参通行音乐术语词典；本文为原创表述
+  - 各语种名称与形制，参 The New Grove Dictionary of Music and Musicians, "Shamisen"；译名参通行音乐术语词典
 updated: 2026-10-28
 ---
 

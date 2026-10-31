@@ -15,7 +15,7 @@ links:
   - "[[instrument:harp]]"
   - "[[instrument:piano]]"
 sources:
-  - 各语种乐器名与踏板竖琴的构造，参 The New Grove Dictionary of Music and Musicians, "Harp"；本文为原创表述
+  - 各语种乐器名与踏板竖琴的构造，参 The New Grove Dictionary of Music and Musicians, "Harp"
 updated: 2026-10-28
 ---
 

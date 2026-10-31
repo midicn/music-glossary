@@ -15,7 +15,7 @@ links:
   - "[[glossary:xy-pair]]"
   - "[[glossary:mid-side]]"
 sources:
-  - 近同点立体声制式，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques；本文为原创表述
+  - 近同点立体声制式，参 Huber & Runstein, Modern Recording Techniques 与 Bartlett, Practical Recording Techniques
 updated: 2026-10-28
 ---
 

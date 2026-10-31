@@ -16,7 +16,7 @@ links:
   - "[[glossary:master-rights]]"
   - "[[glossary:royalty]]"
 sources:
-  - 机械复制权的定义、强制许可与法定费率，参 The New Grove Dictionary of Music and Musicians, "Copyright" 与通行音乐产业教材；本文为通识说明，不构成法律意见
+  - 机械复制权的定义、强制许可与法定费率，参 The New Grove Dictionary of Music and Musicians, "Copyright" 与通行音乐产业教材；不构成法律意见
 updated: 2026-10-28
 ---
 

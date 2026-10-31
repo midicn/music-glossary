@@ -15,7 +15,7 @@ links:
   - "[[glossary:ballet-music]]"
   - "[[glossary:incidental-music]]"
 sources:
-  - 英国宫廷假面剧的琼森与琼斯合作、弥尔顿《科摩斯》与复辟时期的半歌剧转向，参 The New Grove Dictionary of Music and Musicians, "Masque"；本文为原创表述
+  - 英国宫廷假面剧的琼森与琼斯合作、弥尔顿《科摩斯》与复辟时期的半歌剧转向，参 The New Grove Dictionary of Music and Musicians, "Masque"
 updated: 2026-10-28
 ---
 

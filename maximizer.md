@@ -16,7 +16,7 @@ links:
   - "[[glossary:lufs]]"
   - "[[glossary:loudness-war]]"
 sources:
-  - 最大化器与限制器的区别，参通行母带教材；本文为原创表述
+  - 最大化器与限制器的区别，参通行母带教材
 updated: 2026-10-28
 ---
 

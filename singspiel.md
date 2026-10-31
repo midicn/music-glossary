@@ -15,7 +15,7 @@ links:
   - "[[glossary:operetta]]"
   - "[[glossary:lied]]"
 sources:
-  - 德语歌唱剧的对白传统、莫扎特与贝多芬的用法，参 The New Grove Dictionary of Music and Musicians, "Singspiel"；本文为原创表述
+  - 德语歌唱剧的对白传统、莫扎特与贝多芬的用法，参 The New Grove Dictionary of Music and Musicians, "Singspiel"
 updated: 2026-10-28
 ---
 

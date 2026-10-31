@@ -16,7 +16,7 @@ links:
   - "[[glossary:retardation]]"
   - "[[glossary:non-chord-tone]]"
 sources:
-  - 挂留音的准备—挂留—解决三阶段，参 The New Grove Dictionary of Music and Musicians, "Suspension"；本文为原创表述
+  - 挂留音的准备—挂留—解决三阶段，参 The New Grove Dictionary of Music and Musicians, "Suspension"
 updated: 2026-10-28
 ---
 

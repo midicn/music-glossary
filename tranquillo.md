@@ -15,7 +15,7 @@ links:
   - "[[glossary:dolce]]"
   - "[[glossary:andante]]"
 sources:
-  - tranquillo 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Tranquillo"；本文为原创表述
+  - tranquillo 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Tranquillo"
 updated: 2026-10-28
 ---
 

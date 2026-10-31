@@ -15,7 +15,7 @@ links:
   - "[[glossary:erhu]]"
   - "[[glossary:jingju]]"
 sources:
-  - 越剧的源流、女班传统、尺调与流派，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目；本文为原创表述
+  - 越剧的源流、女班传统、尺调与流派，参《中国音乐词典》与 The New Grove Dictionary of Music and Musicians, "China" 相关条目
 updated: 2026-10-28
 ---
 

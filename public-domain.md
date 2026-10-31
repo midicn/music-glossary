@@ -16,7 +16,7 @@ links:
   - "[[glossary:creative-commons]]"
   - "[[glossary:licensing]]"
 sources:
-  - 公有领域的定义与录音的邻接权差异，参通行版权教材与 The New Grove Dictionary of Music and Musicians, "Copyright"；本文为通识说明，不构成法律意见
+  - 公有领域的定义与录音的邻接权差异，参通行版权教材与 The New Grove Dictionary of Music and Musicians, "Copyright"；不构成法律意见
 updated: 2026-10-28
 ---
 

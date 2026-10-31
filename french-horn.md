@@ -16,7 +16,7 @@ links:
   - "[[glossary:trombone]]"
   - "[[glossary:tuba]]"
 sources:
-  - 各语种乐器名与圆号的德国改良史，参 The New Grove Dictionary of Music and Musicians, "Horn"；本文为原创表述
+  - 各语种乐器名与圆号的德国改良史，参 The New Grove Dictionary of Music and Musicians, "Horn"
 updated: 2026-10-28
 ---
 

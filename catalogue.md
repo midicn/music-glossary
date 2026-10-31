@@ -15,7 +15,7 @@ links:
   - "[[glossary:master-rights]]"
   - "[[glossary:music-publisher]]"
 sources:
-  - 曲库估值、尽职调查与终止权风险，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；本文为通识说明，不构成法律意见
+  - 曲库估值、尽职调查与终止权风险，参通行音乐产业教材（Donald S. Passman, All You Need to Know About the Music Business）；不构成法律意见
 updated: 2026-10-28
 ---
 

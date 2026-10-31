@@ -15,7 +15,7 @@ links:
   - "[[glossary:score]]"
   - "[[glossary:concert-pitch]]"
 sources:
-  - 移调记谱与移调乐器的关系，参 The New Grove Dictionary of Music and Musicians, "Transposition"；本文为原创表述
+  - 移调记谱与移调乐器的关系，参 The New Grove Dictionary of Music and Musicians, "Transposition"
 updated: 2026-10-28
 ---
 

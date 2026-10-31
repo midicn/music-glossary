@@ -16,7 +16,7 @@ links:
   - "[[concept:theme-variations]]"
   - "[[glossary:bwv]]"
 sources:
-  - 贝多芬 WoO 编号与目录范围，参 The New Grove Dictionary of Music and Musicians, "Beethoven, Ludwig van"；目录本体参 Kinsky–Halm, Das Werk Beethovens（1955）；本文为原创表述
+  - 贝多芬 WoO 编号与目录范围，参 The New Grove Dictionary of Music and Musicians, "Beethoven, Ludwig van"；目录本体参 Kinsky–Halm, Das Werk Beethovens（1955）
 updated: 2026-10-28
 ---
 

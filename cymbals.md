@@ -16,7 +16,7 @@ links:
   - "[[instrument:naobo]]"
   - "[[instrument:drum-kit]]"
 sources:
-  - 各语种乐器名依通行音乐术语词典（参 The New Grove Dictionary of Music and Musicians, "Cymbals"）；本文为原创表述
+  - 各语种乐器名依通行音乐术语词典（参 The New Grove Dictionary of Music and Musicians, "Cymbals"）
 updated: 2026-10-28
 ---
 
