@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **恢复原速（a tempo）** 是让演奏回到**之前的速度**：它常跟在 rubato、渐慢或延长记号之后，告诉演奏者「自由结束，回到脉搏」。谱面上写 a tempo，通常也意味着重新建立稳定的拍点。
 
-它和 **tempo primo** 不同：a tempo 回到**刚才**的速度，tempo primo 回到**乐曲开头**的速度。**常见误解是「a tempo 只是继续弹」**——它是一次明确的速度复位，尤其在合奏里，必须有一个人给出新的脉搏。
+它和 **tempo primo** 不同：a tempo 回到**刚才**的速度，tempo primo 回到乐曲开头的速度。常见误解是「a tempo 只是继续弹」——它是一次明确的速度复位，尤其在合奏里，必须有一个人给出新的脉搏。
 
 深入阅读 → [[concept:tempo]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **A tempo** tells the player to return to the **previous tempo**: it usually follows rubato, a ritardando or a fermata, meaning "the freedom is over, back to the pulse". It also implies re-establishing a steady beat.
 
-It differs from **tempo primo**: a tempo returns to the speed **just before**, tempo primo to the speed at the **start of the piece**. **The usual mistake is to treat a tempo as "just keep playing"** — it is an explicit reset, and in an ensemble one person must give the new pulse.
+It differs from **tempo primo**: a tempo returns to the speed **just before**, tempo primo to the speed at the start of the piece. The usual mistake is to treat a tempo as "just keep playing" — it is an explicit reset, and in an ensemble one person must give the new pulse.
 
 Read deeper → [[concept:tempo]]
 :::

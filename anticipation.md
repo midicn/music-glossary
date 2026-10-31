@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **先现音（anticipation）** 是**下一个和弦的音提前出现**：它先以非和弦音的身份响，等和弦真正换过去时，它就成了和弦音。常见于弱拍或句尾。
 
-它和**挂留音**相反：挂留是**旧和弦的音留下来**，先现是**新和弦的音先到**。**常见误解是把先现音当成「错音」**——它是**有方向的提前**；没有准备与解决，才会变成错音。
+它和**挂留音**相反：挂留是**旧和弦的音留下来**，先现是新和弦的音先到。常见误解是把先现音当成「错音」——它是有方向的提前；没有准备与解决，才会变成错音。
 
 深入阅读 → [[glossary:non-chord-tone]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **An anticipation** is **a chord tone arriving early**: it sounds first as a non-chord tone, and when the harmony actually changes it becomes a chord tone. It often appears on weak beats or at phrase endings.
 
-It is the opposite of a **suspension**: a suspension **keeps an old chord tone**, an anticipation **brings a new one early**. **The usual mistake is to hear it as a wrong note** — it is **a directed arrival ahead of time**; without preparation and resolution, it becomes an error.
+It is the opposite of a **suspension**: a suspension **keeps an old chord tone**, an anticipation brings a new one early. The usual mistake is to hear it as a wrong note — it is a directed arrival ahead of time; without preparation and resolution, it becomes an error.
 
 Read deeper → [[glossary:non-chord-tone|non-chord tone]]
 :::

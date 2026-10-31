@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **准备（preparation）** 是让一个音在前一个和弦里**先以协和身份出现**，随后在下一个和弦里变成不协和音。它是挂留音的**第一阶段**：先站稳，再被「挂住」，最后解决。
 
-它和**解决**相对：准备是「先在」，解决是「后来」。**常见误解是「不协和音出现再处理就行」**——没有准备的挂留音，听起来像错音；**准备、挂留、解决，是一套三段时间。**
+它和**解决**相对：准备是「先在」，解决是「后来」。常见误解是「不协和音出现再处理就行」——没有准备的挂留音，听起来像错音；准备、挂留、解决，是一套三段时间。
 
 深入阅读 → [[glossary:suspension]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Preparation** lets a note appear **as a consonance in the previous chord**, then become a dissonance in the next. It is the **first stage** of a suspension: stand, then be held, then resolve.
 
-It is the counterpart of **resolution**: preparation is "before", resolution "after". **The usual mistake is to think a dissonance can be handled after it appears** — a suspension without preparation sounds like a mistake; **preparation, suspension and resolution are a three-stage unit.**
+It is the counterpart of **resolution**: preparation is "before", resolution "after". The usual mistake is to think a dissonance can be handled after it appears — a suspension without preparation sounds like a mistake; preparation, suspension and resolution are a three-stage unit.
 
 Read deeper → [[glossary:suspension|suspension]]
 :::

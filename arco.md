@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **弓奏（arco）** 是弦乐的指示：**用弓拉**。它最常见的用途是取消前面的 **pizzicato（拨奏）**——谱面先写 pizz.，再写 arco，演奏者就从拨弦切回弓弦。
 
-两种发声方式的差别不只是音量：拨奏是**衰减的点**，弓奏是**可持续的线**。**arco 不是「恢复原状」那么简单**：从拨奏切回弓奏时，右手要重新建立弓压与弓速，左手也要重新准备按弦。**听 arco，听的是「线」有没有立刻回来。**
+两种发声方式的差别不只是音量：拨奏是**衰减的点**，弓奏是可持续的线。arco 不是「恢复原状」那么简单：从拨奏切回弓奏时，右手要重新建立弓压与弓速，左手也要重新准备按弦。听 arco，听的是「线」有没有立刻回来。
 
 深入阅读 → [[glossary:pizzicato]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Arco** is the string instruction: **play with the bow**. Its most common job is to cancel a preceding **pizzicato** — the score writes pizz., then arco, and the player switches from plucking back to bowing.
 
-The difference is not only volume: pizzicato is a **decaying point**, arco a **sustainable line**. **Arco is not just "back to normal"**: returning from pizzicato means rebuilding bow weight and speed in the right hand and re-preparing the left hand. **Listen to arco for whether the line comes back at once.**
+The difference is not only volume: pizzicato is a **decaying point**, arco a sustainable line. Arco is not just "back to normal": returning from pizzicato means rebuilding bow weight and speed in the right hand and re-preparing the left hand. Listen to arco for whether the line comes back at once.
 
 Read deeper → [[glossary:pizzicato|pizzicato]]
 :::

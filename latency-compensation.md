@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **延迟补偿（latency compensation）** 是让**不同处理链的延迟对齐**：插件、外部硬件、总线处理都会引入不同的延迟，补偿机制把它们的播放时间对齐，避免声部错位。
 
-它和**缓冲大小**不同：缓冲影响**输入输出延迟**，补偿处理的是**各条链之间的相对延迟**。**常见误解是「延迟只影响演奏手感」**——录音回放时，未补偿的延迟会让叠录的声部**错开**；**补偿是叠录与混音对齐的基础。**
+它和**缓冲大小**不同：缓冲影响**输入输出延迟**，补偿处理的是各条链之间的相对延迟。常见误解是「延迟只影响演奏手感」——录音回放时，未补偿的延迟会让叠录的声部错开；补偿是叠录与混音对齐的基础。
 
 深入阅读 → [[glossary:latency]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Latency compensation** aligns the **delays of different processing chains**: plugins, external hardware and bus processing each add different delays, and the system shifts playback so the parts stay together.
 
-It differs from **buffer size**: the buffer affects **input/output latency**, while compensation handles **relative delay between chains**. **The usual mistake is to think latency only affects playing feel** — on playback, uncompensated delay makes overdubbed parts **drift**; **compensation is the basis of alignment in overdubbing and mixing.**
+It differs from **buffer size**: the buffer affects **input/output latency**, while compensation handles relative delay between chains. The usual mistake is to think latency only affects playing feel — on playback, uncompensated delay makes overdubbed parts drift; compensation is the basis of alignment in overdubbing and mixing.
 
 Read deeper → [[glossary:latency|latency]]
 :::

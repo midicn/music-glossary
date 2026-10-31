@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **切分（syncopation）** 是把重音放在**弱拍**或**拍与拍之间**，让听者的预期落空。它和「复杂的节奏」不是一回事：一段节奏可以很复杂却不切分；也可以很简单——只要重音不在该在的位置——就构成切分。
 
-切分制造的是**张力与推动力**：爵士、拉丁、放克、流行里的「抢」与「拖」，很多都靠它。**判断切分，先找到拍，再看重音落在哪里**；没有稳定的拍作参照，切分就无从谈起。
+切分制造的是**张力与推动力**：爵士、拉丁、放克、流行里的「抢」与「拖」，很多都靠它。判断切分，先找到拍，再看重音落在哪里；没有稳定的拍作参照，切分就无从谈起。
 
 深入阅读 → [[concept:syncopation]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Syncopation** puts the accent on a **weak beat** or **between beats**, defeating the listener's expectation. It is not the same as "complex rhythm": a rhythm can be complicated without syncopation, or very simple — as long as the accent falls where it should not — and still be syncopated.
 
-Syncopation creates **tension and drive**: much of the push and pull in jazz, Latin, funk and pop depends on it. **To hear syncopation, first find the beat, then hear where the accent lands**; without a steady beat as reference, syncopation has nothing to work against.
+Syncopation creates **tension and drive**: much of the push and pull in jazz, Latin, funk and pop depends on it. To hear syncopation, first find the beat, then hear where the accent lands; without a steady beat as reference, syncopation has nothing to work against.
 
 Read deeper → [[concept:syncopation]]
 :::

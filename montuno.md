@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **蒙图诺（montuno）** 是拉丁音乐里钢琴（或 Tres）的**循环音型**：短、重复、切分，和 clave 咬合，负责把和声铺成一张有推动力的网。它通常出现在曲子的后半段，歌手即兴、铜管接应。
 
-它和**固定音型**相近，但 montuno 更强调**和声与切分的结合**，不是单纯的节奏循环。**常见误解是「montuno 随便循环就行」**——它必须与 clave 朝向一致，否则越弹越乱。
+它和**固定音型**相近，但 montuno 更强调**和声与切分的结合**，不是单纯的节奏循环。常见误解是「montuno 随便循环就行」——它必须与 clave 朝向一致，否则越弹越乱。
 
 深入阅读 → [[glossary:clave]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Montuno** is the **looping piano (or tres) figure** in Latin music: short, repeating, syncopated, locked to the clave, turning the harmony into a driving web. It usually arrives in the second half of a piece, under improvised singing and brass answers.
 
-It is close to an **ostinato**, but montuno stresses **the union of harmony and syncopation**, not a bare rhythmic loop. **The usual mistake is to loop it any way you like** — it must agree with the clave direction, or the more you play the messier it gets.
+It is close to an **ostinato**, but montuno stresses **the union of harmony and syncopation**, not a bare rhythmic loop. The usual mistake is to loop it any way you like — it must agree with the clave direction, or the more you play the messier it gets.
 
 Read deeper → [[glossary:clave|clave]]
 :::

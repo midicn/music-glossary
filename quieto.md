@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **安静地（quieto）** 是表情术语：**安静、不动声色、内敛**。它比 calmo 更静，常出现在弱奏、长音与稀疏的织体里。
 
-它和 **tranquillo** 接近，但 tranquillo 更强调安详，quieto 更强调**声音的收敛**。**常见误解是把 quieto 弹成「没有方向」**——安静仍然要有句子与重心；**没有方向的安静只是停滞。**
+它和 **tranquillo** 接近，但 tranquillo 更强调安详，quieto 更强调**声音的收敛**。常见误解是把 quieto 弹成「没有方向」——安静仍然要有句子与重心；没有方向的安静只是停滞。
 
 深入阅读 → [[glossary:calmo]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Quieto** is an expression mark: **quiet, still, inward**. It is more still than calmo, often in soft passages, long notes and sparse textures.
 
-It is close to **tranquillo**, but tranquillo stresses serenity while quieto stresses **withdrawal of sound**. **The usual mistake is to let quieto lose direction** — quiet music still needs phrases and weight; **stillness without direction is merely stagnation.**
+It is close to **tranquillo**, but tranquillo stresses serenity while quieto stresses **withdrawal of sound**. The usual mistake is to let quieto lose direction — quiet music still needs phrases and weight; stillness without direction is merely stagnation.
 
 Read deeper → [[glossary:calmo|calmo]]
 :::

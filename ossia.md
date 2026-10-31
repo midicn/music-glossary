@@ -24,7 +24,7 @@ updated: 2026-10-28
 
 它和「装饰性变奏」不同：ossia 是**替代路线**，不是加花。作曲家写它，往往是为了照顾不同水平的演奏者，或让同一段落适应不同声部。读谱时先确认小谱表属于哪一行、从哪一拍开始对齐。
 
-**常见误解**：把 ossia 当成必须演奏的声部。它是选项，不是叠加。
+常见误解：把 ossia 当成必须演奏的声部。它是选项，不是叠加。
 :::
 
 ::: en
@@ -32,5 +32,5 @@ updated: 2026-10-28
 
 It differs from a decorated variation: ossia is an **alternative route**, not added ornament. Composers write it to accommodate players of different levels or to fit the same passage to another voice. First work out which main staff the small staff belongs to and where the beat aligns.
 
-**A common mistake** is to treat ossia as a part that must be played. It is an option, not an extra layer.
+A common mistake is to treat ossia as a part that must be played. It is an option, not an extra layer.
 :::

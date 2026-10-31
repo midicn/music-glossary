@@ -24,7 +24,7 @@ updated: 2026-10-28
 
 在低音谱表下方，常用 **8vb** 表示低八度，但历史上也有用 8va 写在下方表示低八度的写法，读旧谱时要看上下文。**8va 只改变八度位置，不改变音名与和声功能**：C4 变成 C5，仍然是主音或三音。
 
-**常见误解**：把 8va 当成装饰或力度记号。它是明确的音高移位，演奏者必须照做，否则会与伴奏错开八度。
+常见误解：把 8va 当成装饰或力度记号。它是明确的音高移位，演奏者必须照做，否则会与伴奏错开八度。
 :::
 
 ::: en
@@ -32,5 +32,5 @@ updated: 2026-10-28
 
 Below the bass staff **8vb** is common for an octave lower, though older scores sometimes put 8va below to mean the same thing, so read old editions with care. **8va changes octave placement only, not note names or harmonic function**: C4 becomes C5 and remains the tonic or the third.
 
-**A common mistake** is to take 8va as an ornament or a dynamic. It is a definite pitch shift, and ignoring it puts the player an octave out of step with the accompaniment.
+A common mistake is to take 8va as an ornament or a dynamic. It is a definite pitch shift, and ignoring it puts the player an octave out of step with the accompaniment.
 :::

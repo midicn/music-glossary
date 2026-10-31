@@ -24,7 +24,7 @@ updated: 2026-10-28
 
 它的写法常暗示音乐方向的改变。第一结尾往往负责**把音乐送回起点**，第二结尾则负责**把音乐送往后续段落**；在奏鸣曲式中，两者甚至可能落在不同调上。看谱时要把两个结尾当成一对岔路，而不是两段可选的补充。
 
-**常见误解**：以为第二结尾只是第一结尾的复制。它常是全新的收束句，和声与旋律都可能不同。
+常见误解：以为第二结尾只是第一结尾的复制。它常是全新的收束句，和声与旋律都可能不同。
 :::
 
 ::: en
@@ -32,5 +32,5 @@ updated: 2026-10-28
 
 Its shape often signals a change of direction. The first ending tends to **send the music back to the start**, while the second **sends it onward** into the next section; in sonata form the two may even sit in different keys. Read them as a pair of forks, not as two optional supplements.
 
-**A common mistake** is to assume the second ending copies the first. It is often a newly written close, with different harmony and melody.
+A common mistake is to assume the second ending copies the first. It is often a newly written close, with different harmony and melody.
 :::

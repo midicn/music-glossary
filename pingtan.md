@@ -22,7 +22,7 @@ updated: 2026-10-28
 ::: zh
 **评弹** 是「苏州评话」与「苏州弹词」的合称，属**曲艺**（说唱），不是戏曲，也不是剧种。评话只说不唱，凭醒木、折扇铺陈；弹词有说有唱，用琵琶、三弦伴奏，分单档、双档等。
 
-弹词唱腔以**书调**为基础，属**板腔体**，又穿插曲牌与小调；演员按流派（蒋调、俞调等）润腔，**流派是个人风格，不是声腔**。评弹用吴语演唱，声调与咬字决定大半韵味。
+弹词唱腔以**书调**为基础，属**板腔体**，又穿插曲牌与小调；演员按流派（蒋调、俞调等）润腔，流派是个人风格，不是声腔。评弹用吴语演唱，声调与咬字决定大半韵味。
 
 深入阅读 → [[glossary:pipa]]
 :::
@@ -30,7 +30,7 @@ updated: 2026-10-28
 ::: en
 **Pingtan** is the joint name of Suzhou pinghua and Suzhou tanci. It is **narrative song**, not opera and not a theatre genre. Pinghua is spoken only: one storyteller at a table, using a wooden block, a folding fan and vocal mimicry. Tanci mixes speech and song, accompanied by pipa and sanxian, in solo, duo or trio formats; famous repertories include The Jade Dragonfly and The Pearl Pagoda.
 
-Tanci singing is built on the **shudiao** tune in **banqiang form**, with qupai and folk melodies woven in. Performers shape it in personal **schools** such as Jiang, Yu and Li — **a school is an individual style, not a vocal tradition**. Pingtan is sung in Wu dialect, and the language itself is an instrument: tone, pace and articulation supply much of its flavour.
+Tanci singing is built on the **shudiao** tune in **banqiang form**, with qupai and folk melodies woven in. Performers shape it in personal schools such as Jiang, Yu and Li — a school is an individual style, not a vocal tradition. Pingtan is sung in Wu dialect, and the language itself is an instrument: tone, pace and articulation supply much of its flavour.
 
 Read deeper → [[glossary:pipa]]
 :::

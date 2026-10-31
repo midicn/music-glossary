@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **滑音（portamento）** 是从一个音**滑入**另一个音的演奏法，重点在**目的地**：它要的不是经过的那些音，而是「到达」的表情。声乐、弦乐与长号最常用；在弦乐上，它是一条手指沿弦滑动的轨迹。
 
-它和 **glissando** 的差别在意图：glissando 强调滑的过程本身（尤其是键盘与竖琴上的一串音），portamento 强调**带目标的、表情性的滑入**。**portamento 不是「滑得越长越好」**：它常常只占两个音之间的一小段，甚至只在到达前的一瞬。
+它和 **glissando** 的差别在意图：glissando 强调滑的过程本身（尤其是键盘与竖琴上的一串音），portamento 强调带目标的、表情性的滑入。portamento 不是「滑得越长越好」：它常常只占两个音之间的一小段，甚至只在到达前的一瞬。
 
 深入阅读 → [[glossary:glissando]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Portamento** is the playing of a **slide into** a note, with the emphasis on **arrival**: what matters is not the pitches passed through but the expression of getting there. It is most at home in singing, strings and trombone; on strings it is a finger travelling along the string.
 
-It differs from **glissando** in intention: glissando stresses the sliding process itself (especially a run of notes on keyboard or harp), portamento an **expressive, goal-directed slide**. **Portamento is not "the longer the better"**: it often occupies only a fraction of the distance, sometimes just the instant before arrival.
+It differs from **glissando** in intention: glissando stresses the sliding process itself (especially a run of notes on keyboard or harp), portamento an expressive, goal-directed slide. Portamento is not "the longer the better": it often occupies only a fraction of the distance, sometimes just the instant before arrival.
 
 Read deeper → [[glossary:glissando|glissando]]
 :::

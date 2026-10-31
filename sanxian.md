@@ -33,7 +33,7 @@ updated: 2026-10-28
 
 **三弦** 是中国弹拨乐器，三根弦、长颈、无品，音箱多为木制蒙皮，横抱用拨子演奏。英语除拼音 **sanxian** 外，旧式威妥玛拼法 **san-hsien** 仍见于工具书；德语、法语一般直接借用 sanxian。意大利语没有固定译名，通常也写 sanxian（通行说法）。
 
-**常见混淆**：三弦与日本**三味线**（shamisen）同源，但中国三弦多蒙蛇皮，三味线蒙犬皮或猫皮，琴颈比例也不同；与月琴相比，三弦有长颈、无品，月琴则是四弦短颈。
+**常见混淆**：三弦与日本三味线（shamisen）同源，但中国三弦多蒙蛇皮，三味线蒙犬皮或猫皮，琴颈比例也不同；与月琴相比，三弦有长颈、无品，月琴则是四弦短颈。
 
 深入阅读 → [[instrument:sanxian]]
 :::
@@ -51,7 +51,7 @@ updated: 2026-10-28
 
 The **sanxian** is a Chinese plucked lute with three strings, a long fretless neck and a soundbox traditionally covered with snakeskin, held horizontally and played with a plectrum. English keeps **sanxian**, while the older Wade-Giles **san-hsien** survives in reference works; German and French generally borrow sanxian. Italian has no settled term and also writes sanxian (a common practice).
 
-**Watch out**: the sanxian is the ancestor of Japan's **shamisen**, but the Chinese instrument usually has a snakeskin head while the shamisen uses dog or cat skin, and their neck proportions differ; unlike the four-string, short-necked yueqin, the sanxian has three strings and a long fretless neck.
+**Watch out**: the sanxian is the ancestor of Japan's shamisen, but the Chinese instrument usually has a snakeskin head while the shamisen uses dog or cat skin, and their neck proportions differ; unlike the four-string, short-necked yueqin, the sanxian has three strings and a long fretless neck.
 
 Read deeper → [[instrument:sanxian]]
 :::

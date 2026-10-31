@@ -30,7 +30,7 @@ updated: 2026-10-28
 ::: en
 **A master lease** lets the owner of a master rent out the **right to use** a recording to a label or distributor for a set term and territory; the licensee releases it and pays a royalty or rent. Ownership does not move, and the rights return when the term ends.
 
-It is often used **instead of an outright sale**: the owner avoids transferring the master while the other side funds manufacturing and promotion. **The usual mistake is to treat a lease as a sale**; another risk is a long term with automatic renewal that works like a permanent assignment. **This is general information, not legal advice.**
+It is often used **instead of an outright sale**: the owner avoids transferring the master while the other side funds manufacturing and promotion. **The usual mistake is to treat a lease as a sale**; another risk is a long term with automatic renewal that works like a permanent assignment. This is general information, not legal advice.
 
 Read deeper → [[glossary:master-rights|master rights]]
 :::

@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **An acciaccatura** is a grace note **crushed** quickly before the principal note: it takes almost no duration, like a momentary impact that pushes the main note out. It is often written as a small note with a slash.
 
-It differs from the **long appoggiatura**: the long one takes part of the principal note's value, the acciaccatura only an instant. **The usual mistake is to treat them as interchangeable** — the same spot written as one or the other sounds and weighs completely differently; **the acciaccatura is colour, the appoggiatura is structure.**
+It differs from the **long appoggiatura**: the long one takes part of the principal note's value, the acciaccatura only an instant. **The usual mistake is to treat them as interchangeable** — the same spot written as one or the other sounds and weighs completely differently; the acciaccatura is colour, the appoggiatura is structure.
 
 Read deeper → [[glossary:appoggiatura|appoggiatura]]
 :::

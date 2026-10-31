@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **板眼** 是中国戏曲与器乐里的节拍体系：**板**是强拍（用板或鼓击出），**眼**是弱拍（用鼓签轻击或由其他乐器标出）。「一板一眼」就是每小节一强一弱，相当于二拍子；「一板三眼」是四拍子；「有板有眼」后来引申为做事有规矩。
 
-它不是五线谱的拍号：板眼同时规定了**击法、音色与身体动作**，板与眼各有自己的声音。**散板**则是把板眼撤掉，让节奏跟着唱腔与语气走。
+它不是五线谱的拍号：板眼同时规定了**击法、音色与身体动作**，板与眼各有自己的声音。散板则是把板眼撤掉，让节奏跟着唱腔与语气走。
 
 深入阅读 → [[concept:meter]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Ban and yan** form the metrical system of Chinese opera and ensemble music: **ban** is the strong beat (marked by the clapper or drum), **yan** the weak beat (a light stroke or another instrument). "One ban, one yan" is a two-beat bar; "one ban, three yan" is four beats; the phrase "with ban and yan" later came to mean "proper and orderly".
 
-It is not a time signature: ban and yan also fix **stroke, timbre and gesture**, each with its own sound. **Sanban** removes the framework altogether and lets rhythm follow the singing and the tone of the phrase.
+It is not a time signature: ban and yan also fix **stroke, timbre and gesture**, each with its own sound. Sanban removes the framework altogether and lets rhythm follow the singing and the tone of the phrase.
 
 Read deeper → [[concept:meter]]
 :::

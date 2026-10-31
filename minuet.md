@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **A minuet** is a **graceful triple-time court dance**, popular in French and European courts in the seventeenth and eighteenth centuries. It often serves as the third movement of a sonata, symphony or quartet — moderate in speed, symmetrical in phrasing, clear in accent.
 
-It differs from the **scherzo**: the minuet values **decorum and restraint**, the scherzo deliberately breaks them; it differs from the waltz too: its steps are smaller and more formal. **The usual mistake is to think all triple time is alike** — the minuet's accent and phrasing and the waltz's turning feel are two different bodies.
+It differs from the **scherzo**: the minuet values **decorum and restraint**, the scherzo deliberately breaks them; it differs from the waltz too: its steps are smaller and more formal. The usual mistake is to think all triple time is alike — the minuet's accent and phrasing and the waltz's turning feel are two different bodies.
 
 Read deeper → [[glossary:scherzo|scherzo]]
 :::

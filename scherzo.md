@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **谐谑曲（scherzo）** 是**快速、俏皮的三拍子**乐章，通常出现在交响曲、奏鸣曲或四重奏的第三乐章，取代了古典时期的小步舞曲。它常带**突然的重音、错位的节奏与短小的动机**。
 
-它和**小步舞曲**不同：小步舞曲优雅、有礼，谐谑曲则**故意打破礼仪**；它和**玩笑**也不同：谐谑曲的「笑」可以是黑暗的。**常见误解是「谐谑曲一定轻松」**——贝多芬的谐谑曲常常带着不安与讽刺。
+它和**小步舞曲**不同：小步舞曲优雅、有礼，谐谑曲则故意打破礼仪；它和玩笑也不同：谐谑曲的「笑」可以是黑暗的。常见误解是「谐谑曲一定轻松」——贝多芬的谐谑曲常常带着不安与讽刺。
 
 深入阅读 → [[glossary:symphony]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **A scherzo** is a **fast, playful movement in triple time**, usually the third movement of a symphony, sonata or quartet, replacing the Classical minuet. It often brings **sudden accents, displaced rhythms and short motifs**.
 
-It differs from a **minuet**: the minuet is elegant and courtly, the scherzo **deliberately breaks etiquette**; it also differs from a joke: its "laughter" can be dark. **The usual mistake is to assume a scherzo is light** — Beethoven's scherzos often carry unease and irony.
+It differs from a **minuet**: the minuet is elegant and courtly, the scherzo deliberately breaks etiquette; it also differs from a joke: its "laughter" can be dark. The usual mistake is to assume a scherzo is light — Beethoven's scherzos often carry unease and irony.
 
 Read deeper → [[glossary:symphony|symphony]]
 :::

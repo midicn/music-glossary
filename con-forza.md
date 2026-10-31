@@ -24,7 +24,7 @@ updated: 2026-10-28
 
 它不等于响。**常见误解是把 con forza 当成一路砸下去**：音量有了，音乐反而变钝；力量来自支撑与共鸣，不是手臂的蛮力。它常与 con brio、energico 相邻，但更强调**质感**。
 
-在戏剧性段落里它常是**局部标记**：几小节就够，不必整段维持。可与 [[glossary:con-brio]]、[[glossary:energico]] 对读。
+在戏剧性段落里它常是局部标记：几小节就够，不必整段维持。可与 [[glossary:con-brio]]、[[glossary:energico]] 对读。
 :::
 
 ::: en

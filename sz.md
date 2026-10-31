@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **Sz. 编号** 是巴托克作品的目录编号，由匈牙利音乐学家 **András Szőllősy** 编成。它按作品类型与年代排列，是国际文献里最常用的巴托克编号之一。
 
-它和 **BB 编号** 不同：BB 是另一套巴托克目录（Bartók Béla），两套编号常并列出现。**常见误解是「Sz. 是作品号」**——它不是出版商的作品号，而是**目录编号**；同一作品可能还有 Op. 号。
+它和 **BB 编号** 不同：BB 是另一套巴托克目录（Bartók Béla），两套编号常并列出现。**常见误解是「Sz. 是作品号」**——它不是出版商的作品号，而是目录编号；同一作品可能还有 Op. 号。
 
 深入阅读 → [[glossary:bb]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Sz. numbers** catalogue Bartók's works, compiled by the Hungarian musicologist **András Szőllősy**. They are arranged by genre and chronology and are among the most common Bartók numbers in the literature.
 
-They differ from **BB numbers**, another Bartók catalogue (Bartók Béla); the two are often cited side by side. **The usual mistake is to read Sz. as an opus number** — it is a **catalogue number**, not a publisher's opus; a work may also have an Op. number.
+They differ from **BB numbers**, another Bartók catalogue (Bartók Béla); the two are often cited side by side. **The usual mistake is to read Sz. as an opus number** — it is a catalogue number, not a publisher's opus; a work may also have an Op. number.
 
 Read deeper → [[glossary:bb|BB]]
 :::

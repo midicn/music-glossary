@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **对舞（contredanse）** 是 18 世纪流行的**队列舞**：两队舞者面对面，按固定图型交换位置。它从英国乡村舞传入法国，再由法国传遍欧洲，是方阵舞的前身。
 
-它和**小步舞曲**不同：小步舞曲是宫廷双人舞，对舞是**集体队列**；它和**方阵舞**也不同：方阵舞更晚、更规整。**常见误解是把它当成「乡村舞」的直译**——contredanse 与 English country dance 有亲缘，但它在法国已经变成城市舞厅的形式。
+它和**小步舞曲**不同：小步舞曲是宫廷双人舞，对舞是**集体队列**；它和方阵舞也不同：方阵舞更晚、更规整。常见误解是把它当成「乡村舞」的直译——contredanse 与 English country dance 有亲缘，但它在法国已经变成城市舞厅的形式。
 
 深入阅读 → [[glossary:quadrille]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **A contredanse** is an eighteenth-century **line dance**: two facing rows exchange positions in set figures. It came to France from the English country dance and spread across Europe, becoming an ancestor of the quadrille.
 
-It differs from the **minuet**: the minuet is a courtly couple dance, the contredanse **a collective line**; it differs from the **quadrille** too: the quadrille is later and more formal. **The usual mistake is to translate it simply as "country dance"** — it is related to the English country dance, but in France it had already become an urban ballroom form.
+It differs from the **minuet**: the minuet is a courtly couple dance, the contredanse **a collective line**; it differs from the quadrille too: the quadrille is later and more formal. The usual mistake is to translate it simply as "country dance" — it is related to the English country dance, but in France it had already become an urban ballroom form.
 
 Read deeper → [[glossary:quadrille|quadrille]]
 :::

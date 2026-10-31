@@ -30,7 +30,7 @@ updated: 2026-10-28
 ::: en
 **A performing rights organization (PRO)** licenses **public performance** of songs on behalf of writers and publishers and collects royalties: radio, television, venues, shops and streaming all fall within its scope. It is usually a non-profit collective that distributes income according to usage data.
 
-It covers the **composition performance right**, not the recording; in many countries a separate body collects public-performance income for recordings. **The usual mistake is to think joining guarantees all the money**: work registration, performance data and foreign income all affect distribution. **This is general information, not legal advice.**
+It covers the **composition performance right**, not the recording; in many countries a separate body collects public-performance income for recordings. **The usual mistake is to think joining guarantees all the money**: work registration, performance data and foreign income all affect distribution. This is general information, not legal advice.
 
 Read deeper → [[glossary:collective-management|collective management]]
 :::

@@ -21,7 +21,7 @@ updated: 2026-10-28
 ::: zh
 **山歌** 是中国**民歌**的一大体裁，与号子、小调并列：人在山野、田间或牧场上歌唱，音调高亢、节奏自由、常即兴编词。它偏向抒情与传情，而不是统一步伐或娱乐表演。
 
-各地山歌差别很大：陕北**信天游**、甘青**花儿**、内蒙古**爬山调**、客家山歌，各有腔调与句法。**山歌是民歌体裁，不是乐种，也不是剧种**；它没有固定的节拍框架，同一首歌每次唱都可能不一样。
+各地山歌差别很大：陕北**信天游**、甘青**花儿**、内蒙古爬山调、客家山歌，各有腔调与句法。山歌是民歌体裁，不是乐种，也不是剧种；它没有固定的节拍框架，同一首歌每次唱都可能不一样。
 
 深入阅读 → [[glossary:xintianyou]]
 :::
@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: en
 **Shange** is a major **folk-song genre**, alongside work songs and xiaodiao: sung in the hills, fields, pastures or on the road, with high tessitura, free rhythm and improvised words, and long trailing phrases. It voices the life in front of the singer and the feeling inside, leaning toward lyricism and courtship rather than coordinating labour or entertaining an audience.
 
-Regional forms differ widely: **xintianyou** in northern Shaanxi, **hua'er** in Gansu and Qinghai, **pashandiao** in Inner Mongolia, and Hakka mountain songs, each with its own tunes and phrasing. **Shange is a folk-song genre, not an instrumental genre or an opera genre**; it has no fixed metrical frame, and the same song may differ at every singing. What a field record should preserve is often not the "correct notes" but the free breath.
+Regional forms differ widely: **xintianyou** in northern Shaanxi, **hua'er** in Gansu and Qinghai, pashandiao in Inner Mongolia, and Hakka mountain songs, each with its own tunes and phrasing. Shange is a folk-song genre, not an instrumental genre or an opera genre; it has no fixed metrical frame, and the same song may differ at every singing. What a field record should preserve is often not the "correct notes" but the free breath.
 
 Read deeper → [[glossary:xintianyou]]
 :::

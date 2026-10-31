@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **牧歌（madrigal）** 是文艺复兴时期意大利的**世俗复调歌曲**：几个声部各唱一条线，歌词常是爱情诗，音乐会用**词画**（word painting）把词里的动作画出来——唱到「上升」旋律上行，唱到「叹息」用下行或停顿。
 
-它和经文歌的区别是**场合与语言**：牧歌唱世俗诗，经文歌唱宗教拉丁文；相同的是都用复调把文字织成音乐。**牧歌不是「牧羊人的歌」**：名字虽有田园来源，16 世纪的牧歌早已是城市贵族的室内乐。
+它和经文歌的区别是**场合与语言**：牧歌唱世俗诗，经文歌唱宗教拉丁文；相同的是都用复调把文字织成音乐。牧歌不是「牧羊人的歌」：名字虽有田园来源，16 世纪的牧歌早已是城市贵族的室内乐。
 
 深入阅读 → [[concept:form]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **The madrigal** is the Italian **secular polyphonic song** of the Renaissance: several voices each carry a line, the text is often a love poem, and the music uses **word painting** to draw the action — "rising" climbs, "sighing" falls or pauses.
 
-It differs from the motet in **occasion and language**: the madrigal sets secular poetry, the motet sacred Latin; both weave words into polyphony. **A madrigal is not "a shepherd's song"**: despite the pastoral name, the sixteenth-century madrigal was already chamber music for urban elites.
+It differs from the motet in **occasion and language**: the madrigal sets secular poetry, the motet sacred Latin; both weave words into polyphony. A madrigal is not "a shepherd's song": despite the pastoral name, the sixteenth-century madrigal was already chamber music for urban elites.
 
 Read deeper → [[concept:form]]
 :::

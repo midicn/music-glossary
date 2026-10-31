@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **犯调（fandiao）** 是宋代词乐与后来戏曲里的**转调、借调**手法：在一首曲子里临时进入另一个宫调，或借用另一调的音，制造色彩与张力的变化。
 
-它和**旋宫**不同：旋宫是**整体移调**，犯调更强调**局部借用与转换**；它和**转调**接近，但中国语境里的「犯」常带**越界、犯声**的意味。**常见误解是「犯调就是转调」**——它可以只是短暂借用；**是否真正转调，要看宫调有没有稳定下来。**
+它和**旋宫**不同：旋宫是**整体移调**，犯调更强调局部借用与转换；它和转调接近，但中国语境里的「犯」常带越界、犯声的意味。常见误解是「犯调就是转调」——它可以只是短暂借用；是否真正转调，要看宫调有没有稳定下来。
 
 深入阅读 → [[glossary:gongdiao]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Fandiao** is the **modulation and mode-borrowing** of Song song and later opera: a piece temporarily enters another gongdiao or borrows notes from another mode, creating colour and tension.
 
-It differs from **xuangong**: xuangong is **global transposition**, while fandiao stresses **local borrowing and shift**; it is close to "modulation", but the Chinese "fan" carries a sense of **crossing a boundary**. **The usual mistake is to equate fandiao with modulation** — it can be a brief borrowing; **whether it is a true modulation depends on whether the new mode settles.**
+It differs from **xuangong**: xuangong is **global transposition**, while fandiao stresses local borrowing and shift; it is close to "modulation", but the Chinese "fan" carries a sense of crossing a boundary. The usual mistake is to equate fandiao with modulation — it can be a brief borrowing; whether it is a true modulation depends on whether the new mode settles.
 
 Read deeper → [[glossary:gongdiao|gongdiao]]
 :::

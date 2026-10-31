@@ -30,7 +30,7 @@ updated: 2026-10-28
 ::: en
 **A net profit split** divides profit after **agreed costs** rather than paying a royalty on gross revenue. It is common in independent labels, joint ventures and producer deals: recording and marketing costs are recovered first, and the balance is shared in the agreed ratio.
 
-The ratio matters less than **how "net" is defined**: which costs are deductible, when deductions stop, and whether they cross-collateralise can turn the same 50/50 into very different outcomes. **The usual mistake is to assume a profit split is fairer than a royalty**: with loose cost definitions, profit may stay at zero. **This is general information, not legal advice.**
+The ratio matters less than **how "net" is defined**: which costs are deductible, when deductions stop, and whether they cross-collateralise can turn the same 50/50 into very different outcomes. **The usual mistake is to assume a profit split is fairer than a royalty**: with loose cost definitions, profit may stay at zero. This is general information, not legal advice.
 
 Read deeper → [[glossary:recoupment|recoupment]]
 :::

@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **Hob. Anh. 编号** 是海顿 **Hob. 目录的附录**：收**疑作、伪作与归属不明**的作品。它和主编号分开，避免把不确定的作品混进正典。
 
-它和 **Hob. 编号**不同：主编号代表确认的海顿作品，附录代表**存疑**。**常见误解是「Hob. Anh. 也是海顿」**——它只说明「曾被归给海顿」；**真伪要看具体条目与研究结论。**
+它和 **Hob. 编号**不同：主编号代表确认的海顿作品，附录代表存疑。常见误解是「Hob. Anh. 也是海顿」——它只说明「曾被归给海顿」；真伪要看具体条目与研究结论。
 
 深入阅读 → [[glossary:hoboken]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Hob. Anh. numbers** are the **appendix** of the Haydn catalogue: they hold **doubtful, spurious and uncertainly attributed** works, kept apart from the main numbers.
 
-They differ from **Hob. numbers**: the main numbers mark confirmed Haydn works, the appendix marks **doubt**. **The usual mistake is to treat Hob. Anh. as Haydn** — it only says "once attributed to Haydn"; **authenticity depends on the entry and the research.**
+They differ from **Hob. numbers**: the main numbers mark confirmed Haydn works, the appendix marks doubt. The usual mistake is to treat Hob. Anh. as Haydn — it only says "once attributed to Haydn"; authenticity depends on the entry and the research.
 
 Read deeper → [[glossary:hoboken|Hoboken]]
 :::

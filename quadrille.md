@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **方阵舞（quadrille）** 是 19 世纪舞厅里由**四对舞者**按方块站位的组舞：音乐通常由**五段性格不同的小舞曲**连成，每段对应一种舞步，像一套微型组曲。
 
-它和**对舞（contredanse）**有亲缘关系，但方阵舞更晚、更规整；它和**组曲**不同：方阵舞的段落是为**舞步**服务，不是为聆听。**常见误解是把它当成「四重奏」**——方阵舞是舞蹈形式，不是器乐编制。
+它和**对舞（contredanse）**有亲缘关系，但方阵舞更晚、更规整；它和组曲不同：方阵舞的段落是为舞步服务，不是为聆听。常见误解是把它当成「四重奏」——方阵舞是舞蹈形式，不是器乐编制。
 
 深入阅读 → [[glossary:contredanse]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **A quadrille** is a nineteenth-century ballroom **square dance for four couples**: the music usually strings together **five short sections** of different character, each matching a figure, like a miniature suite.
 
-It is related to the **contredanse**, but the quadrille is later and more formal; it differs from a **suite**: its sections serve **dance figures**, not listening. **The usual mistake is to confuse it with a quartet** — the quadrille is a dance form, not an instrumental ensemble.
+It is related to the **contredanse**, but the quadrille is later and more formal; it differs from a suite: its sections serve dance figures, not listening. The usual mistake is to confuse it with a quartet — the quadrille is a dance form, not an instrumental ensemble.
 
 Read deeper → [[glossary:contredanse|contredanse]]
 :::

@@ -22,7 +22,7 @@ updated: 2026-10-28
 ::: zh
 **发行协议（distribution deal）** 是权利人把录音的销售与投放交给发行方，由后者上架、收款并按约定抽成或收费。它通常**不转让母带**：权利人仍是版权方，发行方取得的是**限期、限地域的发行权**，且多为非独家。
 
-关键条款是**独家与否、抽成比例、结算周期、宣传义务，以及终止后的下架与迁移**。常见误解是「签了发行就有人推广」：多数协议只保证渠道与结算，营销另计；把发行协议当成版权转让也是常见错误。**通识说明，不构成法律意见。**
+关键条款是**独家与否、抽成比例、结算周期、宣传义务，以及终止后的下架与迁移**。常见误解是「签了发行就有人推广」：多数协议只保证渠道与结算，营销另计；把发行协议当成版权转让也是常见错误。通识说明，不构成法律意见。
 
 深入阅读 → [[glossary:music-distributor]]
 :::
@@ -30,7 +30,7 @@ updated: 2026-10-28
 ::: en
 **A distribution deal** hands a recording's sale and delivery to a distributor, which places it on platforms, collects income and takes an agreed cut or fee. It usually **does not transfer the master**: the rights holder keeps ownership, while the distributor receives a **limited-term, limited-territory distribution right**, often non-exclusive.
 
-The clauses that matter are **exclusivity, the percentage, accounting periods, marketing obligations, and takedown and migration after termination**. **The usual mistake is to assume distribution includes promotion**: most deals cover channels and accounting only, with marketing billed separately; treating a distribution deal as a copyright assignment is another common error. **This is general information, not legal advice.**
+The clauses that matter are **exclusivity, the percentage, accounting periods, marketing obligations, and takedown and migration after termination**. **The usual mistake is to assume distribution includes promotion**: most deals cover channels and accounting only, with marketing billed separately; treating a distribution deal as a copyright assignment is another common error. This is general information, not legal advice.
 
 Read deeper → [[glossary:music-distributor|digital distributor]]
 :::

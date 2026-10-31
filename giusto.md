@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **giusto（准确的、恰当的）** 常出现在 **tempo giusto** 里，意思是「回到这段音乐**恰当的速度**」：不是某一个固定 BPM，而是符合舞曲性格、句法与和声节奏的那个速度。
 
-它和 **a tempo** 不同：a tempo 是回到**刚才**的速度，tempo giusto 是回到**作品本身要求**的速度。**常见误解是把 giusto 当成一个数字**——它要求的是判断；**同一个 tempo giusto，不同演奏者可以给出不同的 BPM。**
+它和 **a tempo** 不同：a tempo 是回到刚才的速度，tempo giusto 是回到作品本身要求的速度。常见误解是把 giusto 当成一个数字——它要求的是判断；同一个 tempo giusto，不同演奏者可以给出不同的 BPM。
 
 深入阅读 → [[glossary:tempo]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Giusto** ("right, proper") appears most often in **tempo giusto**: return to **the tempo proper to this music** — not a fixed BPM, but the speed that fits the dance character, phrasing and harmonic rhythm.
 
-It differs from **a tempo**: a tempo returns to the speed **just before**, tempo giusto returns to the speed **the piece itself demands**. **The usual mistake is to read giusto as a number** — it asks for judgement; **two players can give different BPMs for the same tempo giusto.**
+It differs from **a tempo**: a tempo returns to the speed just before, tempo giusto returns to the speed the piece itself demands. The usual mistake is to read giusto as a number — it asks for judgement; two players can give different BPMs for the same tempo giusto.
 
 Read deeper → [[glossary:tempo|tempo]]
 :::

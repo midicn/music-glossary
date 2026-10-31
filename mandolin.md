@@ -31,9 +31,9 @@ updated: 2026-10-28
 | 德语 | Mandoline |
 | 法语 | mandoline |
 
-**曼陀林** 是梨形琴身、四组复弦的拨弦乐器，定弦与小提琴相同：G–D–A–e。英语 **mandolin** 经法语 mandoline 来自意大利语 **mandolino**（「小曼多拉」）；德语 **Mandoline**、法语 **mandoline** 同源，中文「曼陀林」是音译。
+**曼陀林** 是梨形琴身、四组复弦的拨弦乐器，定弦与小提琴相同：G–D–A–e。英语 **mandolin** 经法语 mandoline 来自意大利语 **mandolino**（「小曼多拉」）；德语 **Mandoline**、法语 mandoline 同源，中文「曼陀林」是音译。
 
-**常见混淆**：曼陀林与班卓琴常被并提，但曼陀林是成对复弦、定弦 G–D–A–e，用拨片快速轮指（tremolo）延续长音；五弦班卓是单弦、定弦 g′–D–G–B–D，外侧高音弦作持续低音。**一个是复弦轮指，一个是单弦拨奏**。
+常见混淆：曼陀林与班卓琴常被并提，但曼陀林是成对复弦、定弦 G–D–A–e，用拨片快速轮指（tremolo）延续长音；五弦班卓是单弦、定弦 g′–D–G–B–D，外侧高音弦作持续低音。一个是复弦轮指，一个是单弦拨奏。
 
 深入阅读 → [[instrument:mandolin]] · [[instrument:banjo]]
 :::

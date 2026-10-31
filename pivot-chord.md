@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **共同和弦（pivot chord）** 是**同时属于旧调与新调**的和弦：音乐借它从旧调转身进入新调。比如从 C 大调转到 G 大调，a 小调和弦在 C 里是 vi，在 G 里是 ii——**同一个和弦，两个身份，转身就完成了。**
 
-它让转调听起来**平滑而不是硬切**：听众先把它听成旧调的一部分，随后新调的属和弦出现，才意识到中心已经移动。**常见误解是以为共同和弦必须「听起来像新调」**——恰恰相反，它先要听起来像旧调，才能骗过耳朵。
+它让转调听起来**平滑而不是硬切**：听众先把它听成旧调的一部分，随后新调的属和弦出现，才意识到中心已经移动。常见误解是以为共同和弦必须「听起来像新调」——恰恰相反，它先要听起来像旧调，才能骗过耳朵。
 
 深入阅读 → [[glossary:modulation]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **A pivot chord** belongs **to both the old and the new key**: the music turns on it from one key into the other. Modulating from C major to G major, an A minor chord is vi in C and ii in G — **one chord, two identities, and the turn is made.**
 
-It makes a modulation sound **smooth rather than cut**: the ear first hears the chord as part of the old key, and only when the new dominant arrives does it realise the centre has moved. **The usual mistake is to expect the pivot to "sound like the new key"** — on the contrary, it must first sound like the old one to fool the ear.
+It makes a modulation sound **smooth rather than cut**: the ear first hears the chord as part of the old key, and only when the new dominant arrives does it realise the centre has moved. The usual mistake is to expect the pivot to "sound like the new key" — on the contrary, it must first sound like the old one to fool the ear.
 
 Read deeper → [[glossary:modulation|modulation]]
 :::

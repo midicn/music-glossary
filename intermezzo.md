@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **间奏曲（intermezzo）** 有两层意思：一是**歌剧幕间**的器乐段，用来换景、缓冲或连接；二是 19 世纪以后**独立的钢琴小品**，如勃拉姆斯与舒曼的间奏曲，短小、内省。
 
-它和**前奏曲**不同：前奏曲在正式段落之前，间奏曲在**段落之间**；它和**序曲**也不同：序曲在全剧开头。**常见误解是以为间奏曲只是「过场音乐」**——独立的间奏曲恰恰是作曲家最私密的一类作品。
+它和**前奏曲**不同：前奏曲在正式段落之前，间奏曲在段落之间；它和序曲也不同：序曲在全剧开头。常见误解是以为间奏曲只是「过场音乐」——独立的间奏曲恰恰是作曲家最私密的一类作品。
 
 深入阅读 → [[glossary:opera]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Intermezzo** has two senses: an **orchestral passage between acts** of an opera, used for scene changes, relief or connection; and, after the nineteenth century, a **standalone piano piece**, as in Brahms and Schumann — short and inward.
 
-It differs from a **prelude**: a prelude comes before a formal section, an intermezzo **between** sections; it differs from an **overture**, which opens the whole work. **The usual mistake is to treat intermezzo as mere "fill"** — the standalone intermezzo is often the composer's most private music.
+It differs from a **prelude**: a prelude comes before a formal section, an intermezzo between sections; it differs from an overture, which opens the whole work. The usual mistake is to treat intermezzo as mere "fill" — the standalone intermezzo is often the composer's most private music.
 
 Read deeper → [[glossary:opera|opera]]
 :::

@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **延音线（tie）** 是一条弧线，连接**两个音高相同**的音符，表示「把它们合成一个更长的音」：第二个音不重新发音，只延续第一个音的时值。它常跨小节线使用，让一个长音不必写成跨小节的复杂时值。
 
-它和 **slur（连音线）** 最容易混：延音线连接的是**同一个音高**，slur 连接的是**不同音高**、表示连奏或分句。**判断方法很简单：看两端的音高是否相同——同音是 tie，不同音是 slur。**
+它和 **slur（连音线）** 最容易混：延音线连接的是**同一个音高**，slur 连接的是不同音高、表示连奏或分句。判断方法很简单：看两端的音高是否相同——同音是 tie，不同音是 slur。
 
 深入阅读 → [[concept:ties-slurs]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **A tie** is a curved line joining **two notes of the same pitch**, meaning "make them one longer note": the second note is not re-attacked, it simply continues the first. Ties often cross barlines so that a long note need not be written with awkward values.
 
-It is most often confused with a **slur**: a tie joins **the same pitch**, a slur joins **different pitches** and marks legato or phrasing. **The test is simple: are the two ends the same pitch? Same pitch, tie; different pitches, slur.**
+It is most often confused with a **slur**: a tie joins **the same pitch**, a slur joins different pitches and marks legato or phrasing. **The test is simple: are the two ends the same pitch? Same pitch, tie; different pitches, slur.**
 
 Read deeper → [[concept:ties-slurs]]
 :::

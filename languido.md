@@ -24,7 +24,7 @@ updated: 2026-10-28
 
 它描述**姿态与色彩**，不直接规定速度；可以慢，但慢不等于倦。**常见误解是把松垂演成散架**——骨架仍要立住，重音可以柔，却不能没有。
 
-它常与 dolce 相邻，两者都软化轮廓；区别在于 dolce 是甜，languido 是**乏力**。可与 [[glossary:dolce]]、[[glossary:rubato]] 对读。
+它常与 dolce 相邻，两者都软化轮廓；区别在于 dolce 是甜，languido 是乏力。可与 [[glossary:dolce]]、[[glossary:rubato]] 对读。
 :::
 
 ::: en
@@ -32,5 +32,5 @@ updated: 2026-10-28
 
 It describes **posture and colour** rather than speed; languido can be slow, but slow is not the same as languid. **The usual mistake is to let the slackening become collapse** — the frame of the phrase must still stand, and accents may soften but must not vanish. Real languor is deliberate relaxation, not loss of control.
 
-In lyrical passages it often sits beside dolce; both soften the outline, but dolce is sweet while languido is **weak with weariness**. Compare dolce and rubato.
+In lyrical passages it often sits beside dolce; both soften the outline, but dolce is sweet while languido is weak with weariness. Compare dolce and rubato.
 :::

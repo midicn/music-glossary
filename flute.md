@@ -33,7 +33,7 @@ updated: 2026-10-28
 
 **长笛** 在管弦乐队里通常指**横笛**（transverse flute），与竖吹的**竖笛**（recorder）不同。英语 flute 来自拉丁语 flatus（吹气），是同族词里最宽的一个：它可以泛指任何吹管，也可以特指现代横笛。
 
-**常见混淆**：中文「长笛」强调「长」，但它的关键不是长度，而是**横吹**；德语的 Blockflöte 是竖笛，Querflöte 才是横笛——**一个词根，两种吹法**。
+**常见混淆**：中文「长笛」强调「长」，但它的关键不是长度，而是横吹；德语的 Blockflöte 是竖笛，Querflöte 才是横笛——一个词根，两种吹法。
 
 深入阅读 → [[instrument:flute]]
 :::
@@ -51,7 +51,7 @@ updated: 2026-10-28
 
 In the orchestra, **flute** usually means the **transverse flute**, not the end-blown **recorder**. English flute comes from Latin flatus, "a blowing", and is the broadest word in the family: it can mean any wind instrument or specifically the modern transverse flute.
 
-**Watch out**: the Chinese 长笛 stresses "long", but the defining feature is **side-blown**; German Blockflöte is the recorder and Querflöte the transverse flute — **one root, two ways of blowing**.
+**Watch out**: the Chinese 长笛 stresses "long", but the defining feature is side-blown; German Blockflöte is the recorder and Querflöte the transverse flute — one root, two ways of blowing.
 
 Read deeper → [[instrument:flute]]
 :::

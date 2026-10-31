@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **阴郁地（lugubre）** 是表情术语：带**阴沉、悲凉、压抑**地演奏。它比 mesto 更暗、更重，常与低音区、小调与缓慢的和声相连。
 
-它和 **doloroso** 不同：doloroso 是痛的强度，lugubre 是**阴影与氛围**。**常见误解是把 lugubre 弹成「很慢很弱」**——阴郁可以有重量与压迫；**关键是音色有没有「暗下来」。**
+它和 **doloroso** 不同：doloroso 是痛的强度，lugubre 是**阴影与氛围**。常见误解是把 lugubre 弹成「很慢很弱」——阴郁可以有重量与压迫；关键是音色有没有「暗下来」。
 
 深入阅读 → [[glossary:doloroso]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Lugubre** is an expression mark: play with **gloom, mournfulness and weight**. It is darker and heavier than mesto, often tied to the low register, minor mode and slow harmony.
 
-It differs from **doloroso**: doloroso is intensity of pain, lugubre is **shadow and atmosphere**. **The usual mistake is to play it very slow and soft** — gloom can have weight and pressure; **the point is whether the colour darkens.**
+It differs from **doloroso**: doloroso is intensity of pain, lugubre is **shadow and atmosphere**. The usual mistake is to play it very slow and soft — gloom can have weight and pressure; the point is whether the colour darkens.
 
 Read deeper → [[glossary:doloroso|doloroso]]
 :::

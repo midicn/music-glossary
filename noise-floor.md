@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **噪声底（noise floor）** 是没有信号时系统自身的**残余噪声**：话筒自噪、前置放大器、房间与转换器都会贡献。它决定了「最安静的声音」能低到哪儿。
 
-它和**信噪比**不同：噪声底是一个**绝对电平**，信噪比是**信号与它的差值**。**常见误解是「噪声底只跟设备有关」**——房间噪声、线材与增益结构同样重要；**增益给得不对，噪声底会被一起放大。**
+它和**信噪比**不同：噪声底是一个**绝对电平**，信噪比是信号与它的差值。常见误解是「噪声底只跟设备有关」——房间噪声、线材与增益结构同样重要；增益给得不对，噪声底会被一起放大。
 
 深入阅读 → [[glossary:signal-to-noise]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **The noise floor** is the **residual noise** a system produces with no signal: microphone self-noise, preamps, room and converters all contribute. It sets how quiet the quietest sound can be.
 
-It differs from **signal-to-noise ratio**: the noise floor is an **absolute level**, the ratio is **the difference between signal and noise**. **The usual mistake is to blame only the gear** — room noise, cables and gain structure matter too; **set gain badly and the noise floor is amplified with everything else.**
+It differs from **signal-to-noise ratio**: the noise floor is an **absolute level**, the ratio is the difference between signal and noise. The usual mistake is to blame only the gear — room noise, cables and gain structure matter too; set gain badly and the noise floor is amplified with everything else.
 
 Read deeper → [[glossary:signal-to-noise|signal-to-noise]]
 :::

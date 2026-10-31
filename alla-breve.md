@@ -24,7 +24,7 @@ updated: 2026-10-28
 
 历史上它和文艺复兴、巴洛克复调的联系很深：合唱团按 breve 打拍，音乐因此获得更宽的气息。**同一个 4/4 写成 alla breve，听感会更「大」**，因为重音从四拍缩成两拍。
 
-**常见误解**：把 alla breve 只当成速度术语。它首先规定拍的单位，速度加快只是常见结果。
+常见误解：把 alla breve 只当成速度术语。它首先规定拍的单位，速度加快只是常见结果。
 :::
 
 ::: en
@@ -32,5 +32,5 @@ updated: 2026-10-28
 
 Historically it is tied to Renaissance and Baroque polyphony, where choirs beat the breve and the music gained a broader breath. **The same 4/4 written alla breve feels "larger"**, because the accents shrink from four beats to two.
 
-**A common mistake** is to treat alla breve as only a tempo term. It first fixes the beat unit; a quicker pace is merely a frequent consequence.
+A common mistake is to treat alla breve as only a tempo term. It first fixes the beat unit; a quicker pace is merely a frequent consequence.
 :::

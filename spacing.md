@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **声部间距（spacing）** 是相邻声部之间的**音程距离**。一条通行原则是：**低音区可以宽，高音区要收紧**——低频波长长，挤在一起容易浑浊；高音挤在一起反而更容易融合。
 
-它和排列（voicing）相关但不同：排列决定整体是密集还是开放，间距决定**每一对相邻声部**留多远。**常见误解是「平均分配最安全」**——平均分配往往让低音太挤、高音太散；好的间距是有方向的。
+它和排列（voicing）相关但不同：排列决定整体是密集还是开放，间距决定**每一对相邻声部**留多远。常见误解是「平均分配最安全」——平均分配往往让低音太挤、高音太散；好的间距是有方向的。
 
 深入阅读 → [[glossary:voicing]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Spacing** is the **interval distance between adjacent voices**. A common principle: **the low register can be wide, the high register should be close** — low frequencies have long waves and turn muddy when packed together, while high notes blend more easily when close.
 
-It relates to voicing but is not the same: voicing decides whether the whole chord is close or open, spacing decides **how far each neighbouring pair sits**. **The usual mistake is to distribute everything evenly** — even spacing often crowds the bass and scatters the top; good spacing has direction.
+It relates to voicing but is not the same: voicing decides whether the whole chord is close or open, spacing decides **how far each neighbouring pair sits**. The usual mistake is to distribute everything evenly — even spacing often crowds the bass and scatters the top; good spacing has direction.
 
 Read deeper → [[glossary:voicing|voicing]]
 :::

@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **同向进行（similar motion）** 是两个声部**朝同一方向**移动：都上行，或都下行。它本身完全正常，问题出在**同向且同音程**时——那会变成平行五度或平行八度，削弱声部的独立性。
 
-它和**平行进行**的差别是：同向只看方向，平行还要求**音程保持不变**。**常见误解是「同向一律要避免」**——同向是写作的常态；要避免的是**隐伏五度/八度**与**平行五八度**，不是同向本身。
+它和**平行进行**的差别是：同向只看方向，平行还要求音程保持不变。常见误解是「同向一律要避免」——同向是写作的常态；要避免的是隐伏五度/八度与平行五八度，不是同向本身。
 
 深入阅读 → [[glossary:voice-leading]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Similar motion** has two voices moving **in the same direction**: both up or both down. It is perfectly normal in itself; the problem arises when they move **the same way and keep the same interval** — that becomes parallel fifths or octaves and weakens the independence of the parts.
 
-Its difference from **parallel motion** is that similar motion looks only at direction, while parallel also requires **the interval to stay the same**. **The usual mistake is to avoid all similar motion** — it is the normal case; what to avoid is **direct fifths/octaves** and **parallel fifths/octaves**, not similar motion itself.
+Its difference from **parallel motion** is that similar motion looks only at direction, while parallel also requires the interval to stay the same. The usual mistake is to avoid all similar motion — it is the normal case; what to avoid is direct fifths/octaves and parallel fifths/octaves, not similar motion itself.
 
 Read deeper → [[glossary:voice-leading|voice leading]]
 :::

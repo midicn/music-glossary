@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **音区（register）** 是一件乐器或人声内部**音色不同的几个区域**：低音区厚、中音区稳、高音区亮，换区时音色与演奏方式都会变。它不是音域，而是**音域内部的分层**。
 
-它和**音域（range）**不同：音域是能到哪儿，音区是「此刻待在哪个音色层」。**常见误解是「音区只是高低」**——同一个音高，换一种发声方式（胸声/头声、靠指板/靠琴桥）就会换一个音区；**音区是音色，不只是频率。**
+它和**音域（range）**不同：音域是能到哪儿，音区是「此刻待在哪个音色层」。常见误解是「音区只是高低」——同一个音高，换一种发声方式（胸声/头声、靠指板/靠琴桥）就会换一个音区；音区是音色，不只是频率。
 
 深入阅读 → [[glossary:range]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Register** is the set of **colour zones within one instrument or voice**: low register thick, middle steady, high bright, with a change of colour and technique at the breaks. It is not the range but **the layering inside the range**.
 
-It differs from **range**: range is how far you can go, register is **which colour layer you are in right now**. **The usual mistake is to think register is only high versus low** — the same pitch in another production (chest/head voice, near the fingerboard/bridge) changes register; **register is colour, not just frequency.**
+It differs from **range**: range is how far you can go, register is which colour layer you are in right now. The usual mistake is to think register is only high versus low — the same pitch in another production (chest/head voice, near the fingerboard/bridge) changes register; register is colour, not just frequency.
 
 Read deeper → [[glossary:range|range]]
 :::

@@ -24,7 +24,7 @@ updated: 2026-10-28
 
 第一部在新调上完满收住，叫**分段二部**；停在半终止或转调途中，叫**连续二部**，第二部必须接着把调性走回来。若第二部后段带回第一部的开头，称**回归二部**，但回来的通常只是一句，不是完整的 A。
 
-**判断二部曲式，看两部分如何分工，不要数主题。** 若第二部完整独立地再现 A，形成对称，那已是三部曲式；只带回开头便转收尾，仍属二部。
+判断二部曲式，看两部分如何分工，不要数主题。 若第二部完整独立地再现 A，形成对称，那已是三部曲式；只带回开头便转收尾，仍属二部。
 :::
 
 ::: en
@@ -32,5 +32,5 @@ updated: 2026-10-28
 
 If the first part closes fully in the new key it is **sectional** binary; if it stops on a half cadence or mid-modulation it is **continuous**, and the second must bring the key home. If the later part recalls the opening in the tonic, the form is **rounded binary**; but only the head of A returns.
 
-**Judge binary form by how the two halves divide the work, not by counting themes.** A complete, independent return of A makes it ternary; a brief recall that turns to the close is still binary.
+Judge binary form by how the two halves divide the work, not by counting themes. A complete, independent return of A makes it ternary; a brief recall that turns to the close is still binary.
 :::

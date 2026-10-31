@@ -24,7 +24,7 @@ updated: 2026-10-28
 
 **读它的关键是看清拍的单位**：♩=120 与 ♪=120 完全不同；在 6/8 里，标记常写成附点四分音符，因为那才是真正的大拍。标记也不保证绝对精确——不同厅堂、不同编制会让同一数字听起来快慢不一。**它是坐标，不是命令。**
 
-**常见误解**：把 BPM 当成拍号。拍号管每小节怎么分组，节拍器标记管每分钟多快。
+常见误解：把 BPM 当成拍号。拍号管每小节怎么分组，节拍器标记管每分钟多快。
 :::
 
 ::: en
@@ -32,5 +32,5 @@ updated: 2026-10-28
 
 **The note value is the key to reading it**: ♩ = 120 and ♪ = 120 are entirely different, and in 6/8 the mark is often a dotted quarter because that is the real beat. Nor is the figure absolutely precise — different halls and ensembles make the same number feel faster or slower. **It is a coordinate, not a command.**
 
-**A common mistake** is to confuse BPM with the time signature. The signature governs how each bar is grouped; the metronome mark governs how fast the minutes pass.
+A common mistake is to confuse BPM with the time signature. The signature governs how each bar is grouped; the metronome mark governs how fast the minutes pass.
 :::

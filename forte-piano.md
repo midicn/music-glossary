@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **突弱（forte-piano，缩写 fp）** 是**先强后立刻弱**的力度记号：起音是 f，随即降到 p。它制造的是**「一声被吞掉的呼喊」**——冲击之后马上收回，常用于戏剧性的转折或叹息。
 
-它和**渐弱**不同：fp 是**瞬间切换**，渐弱是过程；它也和 **sforzando** 不同：sfz 强调一个音的头，fp 强调**头之后的立刻退去**。**常见误解是把 fp 弹成「先响一下再慢慢弱」**——fp 的关键是「立刻」。
+它和**渐弱**不同：fp 是瞬间切换，渐弱是过程；它也和 sforzando 不同：sfz 强调一个音的头，fp 强调头之后的立刻退去。常见误解是把 fp 弹成「先响一下再慢慢弱」——fp 的关键是「立刻」。
 
 深入阅读 → [[glossary:sforzando]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Forte-piano (fp)** means **loud, then immediately soft**: the attack is f, then it drops to p. It creates **"a cry swallowed at once"** — impact followed by withdrawal, common at dramatic turns or sighs.
 
-It differs from **diminuendo**: fp is an **instant switch**, diminuendo a process; it also differs from **sforzando**: sfz stresses the attack, fp stresses **the immediate retreat after it**. **The usual mistake is to play fp as "loud then gradually softer"** — the point is "immediately".
+It differs from **diminuendo**: fp is an instant switch, diminuendo a process; it also differs from sforzando: sfz stresses the attack, fp stresses the immediate retreat after it. The usual mistake is to play fp as "loud then gradually softer" — the point is "immediately".
 
 Read deeper → [[glossary:sforzando|sforzando]]
 :::

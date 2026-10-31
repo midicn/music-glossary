@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **拍（beat）** 是音乐里稳定的**脉冲**：你跺脚、点头跟随的那个单位。它不一定真的被奏出来——很多音乐里拍是**隐含的**，由旋律与和声的落点让人感觉到。
 
-拍与拍号、速度是三件事：**拍**是脉冲单位，**拍号**把拍分组（每小节几拍），**速度**决定拍有多快。常见误解是把「拍」当成「音符」：一拍可以是一个四分音符，也可以是一个附点四分音符，取决于拍号与速度。
+拍与拍号、速度是三件事：**拍**是脉冲单位，拍号把拍分组（每小节几拍），速度决定拍有多快。常见误解是把「拍」当成「音符」：一拍可以是一个四分音符，也可以是一个附点四分音符，取决于拍号与速度。
 
 深入阅读 → [[concept:meter]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **The beat** is the steady **pulse** of music: the unit you tap with your foot or nod to. It is not necessarily played aloud — in much music the beat is **implied**, felt through where melody and harmony land.
 
-Beat, time signature and tempo are three things: **beat** is the pulse unit, **time signature** groups beats (how many per bar), **tempo** decides how fast the beat goes. The usual mistake is to equate beat with note: one beat may be a quarter note or a dotted quarter, depending on metre and tempo.
+Beat, time signature and tempo are three things: **beat** is the pulse unit, time signature groups beats (how many per bar), tempo decides how fast the beat goes. The usual mistake is to equate beat with note: one beat may be a quarter note or a dotted quarter, depending on metre and tempo.
 
 Read deeper → [[concept:meter]]
 :::

@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **哈巴涅拉（habanera）** 是**古巴—西班牙的二拍子舞曲**，最醒目的是低音的四音型与切分节奏，带来一种**慢而摇曳**的性感。比才《卡门》的《哈巴涅拉》让它成为全球熟悉的旋律。
 
-它和**波莱罗**不同：波莱罗是三拍子，哈巴涅拉是二拍子；它和**探戈**有亲缘关系，但探戈更快、更城市。**常见误解是把它当成「西班牙土生」**——它诞生在古巴，后来才回到西班牙。
+它和**波莱罗**不同：波莱罗是三拍子，哈巴涅拉是二拍子；它和探戈有亲缘关系，但探戈更快、更城市。常见误解是把它当成「西班牙土生」——它诞生在古巴，后来才回到西班牙。
 
 深入阅读 → [[glossary:tango]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **A habanera** is a **Cuban-Spanish dance in duple time**, defined by its four-note bass figure and syncopated rhythm, giving a **slow, swaying** sensuality. Bizet's Habanera from Carmen made it a globally familiar tune.
 
-It differs from the **bolero**: the bolero is triple, the habanera duple; it is related to the **tango**, but the tango is faster and more urban. **The usual mistake is to think it is native Spanish** — it was born in Cuba and only later returned to Spain.
+It differs from the **bolero**: the bolero is triple, the habanera duple; it is related to the tango, but the tango is faster and more urban. The usual mistake is to think it is native Spanish — it was born in Cuba and only later returned to Spain.
 
 Read deeper → [[glossary:tango|tango]]
 :::

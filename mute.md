@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **弱音器（mute）** 是装在乐器上的小装置：弦乐用橡胶或木质夹在马桥上，铜管塞进喇叭口，管乐也有各式弱音器。它的作用不只是**减小音量**，更是**改变音色**——弦乐变薄、变远，铜管变闷或变尖。
 
-铜管的弱音器种类最多：直弱音器（straight）、杯弱音器（cup）、哈蒙弱音器（harmon）各有不同的声音性格。**「弱音」不等于「小声」**：哈蒙弱音器可以很响，只是把声音压成一条细线。**mute 的关键是音色，不是音量。**
+铜管的弱音器种类最多：直弱音器（straight）、杯弱音器（cup）、哈蒙弱音器（harmon）各有不同的声音性格。**「弱音」不等于「小声」**：哈蒙弱音器可以很响，只是把声音压成一条细线。mute 的关键是音色，不是音量。
 
 深入阅读 → [[concept:timbre]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **A mute** is a small device fitted to an instrument: strings clamp rubber or wood to the bridge, brass players insert one into the bell, and winds have their own kinds. Its job is not only **to reduce volume** but **to change colour** — strings thinner and more distant, brass darker or more biting.
 
-Brass has the richest family: straight, cup and harmon mutes each have a character. **"Muted" does not mean "quiet"**: a harmon mute can be loud while squeezing the sound into a thin line. **The point of a mute is colour, not volume.**
+Brass has the richest family: straight, cup and harmon mutes each have a character. **"Muted" does not mean "quiet"**: a harmon mute can be loud while squeezing the sound into a thin line. The point of a mute is colour, not volume.
 
 Read deeper → [[concept:timbre]]
 :::

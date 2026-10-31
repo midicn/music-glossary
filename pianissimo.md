@@ -23,7 +23,7 @@ updated: 2026-10-28
 ::: zh
 **很弱（pianissimo，缩写 pp）** 是比 p 更弱的力度记号。它在谱面上常见于**轻声的伴奏、悬停的和声或结尾的余韵**，要求声音极小但**仍然有音色与方向**。
 
-它和 p 的关系是**层级**，不是「另一个数字」：pp 到底多轻，取决于作品、乐器与厅堂。**常见误解是把 pp 弹成「没有声音」**——听不见的 pp 不是力度，是事故；**弱到极限时，音色的清晰比音量更重要。**
+它和 p 的关系是**层级**，不是「另一个数字」：pp 到底多轻，取决于作品、乐器与厅堂。常见误解是把 pp 弹成「没有声音」——听不见的 pp 不是力度，是事故；弱到极限时，音色的清晰比音量更重要。
 
 深入阅读 → [[glossary:dynamics]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Pianissimo (pp)** is a dynamic mark softer than p. It often appears in **quiet accompaniments, hovering harmony or the afterglow of an ending**, asking for a very small sound that still has **colour and direction**.
 
-Its relation to p is **a level**, not "another number": how soft pp should be depends on the work, the instrument and the room. **The usual mistake is to play pp as "no sound"** — a pp nobody can hear is not a dynamic but an accident; **at the edge of softness, clarity of colour matters more than volume.**
+Its relation to p is **a level**, not "another number": how soft pp should be depends on the work, the instrument and the room. The usual mistake is to play pp as "no sound" — a pp nobody can hear is not a dynamic but an accident; at the edge of softness, clarity of colour matters more than volume.
 
 Read deeper → [[glossary:dynamics|dynamics]]
 :::
