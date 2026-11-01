@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "kicker": {"zh": "音乐词典", "en": "Music Glossary"},
+    "title": {"zh": "查一个词，顺手读到它的来龙去脉", "en": "Look up a word, stay for the context"},
+    "lead": {"zh": "术语、体裁、乐器名、作品编号与中国音乐，一条先说清，再链到能深读的条目。可以按读谱、按体裁、按外文名或按编号进入。", "en": "Terms, genres, instrument names, work numbers and Chinese music: defined in a sentence, then linked to deeper reading. Enter by notation, genre, foreign name or catalogue number."}
+  },
+  "needs_title": {"zh": "你在哪儿遇到这个词", "en": "Where did you meet the word"},
+  "needs_sub": {"zh": "同一个词在不同场景里的重点不同，先选场景再看释义。", "en": "The same term matters differently by context; pick the context first."},
+  "needs": [
+    {
+      "icon": "谱",
+      "t": {"zh": "读谱时遇到记号", "en": "A mark in the score"},
+      "d": {"zh": "力度、速度、奏法与反复记号，先分清它管哪一层。", "en": "Dynamics, tempo, technique and repeats: know which layer the mark controls."},
+      "links": [{"id": "dynamics"}, {"id": "ad-libitum"}, {"id": "natural-sign"}, {"id": "double-stop"}]
+    },
+    {
+      "icon": "体",
+      "t": {"zh": "分不清体裁", "en": "Genres blur together"},
+      "d": {"zh": "看编制、场合与长度，比看名字可靠。", "en": "Forces, setting and length are more reliable than the name."},
+      "links": [{"id": "symphony"}, {"id": "string-quartet"}, {"id": "tone-poem"}, {"id": "requiem"}]
+    },
+    {
+      "icon": "名",
+      "t": {"zh": "乐器外文名对不上", "en": "Instrument names do not match"},
+      "d": {"zh": "同一个乐器在不同语言里有不同名字，按音译与实物对照。", "en": "One instrument, many names; match transliteration with the actual object."},
+      "links": [{"id": "nyckelharpa"}, {"id": "bandoneon"}, {"id": "didgeridoo"}, {"id": "hurdy-gurdy"}]
+    },
+    {
+      "icon": "号",
+      "t": {"zh": "作品编号看不懂", "en": "Work numbers make no sense"},
+      "d": {"zh": "BWV、S.、TWV 与 Anh. 各管一个作曲家或一类附录，不是年代。", "en": "BWV, S., TWV and Anh. belong to composers or appendices, not to chronology."},
+      "links": [{"id": "bwv"}, {"id": "s"}, {"id": "twv"}, {"id": "anh"}]
+    },
+    {
+      "icon": "中",
+      "t": {"zh": "中国音乐术语", "en": "Chinese music terms"},
+      "d": {"zh": "燕乐、清乐、曲牌与调门，背后是调式与场合的整套约定。", "en": "Yanyue, qingyue, qupai and diaomen encode a whole system of modes and occasions."},
+      "links": [{"id": "yanyue"}, {"id": "qingyue"}, {"id": "qupai"}, {"id": "sanfen-sunyi"}]
+    },
+    {
+      "icon": "权",
+      "t": {"zh": "产业与版权术语", "en": "Industry and rights terms"},
+      "d": {"zh": "版税、机械复制权与母带权，先弄清收的是哪一层钱。", "en": "Royalty, mechanical licence and master rights: know which layer of money is being collected."},
+      "links": [{"id": "royalty"}, {"id": "mechanical-license"}, {"id": "master-rights"}, {"id": "public-domain"}]
+    }
+  ],
+  "ladder_title": {"zh": "查一个词的四步", "en": "Four steps for a term"},
+  "ladder_sub": {"zh": "从一句话定义到深读，别停在第一句。", "en": "From the one-line definition to deeper reading; do not stop at the first sentence."},
+  "ladder": [
+    {"n": "01", "t": {"zh": "先看一句话定义", "en": "Read the one-liner"}, "d": {"zh": "能一句话说清，说明这个概念有边界。", "en": "If it fits in a sentence, it has an edge."}, "href": "symphony"},
+    {"n": "02", "t": {"zh": "再看多语名与别名", "en": "Check names and aliases"}, "d": {"zh": "别名常常暴露它的来源与误用。", "en": "Aliases often reveal origin and misuse."}, "href": "bandoneon"},
+    {"n": "03", "t": {"zh": "顺着相关条目走", "en": "Follow the related entries"}, "d": {"zh": "一个词周围的词，才是它真正的语境。", "en": "The words around it are its real context."}, "href": "qupai"},
+    {"n": "04", "t": {"zh": "到分站深读", "en": "Read deeper on a site"}, "d": {"zh": "词典负责定位，理论和历史负责展开。", "en": "The glossary locates; theory and history expand."}, "href": "public-domain"}
+  ],
+  "picks_title": {"zh": "六条高频词条", "en": "Six high-traffic entries"},
+  "picks_sub": {"zh": "覆盖读谱、体裁、编号、制作、版权与中国音乐。", "en": "Covering notation, genre, numbering, production, rights and Chinese music."},
+  "picks": [
+    {"id": "symphony", "why": {"zh": "一个体裁的名字，背后是编制与场合的整套约定。", "en": "A genre name that encodes forces and setting."}},
+    {"id": "bwv", "why": {"zh": "编号不是年代，先弄清它属于谁。", "en": "A catalogue number is not a date; know whose catalogue it is."}},
+    {"id": "qupai", "why": {"zh": "曲牌是旋律骨架，也是填词与场合的单位。", "en": "Qupai is a melodic skeleton and a unit of text-setting and occasion."}},
+    {"id": "sidechain", "why": {"zh": "制作术语里最常被误解的一个。", "en": "One of the most misunderstood production terms."}},
+    {"id": "public-domain", "why": {"zh": "公版不是“随便用”，要看地区与版本。", "en": "Public domain is not a free-for-all; region and edition matter."}},
+    {"id": "nyckelharpa", "why": {"zh": "一件乐器如何被名字、形制与演奏法共同定义。", "en": "How name, shape and technique define an instrument together."}}
+  ],
+  "trails_title": {"zh": "三条从词到事的线", "en": "Three routes from word to thing"},
+  "trails_sub": {"zh": "把词条当入口，顺着读到具体做法与历史。", "en": "Use the entry as a door, then read into practice and history."},
+  "trails": [
+    {"t": {"zh": "读谱术语", "en": "Notation terms"}, "d": {"zh": "力度、记号、指法谱与双音。", "en": "Dynamics, signs, tablature and double stops."}, "stops": ["dynamics", "natural-sign", "tablature", "double-stop"]},
+    {"t": {"zh": "作品编号", "en": "Work numbers"}, "d": {"zh": "BWV、S.、TWV 与 Anh. 的分工。", "en": "What BWV, S., TWV and Anh. each cover."}, "stops": ["bwv", "s", "twv", "anh"]},
+    {"t": {"zh": "中国音乐术语", "en": "Chinese music terms"}, "d": {"zh": "从燕乐到曲牌，再到三分损益。", "en": "From yanyue to qupai and sanfen sunyi."}, "stops": ["yanyue", "qingyue", "qupai", "sanfen-sunyi"]}
+  ]
+}

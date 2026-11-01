@@ -1,37 +1,14 @@
-# 音乐词典 · 内容源
+# midicn · 音乐词典
 
-> **midicn 音乐知识矩阵** · 音乐词典 站的内容真源（Markdown）
-> 站点：<https://gloss.midicn.com/>
+这是 [音乐词典](https://gloss.midicn.com/) 的双语内容真源；网站产物位于 [midicn/gloss](https://github.com/midicn/gloss)。
 
-## 这是什么
+一部可查也可读的音乐词典 —— 术语、人物、体裁、乐器与中国音乐，每条一句话说清，并链到相关子站的深读条目。
 
-本仓存放 **音乐词典**（Glossary）的全部条目源码 —— **纯 Markdown**，一个条目一个文件。
+每条内容使用 Markdown 与 YAML 元数据，同一文件内以 `::: zh` 和 `::: en` 编写中英两版。
+`instances` 指向曲库中的真实曲目，`[[类型:ID]]` 由实体注册表解析为站内或跨站链接。
 
-| 目录即文件 | 说明 |
-|---|---|
-| `<slug>.md` | 一个条目（如 `interval.md` → <https://gloss.midicn.com/interval/>） |
+- `_home.json`：首页导航配置。
 
-条目内含 front-matter（标题 / 摘要 / 分类 / 双语字段）与正文。
-正文用 `::: zh` 与 `::: en` 两个区块承载**中英双语**，两者**同步维护**。
+首页配置属于构建输入，与正文一起维护。作者笔记和进度文件不属于公开内容。
 
-## 授权
-
-**文字内容采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 授权** ——
-可自由复制、改写、翻译、商用，**只需署名**（注明来源为 midicn 并给出链接）。
-
-> 文字为原创；参考源只用来核实事实，没有沿用任何来源的句式。
-> 图表为**自绘 SVG**，不使用实拍照片。详见 <https://midicn.com/legal/copyright/>。
-
-## 相关仓
-
-| 用途 | 仓 |
-|---|---|
-| 本仓（内容源） | `midicn/music-glossary` |
-| 站点产物 | [`midicn/gloss`](https://github.com/midicn/gloss) |
-| 数据集（MIDI 索引） | [`midicn/midi-library`](https://github.com/midicn/midi-library) |
-
-## 反馈
-
-发现内容错误或有改进建议？欢迎在 [Issues](https://github.com/midicn/music-glossary/issues) 提出。
-
-内容与站点同步发布：这里的一个 Markdown 文件对应线上一个条目页（含中英双语）。
+原创文字依 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授权；曲目、引用及其他第三方素材保留各自许可。
