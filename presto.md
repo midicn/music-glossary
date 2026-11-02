@@ -17,21 +17,21 @@ links:
   - "[[glossary:tempo]]"
 sources:
   - 速度术语的性格含义与通行 BPM 区间，参 The New Grove Dictionary of Music and Musicians, "Tempo and tempo marks" 与通行乐理教材
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**急板（Presto）** 表示极快的速度，常约每分钟 168–200 拍。词源是意大利语 presto（快速、敏捷）。它追求的不只是快，而是**轻盈与清晰**：音符多到一定程度，听众听到的是姿态，不是每一颗音。
+**急板（Presto）**表示很快的速度，来自意大利语 presto（快速、敏捷）。一些教材约列为每分钟168–200拍，但拍单位、作品年代和风格会影响实际速度，不能把该范围当作统一规定。
 
-比它更快的还有 Prestissimo（极急板）。常见误解是把 Presto 当成「越快越好」——**当速度超过手指与耳朵能组织的极限，音乐就只剩下噪音**。真正的 Presto，是让快速听起来毫不费力。
+**Prestissimo** 通常表示比 Presto 更快。读谱时仍须结合具体节拍器标记、音符密度和其他演奏指示。
 
 深入阅读 → [[concept:tempo]]
 :::
 
 ::: en
-**Presto** marks a very fast tempo, often around 168–200 beats per minute. The word comes from Italian presto, "quick, nimble". It aims not merely at speed but at **lightness and clarity**: past a certain density the listener hears a gesture rather than individual notes.
+**Presto** indicates a very fast tempo, from Italian presto, “quick” or “nimble”. Some textbooks give approximately 168–200 beats per minute, but beat unit, period and style affect the actual speed; the range is not a universal rule.
 
-Faster still is Prestissimo. The usual mistake is to treat Presto as "the faster the better" — **once speed exceeds what fingers and ears can organise, only noise remains**. A real Presto makes velocity sound effortless.
+**Prestissimo** usually indicates a still faster tempo. Read both with any specific metronome mark, note density and other performance instructions.
 
 Read deeper → [[concept:tempo]]
 :::

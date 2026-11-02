@@ -16,21 +16,17 @@ links:
   - "[[glossary:espressivo]]"
 sources:
   - amoroso 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Amoroso"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**柔情地（amoroso）** 来自意大利语 amore「爱」，拉丁语 amor。它比 affettuoso 更私密：像在近处说话——音量不必大，音色要软，句间留一点呼吸。
+**柔情地（amoroso）**表示带有爱意、柔情的演奏性格。它不规定一个固定拍速或音量，也不要求统一采用滑音、揉弦或渐强。
 
-它属于**色彩与语气**的标记，不规定速度。**常见误解是把它演成甜腻**：过多的滑音与夸张的渐强会把亲昵变成撒娇；真正的柔情靠克制的触碰。
-
-谱面上它比 dolce 少见，多见于歌剧与抒情小品；与 [[glossary:dolce]] 相比，amoroso 更强调**对象感**——声音是冲着某个人去的。
+处理时应结合乐句走向和同时出现的力度、速度及演奏法标记。它与 [[glossary:dolce]] 的用法有相近之处，具体差别需结合作品，而不是按‘对谁说话’划分等级。
 :::
 
 ::: en
-**Amoroso** comes from the Italian amore, "love", from Latin amor. It is more private than affettuoso: not warmth offered to a room, but speech at close range — no need for volume, a soft colour, a little breath between phrases.
+**Amoroso** indicates an affectionate or loving character. It does not prescribe a fixed tempo or dynamic, nor a uniform use of portamento, vibrato or crescendo.
 
-It is a mark of **colour and tone**, not of speed. **The usual mistake is to make it sugary**: too much portamento, too heavy a vibrato and exaggerated swells turn intimacy into coyness. Real tenderness comes from restrained touch, from setting each note down gently.
-
-It appears less often than dolce, mostly in opera and lyrical pieces; beside dolce, amoroso stresses **an object** — the sound is addressed to someone.
+Read it through the phrasing and accompanying dynamic, tempo and articulation marks. Its usage overlaps with dolce; differences depend on the work rather than a fixed hierarchy of intimacy.
 :::

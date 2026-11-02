@@ -15,22 +15,19 @@ links:
   - "[[glossary:serenade]]"
   - "[[glossary:prelude]]"
 sources:
+  - "https://chopin.nifc.pl/en/chopin/gatunki/11_nokturny"
   - 夜曲的起源、肖邦的二十一首与后续扩展，参 The New Grove Dictionary of Music and Musicians, "Nocturne"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**夜曲（nocturne）** 是十九世纪流行的抒情钢琴小品，通常速度缓慢、旋律在分解和弦的伴奏上歌唱。爱尔兰作曲家菲尔德首创这一名称，肖邦把它写成二十一首性格各异的作品。
+**夜曲（nocturne）**常指19世纪的抒情钢琴小品，典型写法是歌唱性旋律配分解和弦。约翰·菲尔德确立了这一钢琴体裁的传统，肖邦进一步发展了它；“夜曲”及相关名称在此之前已有用于夜间器乐演奏的历史。
 
-夜曲不等于「描写夜晚」：它更是一种私密的说话方式，句尾常带装饰性的华彩，和声在安静中悄悄转向。后来德彪西写管弦乐《夜曲》，福雷把钢琴夜曲延续到二十世纪，但核心仍是独处时的语气。
-
-听夜曲，注意旋律与伴奏的分工：右手唱，左手铺底色，踏板把两者黏在一起。**最容易被忽略的是低音的走向——它决定这首夜曲是安稳、恍惚，还是暗流涌动。**
+同名作品不必具有同一结构或情绪。肖邦的钢琴夜曲可以包含强烈对比，德彪西的管弦乐《夜曲》则使用不同编制和构思。听钢琴夜曲时，可以分别跟随旋律、低音与内声部，观察它们怎样在段落之间变化。
 :::
 
 ::: en
-**A nocturne** is a lyrical piano miniature popular in the nineteenth century, usually slow, with a melody singing above broken-chord accompaniment. The Irish composer John Field coined the name; Chopin turned it into twenty-one pieces of widely differing character.
+**A nocturne** often means a nineteenth-century lyrical piano piece with a singing melody over broken chords. John Field established this piano tradition and Chopin developed it; the nocturne title and related names had earlier associations with instrumental night music.
 
-A nocturne is not necessarily a description of night: it is a private manner of speech, its phrases often ending in ornamental flourishes while the harmony turns quietly beneath. Debussy later wrote orchestral Nocturnes and Faure carried the piano nocturne into the twentieth century, but its core remains the tone of solitude.
-
-Listen for the division of labour between melody and accompaniment: the right hand sings, the left lays the ground, the pedal binds them. **The bass line is most easily overlooked — it decides whether the piece is calm, dreamy or secretly restless.**
+The title does not prescribe one structure or mood. Chopin’s piano nocturnes can contain forceful contrasts, while Debussy’s orchestral Nocturnes use a different medium and conception. In a piano nocturne, follow melody, bass and inner parts separately and compare their treatment across sections.
 :::

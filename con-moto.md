@@ -17,21 +17,21 @@ links:
   - "[[concept:tempo]]"
 sources:
   - con moto 的速度含义，参 The New Grove Dictionary of Music and Musicians, "Tempo and tempo marks"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**稍带动感（con moto）** 是速度修饰语：在原有速度上**多一点推进**，通常比前面的标记稍快、更有流动感。它不是换一个速度，而是在同一段音乐里调整「走」的劲头。
+**Con moto**意为“带有动感、流动地”，常与速度记号组合，例如 Andante con moto。它修饰音乐的运动性格，而不是给出一个独立、固定的BPM。
 
-它常出现在乐章内部：先写 Andante，再写 con moto，意思是「还是行板，但走起来」。**判断 con moto，听的是推进感有没有增加，而不是 BPM 有没有变**——有时速度几乎不变，只是重音与句法更向前。
+具体是否需要略快、采用怎样的重音与乐句推进，要结合完整标记、前后文及演奏传统。不能单凭 con moto 断定速度一定改变，或一定保持不变。
 
 深入阅读 → [[concept:tempo]]
 :::
 
 ::: en
-**Con moto** is a tempo qualifier: **a little more drive** within the existing tempo, usually a touch faster and more flowing than the preceding mark. It is not a new tempo but a change in the momentum of the same music.
+**Con moto** means “with movement” and often accompanies a tempo mark, as in Andante con moto. It qualifies the music’s moving character rather than supplying an independent, fixed BPM.
 
-It often appears inside a movement: Andante, then con moto — "still a walking pace, but walking". **Judge con moto by whether the drive increases, not by whether the BPM changes** — sometimes the speed barely moves and only the accent and phrasing lean forward.
+Whether a slightly faster pace is appropriate, and how accents and phrasing convey motion, depends on the complete marking, context and performance practice. Con moto alone does not prove that the tempo must change or remain unchanged.
 
 Read deeper → [[concept:tempo]]
 :::

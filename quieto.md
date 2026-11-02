@@ -4,8 +4,8 @@ site: gloss
 cat: G1
 title: 安静地
 title_en: Quieto
-summary: 安静、不动声色，但仍要有方向
-summary_en: Quiet and still — yet still with direction
+summary: "quieto：安静、平和地的表情记号，具体处理结合谱面与风格"
+summary_en: "Quiet or peaceful; an expression marking interpreted in musical context"
 level: brief
 tags: [表情, 速度与表情, 术语]
 tags_en: [expression, tempo-and-expression, terminology]
@@ -17,21 +17,21 @@ links:
   - "[[glossary:tempo]]"
 sources:
   - quieto 的表情含义，参 The New Grove Dictionary of Music and Musicians, "Expression"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**安静地（quieto）** 是表情术语：**安静、不动声色、内敛**。它比 calmo 更静，常出现在弱奏、长音与稀疏的织体里。
+**安静、平和地（quieto）**是音乐中的表情记号。
 
-它和 **tranquillo** 接近，但 tranquillo 更强调安详，quieto 更强调**声音的收敛**。常见误解是把 quieto 弹成「没有方向」——安静仍然要有句子与重心；没有方向的安静只是停滞。
+应在谱面既定速度中处理平稳的起音、乐句衔接与动态。它与 calmo、tranquillo 的用法有重叠，没有统一的强弱等级。
 
 深入阅读 → [[glossary:calmo]]
 :::
 
 ::: en
-**Quieto** is an expression mark: **quiet, still, inward**. It is more still than calmo, often in soft passages, long notes and sparse textures.
+**Quieto means quietly or calmly.** It is an expression marking in music.
 
-It is close to **tranquillo**, but tranquillo stresses serenity while quieto stresses **withdrawal of sound**. The usual mistake is to let quieto lose direction — quiet music still needs phrases and weight; stillness without direction is merely stagnation.
+Within the written tempo, consider steadiness of attack, connections between phrases and dynamics. Its usage overlaps with calmo and tranquillo; the terms do not form a fixed scale of intensity.
 
 Read deeper → [[glossary:calmo|calmo]]
 :::

@@ -4,8 +4,8 @@ site: gloss
 cat: G1
 title: 温柔地
 title_en: Teneramente
-summary: 带温柔、眷恋与细腻的演奏
-summary_en: Tenderly, with warmth and care
+summary: "teneramente：温柔地的表情记号，具体处理结合谱面与风格"
+summary_en: "Tenderly; an expression marking interpreted in musical context"
 level: brief
 tags: [表情, 速度与表情, 术语]
 tags_en: [expression, tempo-and-expression, terminology]
@@ -17,21 +17,21 @@ links:
   - "[[glossary:tempo]]"
 sources:
   - teneramente 的表情含义，参 The New Grove Dictionary of Music and Musicians, "Expression"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**温柔地（teneramente）** 是表情术语：带**温柔、眷恋、细腻**地演奏。它比 dolce 更带**情感的温度**，常出现在抒情段落与室内乐的低语里。
+**温柔地（teneramente）**是音乐中的表情记号。
 
-它和 **soave** 不同：soave 是平滑，teneramente 是有感情的温柔。常见误解是把它弹成「轻」——温柔不等于弱；关键是声音有没有「照顾」句子的感觉。
+这类表情记号提示乐句的语气；速度和音量仍需看同时出现的其他记号。它与 dolce、soave 的侧重点可依上下文讨论，不宜说成固定的情感温度差。
 
 深入阅读 → [[glossary:dolce]]
 :::
 
 ::: en
-**Teneramente** is an expression mark: play **tenderly, with warmth and care**. It carries more **emotional temperature** than dolce, often in lyrical passages and chamber-music whispers.
+**Teneramente means tenderly.** It is an expression marking in music.
 
-It differs from **soave**: soave is smoothness, teneramente is warmth with feeling. The usual mistake is to play it soft — tenderness is not weakness; the point is whether the sound seems to take care of the phrase.
+The marking concerns the manner of the phrase. Read tempo and volume from the other markings present. Comparisons with dolce or soave depend on context, not on a fixed measure of emotional warmth.
 
 Read deeper → [[glossary:dolce|dolce]]
 :::

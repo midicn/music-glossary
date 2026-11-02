@@ -4,8 +4,8 @@ site: gloss
 cat: G1
 title: 有生气地
 title_en: Brioso
-summary: 带活力、光彩与自信的演奏
-summary_en: With vigour, sparkle and confidence
+summary: "brioso：有生气、富于活力地的表情记号，具体处理结合谱面与风格"
+summary_en: "With spirit and energy; an expression marking interpreted in musical context"
 level: brief
 tags: [表情, 速度与表情, 术语]
 tags_en: [expression, tempo-and-expression, terminology]
@@ -17,21 +17,21 @@ links:
   - "[[glossary:tempo]]"
 sources:
   - brioso 的表情含义，参 The New Grove Dictionary of Music and Musicians, "Brio"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**有生气地（brioso）** 是表情术语：带**活力、光彩与自信**地演奏。它和 con brio（有活力地）同源，但 brioso 更常作为独立的性格标记。
+**有生气、富于活力地（brioso）**是音乐中的表情记号。
 
-它和 **energico** 不同：energico 强调力量与推进，brioso 更强调**光彩与灵动**。常见误解是把它等同于「快」——brioso 可以在中速甚至慢速里成立；关键是声音有没有「亮起来」。
+常与 con brio 对读。保持节奏的推进和清楚的重音，可比单纯加速更直接地表现这种性格；若有具体速度、力度记号，应同时遵循。
 
 深入阅读 → [[glossary:con-brio]]
 :::
 
 ::: en
-**Brioso** is an expression mark: play with **vigour, sparkle and confidence**. It shares a root with con brio ("with spirit"), but brioso often stands as a character mark on its own.
+**Brioso means spiritedly or with vigour.** It is an expression marking in music.
 
-It differs from **energico**: energico stresses force and drive, brioso **sparkle and litheness**. The usual mistake is to equate it with "fast" — brioso can work at a moderate or even slow tempo; the point is whether the sound lights up.
+Compare con brio. Rhythmic drive and clear accents can convey the character without simply speeding up. Observe any accompanying tempo and dynamic instructions.
 
 Read deeper → [[glossary:con-brio|con brio]]
 :::

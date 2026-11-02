@@ -11,80 +11,35 @@ tags: [本站说明]
 tags_en: [about]
 alias: [关于, 说明, 词典说明, about, glossary]
 order: 99
-updated: 2026-09-28
+updated: 2026-11-02
 sources:
   - 本站自订说明，据实描述这里的内容范围与编写约定
 ---
 
 ::: zh
-## 这一站是做什么的
+## 查找术语
 
-音乐词典是整套音乐知识的**速查层**。别的站负责把一件事讲透，这里只负责一件事：
-**让你在几秒钟内知道一个词是什么意思**。
+在词典首页按分类浏览，或用搜索查找中文、英文与常见别名。词条涵盖乐理、体裁、人物、乐器、中国音乐术语以及录音与音乐产业用语。
 
-一个词一条，每条只回答「它是什么」。想往下深读，条目底部会给出对应站点的入口。
+每条先给定义；容易混淆的概念会说明差别，必要时附例子或读谱提示。条目末尾的相关链接可继续进入乐理、乐器、音乐史与制作分站。
 
-## 会收录哪些词
+## 阅读时注意
 
-- **乐理与和声的术语** —— 音程、调式、和弦、进行、对位、曲式这些在正文里反复出现的名词。
-- **人物** —— 作曲家与重要的演奏者，一条只记「他是谁、大致什么时候、以什么闻名」。
-- 体裁与曲式 —— 奏鸣曲、赋格、协奏曲、艺术歌曲这类名词到底指什么。
-- 乐器名词 —— 常见的乐器名，以及容易混淆的近亲（比如同族的几种管乐器差在哪）。
-- 中国音乐的专门名词 —— 工尺谱、板眼、曲牌这类只在中文语境里出现的词。
+同一个术语可能随时代、体裁和语言改变含义。作品中的速度与表情记号要结合上下文；版权和合同词汇仅提供基本概念，具体用途仍需核对适用规则与授权文件。
 
-## 每条长什么样
-
-- 篇幅一句话到一小段，不铺开讲。
-- 中文与英文各一份，两版说的是同一件事。
-- 举例只举必要的，展开留给对应站点的深读条目。
-
-## 怎么读
-
-1. 先查后用 —— 读别的站时碰到不认识的名词，回到这里确认一次。
-2. 顺着链接往下走 —— 想弄懂「为什么」，跟着条目底部的入口去对应的站。
-3. 近义词会比一比 —— 容易混的两个词会并排说明区别。
-
-## 词条什么时候能查到
-
-词条正在陆续上线：先补的是各站正文里最常被引用到的那批词，然后是每站的专用名词。
-在词条补齐之前，本站会保持现在这个说明页。
+[返回词典首页](../)
 :::
 
 ::: en
-## What this station is for
+## Find a term
 
-The glossary is the **quick-reference layer** of the whole music library. The other stations
-explain things in depth; this one does a single job — **let you find out what a word means
-in a few seconds**.
+Browse categories on the glossary home page or search Chinese names, English names and common aliases. Entries cover theory, genres, people, instruments, Chinese music, recording and the music industry.
 
-One entry per word, and each entry answers only "what is it". When you want to go deeper,
-the bottom of the entry points you to the station that covers it properly.
+Each entry begins with a definition. Confusable concepts are distinguished, with examples or notation guidance where useful. Related links lead into the theory, instrument, history and production sites.
 
-## What it will cover
+## Read in context
 
-- **Theory and harmony terms** — the words that keep coming up: intervals, modes, chords,
-  progressions, counterpoint, form.
-- **People** — composers and notable performers, remembered in one line: who they were,
-  roughly when, and what they are known for.
-- **Genres and forms** — what sonata, fugue, concerto or art song actually mean.
-- Instrument names — the common ones, plus the near-relatives that are easy to mix up.
-- Chinese music terms — words that only exist in the Chinese context, such as gongche
-  notation, ban and yan, and qupai.
+A term can change meaning across periods, genres and languages. Interpret tempo and expression marks in their musical context. Copyright and contract entries introduce concepts; check the applicable rules and permission documents for a specific use.
 
-## What each entry looks like
-
-- One sentence to a short paragraph — a hundred-odd words, not an essay.
-- Written in both Chinese and English, saying the same thing in each.
-- Examples only where they are needed; the depth lives on the other stations.
-
-## How to read it
-
-1. Look it up, then go back — when a word stops you while reading elsewhere, confirm it here.
-2. Follow the link down — for the "why", take the link at the bottom of the entry.
-3. Compare near-synonyms — confusable pairs are explained side by side.
-
-## When the entries arrive
-
-Entries are being added over time: first the words most often referenced by the other
-stations, then each station's specialised vocabulary. Until they arrive, the entries here are the place to start.
+[Back to the glossary](../)
 :::

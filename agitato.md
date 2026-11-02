@@ -17,21 +17,21 @@ links:
   - "[[glossary:con-brio]]"
 sources:
   - agitato 的表情含义与用法，参 The New Grove Dictionary of Music and Musicians, "Agitato"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**激动地（agitato）** 来自意大利语 agitare「搅动、使不安」，与英语 agitate 同源。它要求音乐带上**躁动、起伏、按捺不住**的语气：重音更锐、呼吸更短、句子往前赶。
+**激动地（agitato）**表示激动、躁动或不安的性格。它可出现在不同速度中，常与速度记号共同使用，因此不能把它单独等同于加速或加强。
 
-它管的是**语气**，不是速度。同样的行板可以 agitato，快板也可以不 agitato。**常见误解是把 agitato 当成「加速加响」**——真正的不安常来自低音的不稳、和声的紧张与细碎的重音，很多 agitato 段落反而是轻声的。
+乐句的重音、节奏密度和和声张力可能参与这种表达；应根据谱面决定具体处理，而不是统一缩短呼吸、加重每个音头。
 
 深入阅读 → [[glossary:appassionato]]
 :::
 
 ::: en
-**Agitato** comes from the Italian agitare, "to stir, to unsettle", the same root as English "agitate". It asks for a **restless, surging, barely contained** tone: sharper accents, shorter breath, phrases pushed forward.
+**Agitato** indicates an agitated or restless character. It can occur at different speeds and often accompanies a tempo mark, so it is not by itself a command to accelerate or play louder.
 
-It governs **character**, not speed. The same andante can be agitato, and an allegro need not be. **The usual mistake is to read agitato as "faster and louder"** — real unease often comes from an unstable bass, tense harmony and small jabbing accents, and plenty of agitato passages are quiet.
+Accents, rhythmic density and harmonic tension can contribute. Follow the score rather than applying shortened breaths or heavier attacks to every note.
 
-Read deeper → [[glossary:appassionato|appassionato]]
+Read deeper → [[glossary:appassionato]]
 :::

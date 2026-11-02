@@ -16,7 +16,7 @@ links:
   - "[[glossary:symphony]]"
 sources:
   - 标题音乐的观念、代表作品与绝对音乐之争，参 The New Grove Dictionary of Music and Musicians, "Programme music"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -24,7 +24,7 @@ updated: 2026-10-28
 
 它与绝对音乐相对：后者只按音乐自身的结构成立。但标题不是说明书，而是听者的路标；同一首作品，有人跟着情节听，有人只听见主题变形与和声走向，两者都成立。
 
-判断标题音乐，先看标题提供了多少信息：是笼统的气氛提示，还是逐段对应的场景。**标题越具体，越要留意音乐在哪里偏离它——偏离处往往是作品真正想说的话。**
+判断标题音乐，先看标题提供了多少信息：是笼统的气氛提示，还是逐段对应的场景。
 :::
 
 ::: en
@@ -32,5 +32,5 @@ updated: 2026-10-28
 
 It stands against absolute music, which is held together by musical structure alone. Yet a programme is not an instruction sheet but a signpost: one listener follows the story, another hears only thematic transformation and harmonic direction, and both readings hold.
 
-To judge program music, ask how much the title supplies: a general mood, or a scene-by-scene correspondence. **The more specific the title, the more closely you should notice where the music departs from it — the departure is often what the work really wants to say.**
+To judge program music, ask how much the title supplies: a general mood, or a scene-by-scene correspondence.
 :::

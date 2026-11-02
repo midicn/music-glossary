@@ -17,11 +17,11 @@ links:
   - "[[glossary:counterpoint]]"
 sources:
   - cambiata 的定义与对位用法，参 The New Grove Dictionary of Music and Musicians, "Cambiata"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**换音（cambiata）** 是**以跳进离开、再级进解决**的非和弦音：它常出现在弱拍，跳进制造意外，级进把线拉回来。它是对位里最容易被忽略的装饰之一。
+**换音（cambiata）** 是**以跳进离开、再级进解决**的非和弦音：它常出现在弱拍，跳进制造意外，级进把线拉回来。
 
 它和**经过音**不同：经过音以级进进出，cambiata 以**跳进离开**。常见误解是把 cambiata 当成「错误跳进」——它是有准备的装饰；跳进的方向与解决，决定了它是否成立。
 
@@ -29,7 +29,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-**A cambiata** is a non-chord tone **left by leap and resolved by step**: it often falls on a weak beat, the leap creating surprise and the step pulling the line back. It is one of counterpoint's most easily overlooked ornaments.
+**A cambiata** is a non-chord tone **left by leap and resolved by step**: it often falls on a weak beat, the leap creating surprise and the step pulling the line back.
 
 It differs from a **passing tone**: a passing tone enters and leaves by step, a cambiata **leaves by leap**. The usual mistake is to hear it as a wrong leap — it is a prepared ornament; the direction of the leap and the resolution decide whether it works.
 

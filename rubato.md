@@ -16,22 +16,24 @@ links:
   - "[[glossary:tempo]]"
   - "[[glossary:adagio]]"
 sources:
+  - "https://doi.org/10.1093/gmo/9781561592630.article.24039"
+  - "https://academic.oup.com/book/49267"
   - rubato 的「借还」定义与历史用法，参 The New Grove Dictionary of Music and Musicians, "Rubato"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**弹性速度（rubato）** 指在整体速度基本不变的前提下，局部自由地加快或放慢，像「借」一点时间再「还」回去。词源是意大利语 rubare（偷）。它不等于随意：好的 rubato 有借有还，伴奏或低音仍保持脉搏；肖邦的 rubato 是典型，但巴洛克的 rubato 更接近装饰性的延迟。
+**弹性速度（rubato）**是演奏中有表现目的的局部时间伸缩，例如稍延长某个音或调整一个乐句内部的推进。词源为意大利语 rubare（偷）。
 
-**没有脉搏的自由，只是散。** 判断一段 rubato 是否成立，听低音或伴奏有没有继续走——如果连地基都停了，那就不是弹性，而是换了一个更慢的速度。
+历史上可区分旋律相对较稳定伴奏的时间伸缩，以及各声部一起加快或放慢的处理；具体用法随时期、作品和演奏传统而变。不能用“低音始终不停”作为所有 rubato 的定义，也不要求每次伸缩都按秒数严格补还。
 
 深入阅读 → [[concept:tempo]]
 :::
 
 ::: en
-**Rubato** means local freedom of speed over an essentially unchanged overall tempo — borrowing a little time and paying it back. The word comes from Italian rubare, "to steal". It is not licence: good rubato borrows and returns while the accompaniment or bass keeps the pulse; Chopin's rubato is the classic case, while Baroque rubato is closer to an ornamental delay.
+**Rubato** is expressive local flexibility of timing, such as lengthening a note or varying the progress of a phrase. The word derives from Italian rubare, “to steal”.
 
-**Freedom without a pulse is merely loose.** To judge a rubato, listen to whether the bass or accompaniment keeps walking — if the foundation stops too, it is not flexibility but a slower tempo in disguise.
+Historical practice includes melodic flexibility against a relatively steady accompaniment as well as changes of pace shared by all parts. Usage varies with period, work and performance tradition. A continuously steady bass is not a definition valid for every form of rubato, nor must each change be repaid by an exact number of seconds.
 
 Read deeper → [[concept:tempo]]
 :::

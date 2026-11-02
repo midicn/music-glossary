@@ -4,8 +4,8 @@ site: gloss
 cat: G1
 title: 倦怠地
 title_en: Languido
-summary: 松垂的倦意，仍要拉住句子
-summary_en: A drooping, weary colour that must still hold the line
+summary: "languido：倦怠、慵懒地的表情记号，具体处理结合谱面与风格"
+summary_en: "Languidly; an expression marking interpreted in musical context"
 level: brief
 tags: [表情, 速度与表情, 术语]
 tags_en: [expression, tempo-and-expression, terminology]
@@ -16,21 +16,19 @@ links:
   - "[[glossary:adagio]]"
 sources:
   - languido 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Languido"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**倦怠地（languido）** 来自拉丁语 languidus「虚弱、松软」，词根 languere 是「发蔫」。它要求声音**松垂、下沉、带一点无力感**：起音稍晚，音尾垂落，揉弦放宽。
+**倦怠、慵懒地（languido）**是音乐中的表情记号。
 
-它描述**姿态与色彩**，不直接规定速度；可以慢，但慢不等于倦。**常见误解是把松垂演成散架**——骨架仍要立住，重音可以柔，却不能没有。
-
-它常与 dolce 相邻，两者都软化轮廓；区别在于 dolce 是甜，languido 是乏力。可与 [[glossary:dolce]]、[[glossary:rubato]] 对读。
+它描述乐段的性格，不自动要求延迟起音、放宽揉弦或取消重音。时间弹性与声音衰减的处理，应结合拍点、乐句和同时出现的记号。
+深入阅读 → [[glossary:dolce]]
 :::
 
 ::: en
-**Languido** comes from Latin languidus, "faint, slack", from languere, "to droop". The sound should **sag and sink a little, with a touch of weakness**: the onset arrives slightly late, note ends fall away, vibrato widens.
+**Languido means languidly.** It is an expression marking in music.
 
-It describes **posture and colour** rather than speed; languido can be slow, but slow is not the same as languid. **The usual mistake is to let the slackening become collapse** — the frame of the phrase must still stand, and accents may soften but must not vanish. Real languor is deliberate relaxation, not loss of control.
-
-In lyrical passages it often sits beside dolce; both soften the outline, but dolce is sweet while languido is weak with weariness. Compare dolce and rubato.
+It describes character, not an automatic delay of attack, wider vibrato or removal of accents. Treat flexibility of timing and the decay of sound in relation to pulse, phrasing and other written markings.
+Read deeper → [[glossary:dolce]]
 :::

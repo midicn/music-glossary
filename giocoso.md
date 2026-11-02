@@ -17,21 +17,21 @@ links:
   - "[[glossary:animato]]"
 sources:
   - giocoso 的表情含义与词源，参 The New Grove Dictionary of Music and Musicians, "Giocoso"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**欢快地（giocoso）** 来自意大利语 gioco「游戏、玩笑」，源自拉丁语 jocus（笑话）。它要求音乐带**玩耍的意味**：句尾带笑，重音俏皮，节奏有弹性。
+**诙谐地（giocoso）**表示带有游戏、玩笑意味的性格。它可与其他速度、力度记号搭配使用，不能仅凭这个词决定必须加快速度。
 
-它描述**性情**，不是速度。giocoso 可以中速，也可以很轻很安静，只要语气是逗弄的。**常见误解是把 giocoso 演成滑稽或一味求快**——真正的玩笑有分寸，靠句法的意外与轻盈的收尾，而不是靠夸张和加速。
+句法中的意外重音、停顿或对比可能体现诙谐效果；具体处理应依据谱面和作品风格。
 
 深入阅读 → [[glossary:grazioso]]
 :::
 
 ::: en
-**Giocoso** comes from the Italian gioco, "game, play, joke", from Latin jocus. The music should carry a **sense of play**: a smiling phrase ending, a wry accent, a springy rhythm.
+**Giocoso** indicates a playful or joking character. It can accompany different tempo and dynamic instructions and does not by itself require a faster pace.
 
-It describes **disposition**, not speed. Giocoso can be moderate, or light and quiet, as long as the tone teases. **The usual mistake is to turn it into slapstick or a race** — a real joke has measure, and lives in the surprise of the phrasing and a light close, not in exaggeration and acceleration.
+Unexpected accents, pauses or contrasts in a phrase may contribute to the effect; the score and style determine their treatment.
 
-Read deeper → [[glossary:grazioso|grazioso]]
+Read deeper → [[glossary:grazioso]]
 :::

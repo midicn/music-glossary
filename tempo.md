@@ -18,21 +18,21 @@ links:
   - "[[glossary:rubato]]"
 sources:
   - 速度术语的相对性与节拍器历史，参 The New Grove Dictionary of Music and Musicians, "Tempo and tempo marks"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**速度（tempo）** 是音乐进行的快慢。它首先是**相对关系**，不是绝对刻度：同一首曲子的「快」，在不同演奏传统里可以差很多。17 世纪以前，速度多由拍号、舞曲类型与演奏惯例暗示；节拍器出现后，作曲家才开始写精确的 BPM。
+**速度（tempo）**是音乐拍点推进的快慢，常以文字记号、节拍器数字或两者共同表示。读数字时必须看拍单位：♩=60 表示每分钟60个四分音符拍；♪=60 则是每分钟60个八分音符拍，两者的音符时值并不相同。
 
-**谱面上的速度记号是方向，不是法律**——Allegro 不是「每分钟 120 拍」，而是一个性格区间。真正决定速度的，是音乐的语气、句法与厅堂。同一位作曲家写下的同一个记号，在不同作品里也可以指向不同的数字。
+Allegro、Andante 等文字包含速度与性格的惯例，但没有适用于所有作品的唯一BPM。演奏时要结合拍号、乐句、舞曲类型、作曲家标记和演奏传统；rubato 是局部的时间伸缩，不等于整段随意改变速度。
 
 深入阅读 → [[concept:tempo]]
 :::
 
 ::: en
-**Tempo** is how fast the music moves. It is first of all a **relationship**, not an absolute scale: the same "fast" can differ widely between performing traditions. Before the seventeenth century, speed was mostly implied by metre, dance type and convention; only after the metronome did composers begin to write precise BPM figures.
+**Tempo** is the rate at which musical beats proceed. It can be specified by words, a metronome mark or both. Read the note value with the number: ♩=60 means sixty quarter-note beats per minute, whereas ♪=60 means sixty eighth-note beats per minute.
 
-**A tempo mark on the page is a direction, not a law** — Allegro is not "120 beats per minute" but a character range. What actually decides the speed is the music's tone, phrasing and room. The same mark by the same composer can point to different numbers in different pieces.
+Words such as Allegro and Andante carry conventions of speed and character, but do not have one BPM valid for every work. Read them with metre, phrasing, dance type, the composer’s markings and performance practice. Rubato describes local flexibility, not an unrestricted change of speed.
 
 Read deeper → [[concept:tempo]]
 :::

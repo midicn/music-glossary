@@ -16,21 +16,17 @@ links:
   - "[[glossary:patetico]]"
 sources:
   - affettuoso 的含义与用法，参 The New Grove Dictionary of Music and Musicians, "Affettuoso"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**深情地（affettuoso）** 来自意大利语 affetto「情感」，源自拉丁语 affectus。它要求把**温情**放进声音：音色偏暖，起音不硬，句尾收得体贴。
+**深情地（affettuoso）**意为带有感情、亲切或深情地演奏。它常与其他速度或表情标记搭配，并不单独规定拍速、音量或某一种触键与运弓方法。
 
-它接近 espressivo，方向更具体：不是泛指「有表情」，而是朝温柔亲切走。**常见误解是把它当成「慢下来、轻一点」**——速度不必改，改的是触键与运弓的重量。
-
-巴洛克与古典时期，affettuoso 常与 adagio、andante 并置：慢只是外壳，里面要有热度。可与 [[glossary:espressivo]] 对读。
+可从乐句的衔接、音色与力度变化理解其要求，具体处理取决于作品风格和谱面。相关术语见 [[glossary:espressivo]]。
 :::
 
 ::: en
-**Affettuoso** comes from the Italian affetto, "feeling, affection", from Latin affectus. The player should put **warmth** into the sound: a rounder colour, a softer onset, a considerate close to each phrase — not depth manufactured by slowing down.
+**Affettuoso** asks for an affectionate or tender manner of playing. It can accompany other tempo or expression instructions and does not itself prescribe a BPM, dynamic, touch or bowing method.
 
-It is close to espressivo but points somewhere specific: not "expressive" in general, but **towards tenderness and intimacy**. **The usual mistake is to treat it as "slower and softer"**: the tempo need not change, only the weight of touch and bow. Dragging turns warmth into sentimentality.
-
-In Baroque and Classical scores affettuoso often sits beside adagio or andante, a reminder that the slow speed is only the shell and the inside must be warm. Set it against espressivo to hear where tenderness ends and mere softness begins.
+Consider continuity of phrasing, colour and dynamic change in relation to the score and style. Compare espressivo.
 :::

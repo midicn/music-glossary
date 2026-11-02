@@ -4,8 +4,8 @@ site: gloss
 cat: G1
 title: 悲痛地
 title_en: Doloroso
-summary: 带痛苦与哀伤的演奏语气
-summary_en: A manner of pain and grief
+summary: "doloroso：悲痛地的表情记号，具体处理结合谱面与风格"
+summary_en: "Sorrowfully; an expression marking interpreted in musical context"
 level: brief
 tags: [表情, 速度与表情, 术语]
 tags_en: [expression, tempo-and-expression, terminology]
@@ -17,21 +17,21 @@ links:
   - "[[glossary:tempo]]"
 sources:
   - doloroso 的表情含义，参 The New Grove Dictionary of Music and Musicians, "Expression"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**悲痛地（doloroso）** 是表情术语：带**痛苦、哀伤**地演奏。它比 mesto（忧郁）更强烈，常与**下行的叹息音型、压迫的和声与不稳定的音色**相连。
+**悲痛地（doloroso）**是音乐中的表情记号。
 
-它和 **languido** 不同：languido 是倦怠、无力，doloroso 是有重量的痛。常见误解是把 doloroso 弹成「很慢很轻」——悲痛可以是强烈的；关键是声音有没有「疼」的重量，而不是速度。
+这是表情说明，不是限定音域、速度或揉弦幅度的技术命令。可观察乐句中紧张与缓解的位置，再决定重音和音色，不必替每个音附加同一种‘痛苦’效果。
 
 深入阅读 → [[glossary:mesto]]
 :::
 
 ::: en
-**Doloroso** is an expression mark: play with **pain and grief**. It is stronger than mesto ("sad"), often tied to **falling sigh figures, pressing harmony and unstable colour**.
+**Doloroso means sorrowfully or with grief.** It is an expression marking in music.
 
-It differs from **languido**: languido is weary and weak, doloroso is pain with weight. The usual mistake is to play it very slow and soft — grief can be intense; the point is the weight of pain in the sound, not the speed.
+It is an expressive indication rather than a technical command fixing register, tempo or vibrato width. Follow tension and release within the phrase instead of attaching the same effect of grief to every note.
 
 Read deeper → [[glossary:mesto|mesto]]
 :::

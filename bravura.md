@@ -16,17 +16,17 @@ links:
   - "[[glossary:appassionato]]"
 sources:
   - 术语的释义与用法，参 The New Grove Dictionary of Music and Musicians（Oxford Music Online）相关条目
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**豪迈炫技（bravura）** 来自意大利语「勇敢、本领」，在音乐里指一种华丽、大胆、技术上有光彩的演奏风格。它可以是作品的气质，也可以是演奏者的姿态：音阶利落，跳进果断，高音站得住。
+**豪迈炫技（bravura）**指华丽、大胆、突出技术表现的音乐或演奏风格。快速音群、宽跳或高音段落都可能参与这种表现，但没有一种固定音型就是 bravura 的定义。
 
-bravura 不等于大声或快。**真正的炫技是控制力可见**：难点被处理得干净，听众感到的是从容的危险感，而不是慌乱。它常与 [[glossary:con-brio]]、[[glossary:energico]] 相邻，但更强调「展示」；若只有声势没有轮廓，bravura 就退化成虚张声势。
+它可描述作品的性格，也可描述演奏方式，不等于单纯增加速度或音量。相关术语有 [[glossary:con-brio]]、[[glossary:energico]]。
 :::
 
 ::: en
-**Bravura** comes from the Italian for "bravery" and "skill"; in music it names a brilliant, daring style of performance. It can describe a piece's manner or a player's stance: scales clean, leaps decisive, high notes secure.
+**Bravura** describes brilliant, daring music or performance that prominently displays technical skill. Rapid passagework, wide leaps or high-register writing may contribute, but no single figure defines it.
 
-Bravura is not simply loud or fast. **Real bravura makes control visible**: the hard passage is despatched cleanly, and the listener hears ease in the middle of danger rather than panic. It sits near con brio and energico but stresses display; with noise and no outline, it collapses into swagger.
+The term can describe a work’s character or a manner of performance; it does not simply mean faster or louder. Related terms include con brio and energico.
 :::

@@ -4,8 +4,8 @@ site: gloss
 cat: G1
 title: 欢快地
 title_en: Gioioso
-summary: 带明亮、喜悦的演奏语气
-summary_en: A bright, joyful manner
+summary: "gioioso：喜悦、欢快地的表情记号，具体处理结合谱面与风格"
+summary_en: "Joyfully; an expression marking interpreted in musical context"
 level: brief
 tags: [表情, 速度与表情, 术语]
 tags_en: [expression, tempo-and-expression, terminology]
@@ -17,21 +17,21 @@ links:
   - "[[glossary:tempo]]"
 sources:
   - gioioso 的表情含义，参 The New Grove Dictionary of Music and Musicians, "Expression"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**欢快地（gioioso）** 是表情术语：带**明亮、喜悦、歌唱性**地演奏。它和 giocoso（诙谐地）接近，但 gioioso 更强调**喜悦本身**，不一定带玩笑。
+**喜悦、欢快地（gioioso）**是音乐中的表情记号。
 
-它和 **brioso** 不同：brioso 是活力与光彩，gioioso 是情绪上的快乐。常见误解是把它弹成「快」——欢快可以是中速的；关键是声音有没有向上、向外打开的倾向。
+与指向戏谑、游戏感的 giocoso 相比，它的常见译义偏向喜悦；实际演奏仍需结合句法和作品性格，而不是统一加快速度或加大音量。
 
 深入阅读 → [[glossary:giocoso]]
 :::
 
 ::: en
-**Gioioso** is an expression mark: play with **brightness, joy and song**. It is close to giocoso ("playful"), but gioioso stresses **joy itself**, not necessarily a joke.
+**Gioioso means joyfully.** It is an expression marking in music.
 
-It differs from **brioso**: brioso is vigour and sparkle, gioioso is emotional happiness. The usual mistake is to play it fast — joy can be moderate; the point is whether the sound opens upward and outward.
+Its usual sense stresses joy, while giocoso more often suggests playfulness. The musical context determines the treatment; the word alone does not require a universal increase of tempo or volume.
 
 Read deeper → [[glossary:giocoso|giocoso]]
 :::

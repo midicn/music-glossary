@@ -4,8 +4,8 @@ site: gloss
 cat: G1
 title: 柔和地
 title_en: Soave
-summary: 温和、甜美、没有棱角的音色
-summary_en: Gentle, sweet, without edges
+summary: "soave：柔和、悦耳地的表情记号，具体处理结合谱面与风格"
+summary_en: "Softly or sweetly; an expression marking interpreted in musical context"
 level: brief
 tags: [表情, 速度与表情, 术语]
 tags_en: [expression, tempo-and-expression, terminology]
@@ -17,21 +17,21 @@ links:
   - "[[glossary:tempo]]"
 sources:
   - soave 的表情含义，参 The New Grove Dictionary of Music and Musicians, "Dolce"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**柔和地（soave）** 是表情术语：**温和、甜美、没有棱角**。它比 dolce 更强调「平滑」，常与连奏、柔和的起音和圆润的音色相连。
+**柔和、悦耳地（soave）**是音乐中的表情记号。
 
-它和 **dolce** 接近，但 dolce 更强调甜，soave 更强调**柔顺与不刺激**。常见误解是把 soave 弹成「弱」——柔和可以有存在感；关键是声音有没有棱角，而不是音量大小。
+可通过较柔和的起音与连贯的乐句体现，但不对应一套固定触键、弓位或踏板方法。它与 dolce 的用法相近，具体差别要看作品中的搭配。
 
 深入阅读 → [[glossary:dolce]]
 :::
 
 ::: en
-**Soave** is an expression mark: **gentle, sweet, without edges**. It stresses "smooth" more than dolce, often tied to legato, soft attacks and round colour.
+**Soave means gently or sweetly.** It is an expression marking in music.
 
-It is close to **dolce**, but dolce stresses sweetness while soave stresses **smoothness and lack of abrasion**. The usual mistake is to play it soft — gentleness can be present; the point is whether the sound has edges, not how loud it is.
+A gentle attack and connected phrasing may suit the marking, but it does not prescribe one touch, bow position or pedal technique. Its usage is close to dolce; the work’s context matters.
 
 Read deeper → [[glossary:dolce|dolce]]
 :::

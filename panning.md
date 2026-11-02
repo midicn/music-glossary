@@ -15,22 +15,24 @@ links:
   - "[[glossary:bus]]"
   - "[[glossary:reverb]]"
 sources:
+  - "https://www.cs.cmu.edu/~music/icm-online/readings/panlaws/"
+  - "https://www.steinberg.help/r/wavelab-elements/13.0/en/wavelab/topics/audio_montage/clips_envelopes_pan_laws_c.html?contentId=BjKrY6tfXuwoYNxO4ApsYw"
   - 声像定位与单声道兼容，参 Bobby Owsinski, The Mixing Engineer's Handbook 与 Huber & Runstein, Modern Recording Techniques
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**声像（panning）** 决定声音在立体声场里的左右位置。最常见的是用左右声道电平差定位；也可配合轻微延迟或 EQ，让声音更靠前或靠后。
+**声像定位（panning）**通过调整声音分配到左右声道的关系，改变它在立体声场中的位置。单声道声源的声像控制与立体声信号的平衡控制不完全相同，具体行为应看所用设备或软件。
 
-声像不是越宽越好。低频与主唱通常留在中间，节奏与铺底分向两侧；太宽会让中间发空，在单声道设备上还可能相互抵消。许多混音用左、中、右三个位置就够。
+声像移动时，音量变化与**声像法则（pan law）**有关，不能一概说整体响度不变。混音中可比较声源在左、中、右的位置，并检查移动后与其他声部的平衡。
 
-常见误解是把声像当成音量。移动声像改变的是位置与两边比例，不改变整体响度；真正拉开宽度还要靠编曲与效果，空间处理可参 [[glossary:reverb]]。
+单声道兼容还取决于左右声道的相关性和相位关系；不是所有宽声像都会抵消。涉及延迟、立体声加宽等处理时，应另做单声道检查。空间处理可参 [[glossary:reverb]]。
 :::
 
 ::: en
-**Panning** places a sound left or right in the stereo field. The common method uses level differences between the two channels; small delays or EQ can also push a sound forward or back.
+**Panning** changes a sound’s position in a stereo field by adjusting its distribution between left and right channels. A panner for a mono source and a balance control for stereo material do not necessarily behave in the same way; check the device or software.
 
-Wider is not automatically better. Bass and lead vocals usually stay centered, while rhythm and pads spread to the sides; too much width hollows out the middle and can cancel when summed to mono. Many mixes need only left, center and right.
+Level changes during a pan depend on the **pan law**, so overall loudness cannot simply be assumed constant. Compare a source at left, centre and right, checking its balance against other parts after moving it.
 
-The usual mistake is to confuse panning with volume. Moving a sound changes its position and the balance between channels, not its overall loudness; real width also comes from arrangement and effects.
+Mono compatibility also depends on correlation and phase between channels: not every wide image cancels in mono. Check mono separately when using delays or stereo-widening processing. See [[glossary:reverb]] for spatial processing.
 :::

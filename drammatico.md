@@ -4,8 +4,8 @@ site: gloss
 cat: G1
 title: 戏剧性地
 title_en: Drammatico
-summary: 带强烈对比与叙事张力的演奏
-summary_en: With strong contrast and narrative tension
+summary: "drammatico：戏剧性地的表情记号，具体处理结合谱面与风格"
+summary_en: "Dramatically; an expression marking interpreted in musical context"
 level: brief
 tags: [表情, 速度与表情, 术语]
 tags_en: [expression, tempo-and-expression, terminology]
@@ -17,21 +17,21 @@ links:
   - "[[glossary:tempo]]"
 sources:
   - drammatico 的表情含义，参 The New Grove Dictionary of Music and Musicians, "Expression"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**戏剧性地（drammatico）** 是表情术语：演奏要带**强烈对比、叙事张力与角色感**。它不等于「响」：戏剧性可以来自**突然的静默、音色的转折、速度的伸缩**。
+**戏剧性地（drammatico）**是音乐中的表情记号。
 
-它和 **espressivo** 接近，但 espressivo 更宽泛，drammatico 更强调场面与冲突。常见误解是把 drammatico 当成「一路高潮」——戏剧性需要铺垫与对比；一直强，就没有戏。
+需要结合乐段的对比、重音、停顿与结构位置理解。它不要求从头到尾都强奏；安静段落也可能因和声或节奏安排具有戏剧张力。
 
 深入阅读 → [[glossary:espressivo]]
 :::
 
 ::: en
-**Drammatico** is an expression mark: play with **strong contrast, narrative tension and a sense of character**. It is not "loud": drama can come from **sudden silence, a turn of colour, flexible speed**.
+**Drammatico means dramatically.** It is an expression marking in music.
 
-It is close to **espressivo**, but espressivo is broader while drammatico stresses scene and conflict. The usual mistake is to play it as "one long climax" — drama needs setup and contrast; always strong leaves no drama.
+Read it through contrast, accent, silence and the passage’s structural role. It does not require continuous loud playing; harmonic or rhythmic treatment can also make a quiet passage dramatic.
 
 Read deeper → [[glossary:espressivo|espressivo]]
 :::

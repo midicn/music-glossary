@@ -17,21 +17,21 @@ links:
   - "[[glossary:glissando]]"
 sources:
   - 连奏的演奏含义与连音线用法，参 The New Grove Dictionary of Music and Musicians, "Articulation" 与通行乐理教材
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**连奏（legato）** 是让音与音之间**不留空隙**，听成一条连续的线，谱面上用连音线（slur）标记。连奏不等于滑音：音高仍然是一格一格地换，只是换的瞬间不出现静默。
+**连奏（legato）**使相邻音的衔接听来连续、平顺，常用连音线或文字提示。连奏中也可以有跳进；它不同于滑音，不要求连续经过两音之间的所有音高。
 
-在弦乐上它是换弓与换指的衔接，在管乐上是气息与舌头的控制，在钢琴上是后一个音在前一个音消失之前落下。**连奏的难处不是「不断」，而是不断的同时仍然让每个音有轮廓**——否则就糊成一片。
+具体方法随乐器而异：弦乐涉及运弓与换指，管乐涉及气息和发音衔接，钢琴涉及按键、放键与必要时的踏板配合。连音线在不同乐器上也可能提示弓法、呼吸或乐句分组，需结合上下文阅读。
 
 深入阅读 → [[concept:articulation]]
 :::
 
 ::: en
-**Legato** joins notes with **no gap**, heard as one continuous line, marked by a slur. It is not a glissando: pitches still change step by step, but no silence appears at the change.
+**Legato** gives adjacent notes a smooth, connected articulation, often indicated by a slur or the word legato. It can include leaps and differs from glissando: it does not require a continuous sweep through every intermediate pitch.
 
-On strings it is the connection between bows and fingers, on winds the control of breath and tongue, on the piano the arrival of the next key before the previous sound dies. **The difficulty is not "never stopping" but staying connected while each note keeps its outline** — otherwise the line smears.
+Technique varies by instrument: bow and finger coordination on strings, breath and attack on winds, and coordinated key release with pedal where appropriate on piano. Slurs can also indicate bowing, breath or phrase groupings, so their practical meaning depends on context.
 
 Read deeper → [[concept:articulation]]
 :::

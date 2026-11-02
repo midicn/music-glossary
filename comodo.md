@@ -16,17 +16,16 @@ links:
   - "[[glossary:a-tempo]]"
 sources:
   - 术语的释义与用法，参 The New Grove Dictionary of Music and Musicians（Oxford Music Online）相关条目
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
 **舒适地（comodo）** 意为「方便、自在」，作速度标记时指一个不勉强、留有余地的步调。tempo comodo 不是某一固定 BPM，而是让演奏者与听众都觉得呼吸顺畅的速度。
 
-它常出现在教学谱和通俗作品里，也见于马勒第九交响曲的 Andante comodo。**comodo 的反面不是慢，而是紧**：同样的拍速，肩颈松、句法清楚就是 comodo，赶着交差就是其反面。它与 [[glossary:andante]] 相近，却更强调「不费力」；也不要把它和 [[glossary:a-tempo]] 混同，后者是回到原速。
+马勒第九交响曲首乐章的 [[glossary:andante|Andante]] comodo 是一个常见例子：comodo 修饰既定的行板性格，不是独立的固定拍速。它与 [[glossary:a-tempo]] 不同，后者要求恢复局部变化之前的速度。
 :::
-
 ::: en
 **Comodo** means "convenient, at ease"; as a tempo mark it asks for a pace that is not forced, one that leaves room to breathe. Tempo comodo is not a fixed BPM but a speed at which players and listeners can both move naturally.
 
-It appears in teaching scores and popular pieces, and in the Andante comodo of Mahler's Ninth Symphony. **The opposite of comodo is not slow but tight**: at the same beat, loose shoulders and clear phrasing feel comodo, while rushed delivery does not. It is close to andante but stresses effortlessness; do not confuse it with the marking a tempo, which returns to the first speed.
+The Andante comodo of Mahler’s Ninth Symphony is a familiar example: comodo qualifies the walking character rather than supplying an independent BPM. It differs from a tempo, which restores the tempo before a local change.
 :::

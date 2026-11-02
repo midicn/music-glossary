@@ -16,8 +16,9 @@ links:
   - "[[concept:theme-variations]]"
   - "[[glossary:bwv]]"
 sources:
+  - "https://www.beethoven.de/de/work/view/6622377383297024/Konzert%20f%C3%BCr%20Violine%20und%20Orchester%20%28C-Dur%29%2C%20Fragment%20WoO%205?fromArchive=5066929207246848"
   - 贝多芬 WoO 编号与目录范围，参 The New Grove Dictionary of Music and Musicians, "Beethoven, Ludwig van"；目录本体参 Kinsky–Halm, Das Werk Beethovens（1955）
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -25,7 +26,7 @@ updated: 2026-10-28
 
 「没有 Op.」不等于「不重要」或「未出版」。《致爱丽丝》是 WoO 59，《C 小调三十二首变奏曲》是 WoO 80，它们只是没有拿到出版商的 Op. 号。WoO 也不按年代排：WoO 59 写于 1810 年，WoO 80 却早在 1806 年。
 
-WoO 与 Op. 互斥：一部作品要么有 Op. 号，要么收进 WoO。WoO 只收完成作品，未完成与存疑之作另列；查贝多芬时还要看作品名与手稿来源。**编号是入口，不是结论。**
+WoO 表示目录中的无作品号项目，不能据此判断一部作品是否完整或重要。例如贝多芬《C大调小提琴协奏曲》WoO 5 就以片段形式传世。引用作品时，应同时核对标题、目录版本与所用乐谱，不能用“有无 Op.”代替对作品状态的说明。
 
 深入阅读 → [[glossary:opus]] · [[concept:theme-variations]]
 :::
@@ -35,7 +36,7 @@ WoO 与 Op. 互斥：一部作品要么有 Op. 号，要么收进 WoO。WoO 只�
 
 "Without an Op." does not mean "unimportant" or "unpublished". "Für Elise" is WoO 59 and the Thirty-Two Variations in C minor are WoO 80; they simply never received a publisher's opus number. WoO is not chronological either: WoO 59 was written in 1810, while WoO 80 dates from 1806.
 
-WoO and Op. are mutually exclusive: a work either has an opus number or belongs in WoO. WoO covers completed works only; unfinished and doubtful pieces are listed elsewhere, so a Beethoven search still needs the title and the manuscript source. **The number is an entrance, not a conclusion.**
+WoO identifies an entry without an opus number; it does not establish that a work is complete or important. Beethoven’s C-major Violin Concerto, WoO 5, for example, survives as a fragment. Check the title, catalogue edition and score used rather than treating the presence or absence of an opus number as evidence of a work’s state.
 
 Read deeper → [[glossary:opus]] · [[concept:theme-variations]]
 :::

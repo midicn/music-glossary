@@ -17,13 +17,13 @@ links:
   - "[[glossary:dynamics]]"
 sources:
   - fortissimo 的力度含义与控制，参 The New Grove Dictionary of Music and Musicians, "Dynamics"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
 **很强（fortissimo，缩写 ff）** 是比 f 更强的力度记号。它常出现在**高潮、全奏与结尾**，要求声音有冲击力，但**不是「越大声越好」**。
 
-它和 f 的关系是**层级**，不是失真：ff 仍然要有音色、音准与平衡。常见误解是把 ff 当成「喊」——喊出来的 ff 只有音量，没有共鸣；真正好的 ff，是让听众感到空间被填满，而不是耳朵被攻击。
+ff 与 f 表示相对的力度层级。具体响度因乐器、编制、音区和演出空间而异；合奏中还要结合声部功能处理平衡。
 
 深入阅读 → [[glossary:dynamics]]
 :::
@@ -31,7 +31,7 @@ updated: 2026-10-28
 ::: en
 **Fortissimo (ff)** is a dynamic mark louder than f. It often appears at **climaxes, tuttis and endings**, asking for impact — but **not "the louder the better"**.
 
-Its relation to f is **a level**, not distortion: ff still needs colour, intonation and balance. The usual mistake is to treat ff as shouting — a shout has volume but no resonance; a good ff fills the space rather than attacking the ear.
+ff and f indicate relative dynamic levels. Actual loudness varies with instrument, ensemble, register and venue; balance also depends on the function of each part.
 
 Read deeper → [[glossary:dynamics|dynamics]]
 :::

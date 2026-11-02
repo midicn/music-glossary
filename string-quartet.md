@@ -16,22 +16,19 @@ links:
   - "[[glossary:sonata]]"
   - "[[glossary:symphony]]"
 sources:
+  - "https://www.chambermusicsociety.org/about-the-music/appreciation/the-string-quartet"
   - 弦乐四重奏的编制、海顿的奠基与四声部写作传统，参 The New Grove Dictionary of Music and Musicians, "String quartet"
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-**弦乐四重奏（string quartet）** 由两把小提琴、一把中提琴、一把大提琴组成，**每声部一人**，没有指挥。它是室内乐的中心编制，十八世纪中后期在海顿手中定型：通常四个乐章，四件乐器平等交谈，主题在声部之间传递。
+**弦乐四重奏（string quartet）**是两把小提琴、一把中提琴与一把大提琴的合奏编制，也指为这个编制创作的作品，通常每声部由一人演奏。
 
-四件乐器同属弦乐族，音色融合，音量接近，谁也不能长期压过别人。听的时候可以追踪主题此刻在谁手里，留意中提琴的内声部与大提琴的低音线——它们撑起和声的骨架。
-
-**常见误解**：把弦乐四重奏想成「四把小提琴」或「缩小的弦乐队」。编制是四种不同的弦乐器，每声部只有一人；它不是从乐队总谱里抽掉几行，而是为四个独立声部写的对话音乐。
+第一、第二小提琴是两个声部，而不是两种不同的乐器。主题可以在四个声部之间传递，也可以长时间由一个声部突出，其他声部承担伴奏。听辨时可分别追踪旋律、低音和内声部，再比较它们怎样在段落间交换功能。
 :::
 
 ::: en
-**A string quartet** is written for two violins, a viola and a cello — **one player to a part**, with no conductor. It is the central genre of chamber music, fixed by Haydn in the later eighteenth century: usually four movements, in which the instruments converse as equals, the theme passing between them.
+**A string quartet** is an ensemble of two violins, viola and cello, or a work for that ensemble, normally with one player per part.
 
-All four instruments belong to the same family, so their tone blends and their volumes are close; no one can dominate for long. Listen for who holds the theme at each moment, and for the viola's inner line and the cello's bass, which carry the harmonic frame.
-
-**A common misconception** imagines four violins, or a scaled-down string orchestra. The group is four different instruments with one player each, and the music is not an orchestral score with lines removed but a conversation written for four independent parts.
+First and second violin are different parts, not different kinds of instrument. A theme can pass between the four parts or remain prominent in one while the others accompany. Follow melody, bass and inner parts separately, then compare how their functions change between sections.
 :::
