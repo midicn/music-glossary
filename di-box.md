@@ -17,21 +17,27 @@ links:
   - "[[glossary:re-amp]]"
 sources:
   - DI 盒的阻抗变换与平衡输出，参通行录音教材
-updated: 2026-10-28
+  - https://www.radialeng.com/what-di-faq
+  - https://www.radialeng.com/di-questions
+updated: 2026-11-03
 ---
 
 ::: zh
-**直接注入盒（DI box）** 把吉他一类**高阻抗、非平衡**的乐器信号，变成**低阻抗、平衡**的信号，好让调音台或声卡长距离接收。它还能提供接地隔离，减少哼声。
+**直接注入盒（DI box）**通常把吉他、贝斯等非平衡乐器信号变为适合话筒输入的低阻抗、平衡信号，便于较长距离传输。使用前核对输入阻抗、可承受电平与输出类型；接口形状相同不代表电平兼容。
 
-它和**前置放大器**不同：DI 主要做阻抗与平衡转换，话放负责增益。常见误解是「DI 只是转接头」——阻抗匹配不对，音色会变薄、丢高频；DI 是信号链的第一道门。
+被动DI常用变压器，主动DI需要相应供电。变压器隔离与音频地线的ground lift不是同一功能，不能假定所有主动DI都有电气隔离。接地提升只按设备说明处理音频连接，不拆除设备的市电保护接地。
+
+DI和话放的主要任务也不同：DI处理信号接口，话放提供录音所需增益。有些产品同时包含两者，仍须按其说明接线。
 
 深入阅读 → [[glossary:impedance]]
 :::
 
 ::: en
-**A DI box** converts a guitar-style **high-impedance, unbalanced** instrument signal into a **low-impedance, balanced** one, so a mixer or interface can take it over distance. It can also provide ground isolation and reduce hum.
+A **DI box** commonly converts an unbalanced instrument signal into a low-impedance, balanced signal suitable for a microphone input and longer cable runs. Check input impedance, accepted level and output type: matching connectors do not guarantee compatible levels.
 
-It differs from a **preamp**: a DI mainly does impedance and balancing, a preamp supplies gain. The usual mistake is to treat it as an adapter — mismatched impedance thins the tone and loses highs; the DI is the first gate of the signal chain.
+Passive DIs commonly use transformers; active designs need power. Transformer isolation and an audio ground-lift switch are different functions, and not every active DI provides galvanic isolation. Follow the audio-ground instructions; never remove mains protective earth.
 
-Read deeper → [[glossary:impedance|impedance]]
+A DI handles the interface; a mic preamp supplies recording gain. Some products combine both functions, so follow their connection instructions.
+
+Read more → [[glossary:impedance]]
 :::

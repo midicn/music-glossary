@@ -16,25 +16,27 @@ links:
   - "[[glossary:sidechain]]"
 sources:
   - LUFS 的加权与门限算法，参 ITU-R BS.1770-4（2015）；平台目标值参 EBU R 128 与各平台公开的响度归一化说明
-updated: 2026-10-28
+  - https://tech.ebu.ch/files/live/sites/tech/files/shared/tech/tech3341v4_0.pdf
+  - https://support.spotify.com/au/artists/article/loudness-normalization/
+updated: 2026-11-03
 ---
 
 ::: zh
-**LUFS**（Loudness Units relative to Full Scale）是测量感知响度的单位，算法依据 ITU-R BS.1770：先按频率与声道能量加权，再做时间门限统计。它描述整段节目的平均响度，不是瞬时峰值。
+**LUFS**（Loudness Units relative to Full Scale）是以数字满刻度为参考的响度单位。基于ITU-R BS.1770的测量使用频率与声道加权；它与峰值电平不是同一指标。
 
-平台会按自己的目标值统一上传母带的响度：Spotify 默认以 -14 LUFS 归一化，Apple Music 以 -16 LUFS 为目标，EBU R128 广播为 -23 LUFS。母带做得更响，平台会把它整体压下来；靠限幅换来的响度并不会留下更多动态。
+读数还须注明时间尺度：**M**为约400毫秒的瞬时响度，**S**为3秒的短时响度，**I**为所选节目范围的综合响度。综合测量使用门限，不能把它当作所有采样值的简单平均。
 
-常见误解：把 LUFS 当成音量旋钮或峰值表。LUFS 是节目整体响度，峰值要看 dBTP；两者不是同一刻度。混音时先看 LUFS 是否合目标，再看 true peak 是否超过 0 dBTP。
+流媒体播放归一化取决于平台、设备、用户设置与专辑模式。Spotify的Normal模式以约−14 LUFS为参考，但这不是所有平台的统一交付标准；峰值余量也可能限制可提升的增益。交付时分别核对综合响度、真峰值上限及实际听感，不要只追一个LUFS数字。
 
-相关 → [[glossary:daw]]
+相关 → [[glossary:true-peak]]
 :::
 
 ::: en
-**LUFS** (Loudness Units relative to Full Scale) measures perceived loudness. Its algorithm follows ITU-R BS.1770: frequency and channel energy are weighted, then gated over time. It describes the average loudness of a whole programme, not an instantaneous peak.
+**LUFS** measures loudness relative to digital full scale. BS.1770-based measurement uses frequency and channel weighting; loudness and peak level are different measurements.
 
-Platforms normalize uploaded masters to their own targets: Spotify normalizes to -14 LUFS by default, Apple Music targets -16 LUFS, and EBU R128 broadcast uses -23 LUFS. A louder master is turned down as a whole; loudness gained through limiting does not leave more dynamics.
+Specify the timescale: **M** is momentary loudness over about 400 ms, **S** is short-term loudness over 3 seconds, and **I** is integrated loudness over the chosen programme. Integrated measurement uses gating rather than simply averaging every sample.
 
-The usual mistake is to treat LUFS as a volume knob or a peak meter. LUFS measures overall programme loudness; peaks are read in dBTP. They are different scales. When mixing, check LUFS against the target first, then check whether true peak exceeds 0 dBTP.
+Playback normalization depends on service, device, user setting and album mode. Spotify Normal uses about −14 LUFS as a reference, not a universal delivery requirement; peak headroom can limit gain increases. Check integrated loudness and true-peak limits separately against the actual delivery specification, then listen.
 
-Related → [[glossary:daw]]
+Related → [[glossary:true-peak]]
 :::

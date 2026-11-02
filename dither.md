@@ -17,25 +17,26 @@ links:
   - "[[glossary:sample-rate]]"
 sources:
   - 抖动与噪声整形，参 Bob Katz, Mastering Audio 与通行母带教材
-updated: 2026-10-28
+  - https://prod.fabfilter.com/help/pro-l/using/dithering
+updated: 2026-11-03
 ---
 
 ::: zh
-**抖动（dither）** 是在降低位深之前加入极低电平的噪声，让量化误差不再与信号相关。把 24 位降到 16 位时，最低几个比特被舍去；若直接截断，弱音与混响尾巴会出现砂纸般的颗粒失真，dither 把它换成均匀的细噪。
+**抖动（dither）**是在量化为较低的整数位深前加入低电平噪声，使量化失真变为较均匀的噪声。它不恢复已经丢失的信息，也不保证听感一定改善。
 
-它不能恢复已丢失的细节，只是让损失听起来更自然，代价是极轻的噪声底。母带交付 16 位 CD 或某些有损编码前通常做一次；24 位工程内部反复加 dither 没有意义。噪声整形可以把噪声往人耳不敏感的高频推。
+常见用途是最终把高精度母带导出为16位PCM；从浮点转为24位整数时，也应根据交付位深与处理链判断。按目标位深设置，放在最终量化步骤，避免插件与导出器重复加抖动。噪声整形改变噪声的频谱分布。
 
-常见误解是 dither 能提升分辨率，或者多抖几次更保险。它只在最终降位深时加一次；在 24 位或浮点工程里加，只是增加噪声。
+AAC、MP3不采用固定的PCM位深，不能因“有损”就照搬16位抖动流程。先保留高质量母带，再按交付要求编码。
 
 相关 → [[glossary:bit-depth]]
 :::
 
 ::: en
-**Dither** is very low-level noise added before reducing bit depth, so quantization error no longer correlates with the signal. Going from 24-bit to 16-bit discards the lowest bits; truncating directly leaves gritty distortion on quiet passages and reverb tails, while dither turns it into even hiss.
+**Dither** is low-level noise added before quantization to a lower integer bit depth. It trades signal-dependent quantization distortion for a noise floor; it neither restores lost information nor guarantees an audible improvement.
 
-It cannot restore lost detail; it only makes the loss sound more natural, at the cost of a slightly higher noise floor. Mastering applies it once when delivering 16-bit CD audio or certain lossy encodes; repeating it in a 24-bit project makes no sense. Noise shaping pushes the noise toward less sensitive highs.
+A typical use is final export to 16-bit PCM. Float-to-24-bit export also requires a decision about the target and processing chain. Match the target bit depth and avoid duplicate dither in the plug-in and exporter. Noise shaping redistributes the noise spectrum.
 
-The usual mistake is to think dither adds resolution, or that several passes are safer. It belongs once, at the final bit-depth reduction; in a 24-bit or floating-point project it only adds noise.
+AAC and MP3 do not use a fixed PCM bit depth. Lossy encoding alone is not a reason to add 16-bit dither.
 
 Related → [[glossary:bit-depth]]
 :::
